@@ -1,0 +1,3421 @@
+[{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": false,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": false,
+    "subscriptionEligible": false,
+    "subscriptionTransactable": false,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": false,
+  "showSubscriptionModule": false,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 2.5,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "Great Value",
+  "brandUrl": "/c/brand/great-value",
+  "badges": {
+    "flags": [
+      {
+        "__typename": "BaseBadge",
+        "id": "L1600",
+        "text": "Best seller",
+        "key": "BESTSELLER",
+        "query": null,
+        "type": "LABEL",
+        "styleId": null
+      },
+      {
+        "__typename": "BaseBadge",
+        "id": "L1200",
+        "text": "Popular pick",
+        "key": "CUSTOMER_PICK",
+        "query": "skim milk",
+        "type": "LABEL",
+        "styleId": null
+      }
+    ],
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:46000:46001:46101:46211",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "78742352039",
+  "productTypeId": "241",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": "35203",
+  "buyNowEligible": false,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": null
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": null,
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/Great-Value-Skim-Fat-Free-Milk-Half-Gallon-64-fl-oz/10450120",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:5898313",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "Skim Milk",
+        "url": "/cp/skim-milk/5898313"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "58",
+  "fulfillmentTitle": "title_store_delivery_curbside_pickup",
+  "shortDescription": "<p>Great Value Fat Free Milk is a nutritious drink. Enjoy it alone, with cereal, in your morning oatmeal and more. This fat-free Great Value milk has been enhanced with vitamin A, palmitate and vitamin D3 to give you extra nutrients your body needs. This milk comes from cows not treated with any artificial growth hormones. According to the FDA, no significant difference has been shown between milk derived from rBST treated and non-rBST treated cows. This 0% fat milk is Grade A, pasteurized and homogenized. This bottle measures 0.5 gallon.  </p>",
+  "fulfillmentType": "STORE",
+  "fulfillmentBadge": "Today",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Pickup, today at Sacramento Supercenter",
+      "shippingText": "Pickup",
+      "fulfillmentText": "today",
+      "locationText": "Sacramento Supercenter",
+      "fulfillmentMethod": "PICKUP",
+      "addressEligibility": false,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    },
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Delivery from store",
+      "shippingText": "Delivery from store",
+      "fulfillmentText": null,
+      "locationText": null,
+      "fulfillmentMethod": "DELIVERY",
+      "addressEligibility": true,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": false,
+      "intent": true,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": null
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": 9999,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento Supercenter",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "productLocation": [
+        {
+          "displayValue": "A29"
+        }
+      ],
+      "storeName": null,
+      "checkStoreAvailability": false
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": 9999,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": {
+          "price": 7.95,
+          "priceString": null
+        },
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "4T89RLRXPFC4",
+  "primaryUsItemId": null,
+  "conditionType": "New",
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "909B2F6DFD1C48429CC0125733A79FD8",
+        "url": "https://i5.walmartimages.com/seo/Great-Value-Skim-Fat-Free-Milk-Half-Gallon-64-fl-oz_9a9ad328-1cdf-4ab4-a122-2d1e4778daf8_1.7e32224cb74d647301b75588f46e6f97.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "9A85E26301AA4DFCAB27DB2B11254031",
+        "url": "https://i5.walmartimages.com/asr/558e507b-4aa7-4299-9f41-e0634262c9cd_3.7335164b8a28d34c1de482e8af2a0bba.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "26C7C46460AE4AD7A41DDDA18A8387D4",
+        "url": "https://i5.walmartimages.com/asr/a3f808a7-4ffd-4866-b7e5-c60beb3f6adf_2.44c0cfd8b543405272a41cbbfc7dc4e1.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "43A2D6B0B6F44DB9B119ECC5BFDADE5E",
+        "url": "https://i5.walmartimages.com/asr/a2a0141f-b93b-41b2-a4b3-c0e53e8c1209_1.7aa03aa9652245a52af4567c924ce742.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "62487FE5207640BD93934B73045876EA",
+        "url": "https://i5.walmartimages.com/asr/6ab7c013-645d-4dd9-acb5-e93af522796f_1.46837d96bab4848c6f5d141def2c05ca.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "BDF081931F2F4B2C9AAB62672EFECF6A",
+        "url": "https://i5.walmartimages.com/asr/b7c42173-dc10-44d5-94cf-89977337eceb_1.372b1f9a9a241b642ccba8e13888691a.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "1DF45CA91C4C4064B47AA878D4A0FBB8",
+        "url": "https://i5.walmartimages.com/asr/bde82185-9bac-4b04-9663-d4535310d638_4.7bec46c44c35e78e6ba06fa7f842528b.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "966A9985C92041B3AB4BED18D30C5371",
+        "url": "https://i5.walmartimages.com/asr/6b73e40d-ba8f-4636-95ca-484e11726c7d_1.f16e34e22f8ea03acb077b44ee5bfaef.jpeg",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/Great-Value-Skim-Fat-Free-Milk-Half-Gallon-64-fl-oz_9a9ad328-1cdf-4ab4-a122-2d1e4778daf8_1.7e32224cb74d647301b75588f46e6f97.jpeg"
+  },
+  "location": {
+    "postalCode": "95829",
+    "stateOrProvinceCode": "CA",
+    "city": "Sacramento",
+    "storeIds": [
+      "3081"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "3081",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "Great Value Skim Fat Free Milk, Half Gallon, 64 fl oz",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 620,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "739C910AD6C24CE687BF49DED14F9871",
+  "offerType": "STORE_ONLY",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 1.66,
+      "priceString": "$1.66",
+      "variantPriceString": "$1.66",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$1.66"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.026,
+      "priceString": "2.6 ¢/fl oz",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": null,
+    "freeReturns": null,
+    "returnWindow": {
+      "value": null,
+      "unitType": "Day"
+    },
+    "returnPolicyText": null,
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": null
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "SAME_DAY",
+    "deliveryDate": null,
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Milks",
+  "pickupOption": {
+    "slaTier": "SAME_DAY",
+    "accessTypes": [
+      "PICKUP_CURBSIDE"
+    ],
+    "availabilityStatus": "AVAILABLE",
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "10450120",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "078742352039",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": [
+    {
+      "displayValue": "A29"
+    }
+  ],
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Keep refrigerated."
+      },
+      {
+        "name": "Safe Handling Instructions",
+        "value": "PERISHABLE KEEP REFRIGERATED"
+      }
+    ],
+    "indications": [
+      {
+        "name": "Skin Care Concern",
+        "value": "Vegans-NO,"
+      }
+    ],
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "FAT FREE MILK, VITAMIN A PALMITATE, VITAMIN D3 ADDED."
+      }
+    },
+    "longDescription": "<p><strong>Great Value Fat Free 0% Milk, 0.5 Gallon:</strong><br /> </p>  <ul>  <li>Fat-free milk, vitamin A palmitate, vitamin D3</li>  <li>No artificial growth hormones</li>  <li>Grade A, pasteurized, homogenized</li>  <li>0% milkfat</li>  <li>0.5-gallon bottle of Great Value milk</li> </ul>",
+    "shortDescription": "<p>Great Value Fat Free Milk is a nutritious drink. Enjoy it alone, with cereal, in your morning oatmeal and more. This fat-free Great Value milk has been enhanced with vitamin A, palmitate and vitamin D3 to give you extra nutrients your body needs. This milk comes from cows not treated with any artificial growth hormones. According to the FDA, no significant difference has been shown between milk derived from rBST treated and non-rBST treated cows. This 0% fat milk is Grade A, pasteurized and homogenized. This bottle measures 0.5 gallon. </p>",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Features",
+        "value": "Vitamin a And d, Homogenized, Grade a, Pasteurized, 0% milkfat"
+      },
+      {
+        "name": "Brand",
+        "value": "Great Value"
+      },
+      {
+        "name": "Container Type",
+        "value": "Jug"
+      },
+      {
+        "name": "Flavor",
+        "value": "Unflavor"
+      },
+      {
+        "name": "Food Allergen Statements",
+        "value": "Contains Milk"
+      },
+      {
+        "name": "Allergen-Free Statements",
+        "value": "Gluten-Free"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "4.07 x 4.07 x 9.91 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": null,
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "90",
+          "dvp": null,
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "0g",
+              "dvp": "0%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "0.0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Polyunsaturated Fat",
+                "amount": "0.0g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Monounsaturated Fat",
+                "amount": "0.0g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "<5.0mg",
+              "dvp": "2%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "130mg",
+              "dvp": "6%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "13g",
+              "dvp": "5%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "12g",
+                "dvp": null,
+                "childNutrients": [
+                  {
+                    "name": "Includes Added Sugars",
+                    "amount": "0g",
+                    "dvp": null,
+                    "childNutrients": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "8g",
+              "dvp": "16%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": "157.0mcg",
+            "dvp": "10%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin C",
+            "amount": null,
+            "dvp": "4%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": null,
+            "dvp": "25%",
+            "childNutrients": null
+          },
+          {
+            "name": "Potassium",
+            "amount": "410mg",
+            "dvp": "10%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin D",
+            "amount": null,
+            "dvp": "10%",
+            "childNutrients": null
+          },
+          {
+            "name": "Folic Acid",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "8",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "1 cup (240mL)",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": false
+  },
+  "reviews": {
+    "averageOverallRating": 2.4952,
+    "aspects": [
+      {
+        "id": "56",
+        "name": "Taste",
+        "score": 90,
+        "snippetCount": 23
+      },
+      {
+        "id": "48",
+        "name": "Price",
+        "score": 93,
+        "snippetCount": 17
+      },
+      {
+        "id": "155",
+        "name": "Quality",
+        "score": 100,
+        "snippetCount": 5
+      },
+      {
+        "id": "1128",
+        "name": "Smell",
+        "score": 100,
+        "snippetCount": 5
+      }
+    ],
+    "lookupId": "4T89RLRXPFC4",
+    "customerReviews": [
+      {
+        "reviewId": "305685500",
+        "rating": 1,
+        "reviewSubmissionTime": "5/8/2023",
+        "reviewText": "The milk was expired already when I picked it up on the 5th . The expiration was  05/04/23. I took a big gulp of not knowing it was bad and had to spit it out. Was disgusting !",
+        "reviewTitle": "Expired milk!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "DawnKey",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "300084324",
+        "rating": 1,
+        "reviewSubmissionTime": "2/8/2023",
+        "reviewText": "The best by date is 01/19/23 for a product that was delivered on February 5! That is 17 days old. The milk should have been pulled from the shelves long before it was picked for my delivery order.",
+        "reviewTitle": "Expired Product",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Cryan",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "283056137",
+        "rating": 1,
+        "reviewSubmissionTime": "7/22/2022",
+        "reviewText": "I ordered 2 half gallons and laid them down on their side due to lack of space in my refrigerator. When returning to to my refrigerator to get something only ro find milk puddled on my shelf.  Both containers of milk were leaking. i've saved then as proof of leakage if you need to see them",
+        "reviewTitle": "I'd like to be reimbursed for for these 2 items.",
+        "negativeFeedback": 0,
+        "positiveFeedback": 2,
+        "userNickname": "VERNA",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "309411690",
+        "rating": 1,
+        "reviewSubmissionTime": "6/25/2023",
+        "reviewText": "Half my order was expired!",
+        "reviewTitle": "Expired",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Leanne",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "309382207",
+        "rating": 1,
+        "reviewSubmissionTime": "6/25/2023",
+        "reviewText": "Milk expires in 2 days and is sweating really bad",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Rachel",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "301073754",
+        "rating": 1,
+        "reviewSubmissionTime": "2/23/2023",
+        "reviewText": "I did an online order 2/22/23 and I did the curbside pick up. The milk had an expiration date of Feb. 19th.  It's Feb. 22nd.",
+        "reviewTitle": "disappointed",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "audrey",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "294787285",
+        "rating": 1,
+        "reviewSubmissionTime": "12/8/2022",
+        "reviewText": "Milk was delivered on Dec 2, 2022 with an expiration date of November 22, 2022. Milk was soured or spoiled. That is 10 days past the sell by date. Why was this milk still on Walmart's shelves and being delivered?",
+        "reviewTitle": "Milk spoiled delivered 10 days past expiration",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Teresa",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "289131405",
+        "rating": 1,
+        "reviewSubmissionTime": "10/24/2022",
+        "reviewText": "Ordered for delivery 10/21 mid to late afternoon.  Best if used by 10/24/22. No way I could consume a 1/2 gallon by that date. Deliveries should ALWAYS be checked for expiration and best I’d used by dates.  A little common sense comes in handy.",
+        "reviewTitle": "Disappointed",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Beverly",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "289876609",
+        "rating": 1,
+        "reviewSubmissionTime": "10/30/2022",
+        "reviewText": "This milk was sold to me on Oct  26, the “best if used by” date.  It tastes like it has begun to spoil already.  I just dumped the whole carton down the sink.  Second time this has happened.",
+        "reviewTitle": "Spoiled",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Gail",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "305375384",
+        "rating": 1,
+        "reviewSubmissionTime": "5/1/2023",
+        "reviewText": "The item was expired on 4/27/2023",
+        "reviewTitle": "Expired item",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Bryan",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 174,
+    "ratingValueFourCount": 32,
+    "ratingValueOneCount": 330,
+    "ratingValueThreeCount": 51,
+    "ratingValueTwoCount": 33,
+    "roundedAverageOverallRating": 2.5,
+    "topNegativeReview": {
+      "reviewId": "305685500",
+      "rating": 1,
+      "reviewSubmissionTime": "5/8/2023",
+      "userNickname": "DawnKey",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "The milk was expired already when I picked it up on the 5th . The expiration was  05/04/23. I took a big gulp of not knowing it was bad and had to spit it out. Was disgusting !",
+      "reviewTitle": "Expired milk!",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "clientResponses": null,
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "media": null
+    },
+    "topPositiveReview": {
+      "reviewId": "305571692",
+      "rating": 4,
+      "reviewSubmissionTime": "5/5/2023",
+      "userNickname": "Betty",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "Shoppers should check  best by dates before bagging especially items such as milk etc. my milk's best by date is 5/04/23 and today is 5/05/23 and likely to be discarded before being completely  used. How do I remind them to check?",
+      "reviewTitle": "Check best by dates",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "clientResponses": null,
+      "media": null
+    },
+    "topProductMedia": null,
+    "totalMediaCount": 47,
+    "totalReviewCount": 620
+  }
+},
+{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": false,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": false,
+    "subscriptionEligible": false,
+    "subscriptionTransactable": false,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": false,
+  "showSubscriptionModule": false,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 2.7,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "Great Value",
+  "brandUrl": "/c/brand/great-value",
+  "badges": {
+    "flags": [
+      {
+        "__typename": "BaseBadge",
+        "id": "L1600",
+        "text": "Best seller",
+        "key": "BESTSELLER",
+        "query": null,
+        "type": "LABEL",
+        "styleId": null
+      },
+      {
+        "__typename": "BaseBadge",
+        "id": "L1200",
+        "text": "Popular pick",
+        "key": "CUSTOMER_PICK",
+        "query": "milk",
+        "type": "LABEL",
+        "styleId": null
+      }
+    ],
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:46000:46001:46101:46211",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "78742351865",
+  "productTypeId": "241",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": "DEANSS000000306",
+  "buyNowEligible": false,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": null
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": null,
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/Great-Value-Whole-Vitamin-D-Milk-Gallon-128-fl-oz/10450114",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:6541475:6877499",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "Dairy Milk",
+        "url": "/cp/dairy-milk/6541475"
+      },
+      {
+        "name": "Whole Milk",
+        "url": "/cp/whole-milk/6877499"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "58",
+  "fulfillmentTitle": "title_store_delivery_curbside_pickup",
+  "shortDescription": "Enjoy the wholesome goodness of Great Value Whole Milk at any time. This Grade A quality milk is pasteurized and delivers fresh from the farm taste. This kitchen staple is great for using in cereal, to bake desserts and more. This gallon of milk is also wonderful for milkshakes, smoothies, chocolate milk and more. Enjoy a delicious classic and serve a cold glass of this milk with soft, chocolate chip cookies for dipping. It offers an abundance of nutritional benefits as it is a rich source of protein, calcium, potassium and vitamin D. Our farms have pledged to not treat any cows with any artificial growth hormones.Great Value products provide families with affordable, high quality grocery and household consumable options. With our wide range of product categories spanning grocery and household consumables, we offer you a variety of products for your family's needs. Our products are conveniently available online and in Walmart stores nationwide, allowing you to stock up and save money at the same time.",
+  "fulfillmentType": "STORE",
+  "fulfillmentBadge": "Today",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Pickup, today at Dallas Supercenter",
+      "shippingText": "Pickup",
+      "fulfillmentText": "today",
+      "locationText": "Dallas Supercenter",
+      "fulfillmentMethod": "PICKUP",
+      "addressEligibility": false,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    },
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Delivery from store",
+      "shippingText": "Delivery from store",
+      "fulfillmentText": null,
+      "locationText": null,
+      "fulfillmentMethod": "DELIVERY",
+      "addressEligibility": true,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": false,
+      "intent": true,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Dallas, 75270",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": null
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": true,
+      "intent": false,
+      "availableQuantity": 1102,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Dallas Supercenter",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "productLocation": [
+        {
+          "displayValue": "A32"
+        },
+        {
+          "displayValue": "A32"
+        },
+        {
+          "displayValue": "A32"
+        },
+        {
+          "displayValue": "A32"
+        }
+      ],
+      "storeName": null,
+      "checkStoreAvailability": false
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": 1102,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": {
+          "price": 7.95,
+          "priceString": "$7.95+"
+        },
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Dallas, 75270",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "3H34WSS08ANB",
+  "primaryUsItemId": null,
+  "conditionType": "New",
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "6063F584BF5A4CE184084EF530BC4529",
+        "url": "https://i5.walmartimages.com/seo/Great-Value-Whole-Vitamin-D-Milk-Gallon-128-fl-oz_83f533c3-3234-4bea-80bf-a0f9a43cd279_2.9b223f40bab27c513ba64f9f0e3fc2d9.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "DA9570B243304FE78B85553E8D2A0AD4",
+        "url": "https://i5.walmartimages.com/asr/ce72d148-a133-4285-8486-b40870886529_2.97e1cc275b814d5057c93a9171202d7e.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "6683BD9D5207424F9F62BF87419F993F",
+        "url": "https://i5.walmartimages.com/asr/8ab807a1-451f-4e76-bd45-d2f04cd0dec3.a58784bd7e1de7d7abad14df87d38045.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "D0F3AF69D8D24A67A6C8C378BC7A4809",
+        "url": "https://i5.walmartimages.com/asr/ce3c62eb-01c8-4ec5-8c2f-c198dfe54827_1.265b1a27a4c3bfb45c6d4963148d3da0.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "560F77C961004A74969BF49C249428FD",
+        "url": "https://i5.walmartimages.com/asr/5e3bb1b1-e7cc-4d75-888f-1546cf41f16a_2.75dc62a142340d9604d6bea79fd99762.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "D95B5343D4504CF7B0E6C08CF541351E",
+        "url": "https://i5.walmartimages.com/asr/3592de4c-2d2d-4285-afbf-f0508775bd58_2.bb23225176016b4d5ce96c4efed80382.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "BD2E8FC66CB04A3FB08798192298A846",
+        "url": "https://i5.walmartimages.com/asr/ef933147-0a26-4aad-b6cb-74ad2118a5b3_1.e12aa0a2e5ac1e957e1eba60aa86b1c6.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "0438DA8EEC7E4A6A91A7B27803992E48",
+        "url": "https://i5.walmartimages.com/asr/b7a5e315-ed51-4372-afc9-df2ceb798664_1.222032e8ed3fc1a0ea6fef670abe052c.jpeg",
+        "zoomable": false
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/Great-Value-Whole-Vitamin-D-Milk-Gallon-128-fl-oz_83f533c3-3234-4bea-80bf-a0f9a43cd279_2.9b223f40bab27c513ba64f9f0e3fc2d9.jpeg"
+  },
+  "location": {
+    "postalCode": "75270",
+    "stateOrProvinceCode": "TX",
+    "city": "Dallas",
+    "storeIds": [
+      "5147"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "5147",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "Great Value Whole Vitamin D Milk, Gallon, 128 fl oz",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 4243,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "E262E6B27BDE4ABA86CA2C1DF82ADEF4",
+  "offerType": "STORE_ONLY",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 2.72,
+      "priceString": "$2.72",
+      "variantPriceString": "$2.72",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$2.72"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.021,
+      "priceString": "2.1 ¢/fl oz",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": null,
+    "freeReturns": null,
+    "returnWindow": {
+      "value": null,
+      "unitType": "Day"
+    },
+    "returnPolicyText": null,
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": null
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "LATER",
+    "deliveryDate": null,
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Milks",
+  "pickupOption": {
+    "slaTier": "SAME_DAY",
+    "accessTypes": [
+      "PICKUP_CURBSIDE"
+    ],
+    "availabilityStatus": "AVAILABLE",
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "10450114",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "078742351865",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": [
+    {
+      "displayValue": "A32"
+    },
+    {
+      "displayValue": "A32"
+    },
+    {
+      "displayValue": "A32"
+    },
+    {
+      "displayValue": "A32"
+    }
+  ],
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Keep refrigerated."
+      },
+      {
+        "name": "Safe Handling Instructions",
+        "value": "PERISHABLE KEEP REFRIGERATED"
+      }
+    ],
+    "indications": [
+      {
+        "name": "Skin Care Concern",
+        "value": "Vegans-NO,"
+      }
+    ],
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "Milk, Vitamin D3."
+      }
+    },
+    "longDescription": "<p><strong>Great Value Whole Milk, 1 gal:</strong></p> <ul>  <li>Added vitamin D</li>  <li>3.25% milkfat</li>  <li>Grade A</li>  <li>Pasteurized</li>  <li>Homogenized</li>  <li>Excellent source of protein and calcium</li> </ul>",
+    "shortDescription": "Enjoy the wholesome goodness of Great Value Whole Milk at any time. This Grade A quality milk is pasteurized and delivers fresh from the farm taste. This kitchen staple is great for using in cereal, to bake desserts and more. This gallon of milk is also wonderful for milkshakes, smoothies, chocolate milk and more. Enjoy a delicious classic and serve a cold glass of this milk with soft, chocolate chip cookies for dipping. It offers an abundance of nutritional benefits as it is a rich source of protein, calcium, potassium and vitamin D. Our farms have pledged to not treat any cows with any artificial growth hormones.Great Value products provide families with affordable, high quality grocery and household consumable options. With our wide range of product categories spanning grocery and household consumables, we offer you a variety of products for your family's needs. Our products are conveniently available online and in Walmart stores nationwide, allowing you to stock up and save money at the same time.",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Features",
+        "value": "Vitamin d, Homogenized, Grade a, Pasteurized"
+      },
+      {
+        "name": "Brand",
+        "value": "Great Value"
+      },
+      {
+        "name": "Container Type",
+        "value": "Jug"
+      },
+      {
+        "name": "Flavor",
+        "value": "Unflavor"
+      },
+      {
+        "name": "Food Allergen Statements",
+        "value": "Contains Milk"
+      },
+      {
+        "name": "Allergen-Free Statements",
+        "value": "Gluten-Free"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "6.00 x 6.00 x 10.00 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": null,
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "150",
+          "dvp": null,
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "8g",
+              "dvp": "10%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "4.6g",
+                "dvp": "23%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Polyunsaturated Fat",
+                "amount": "0.0g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Monounsaturated Fat",
+                "amount": "2.5g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "25.0mg",
+              "dvp": "11%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "85mg",
+              "dvp": "4%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "12g",
+              "dvp": "4%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "12g",
+                "dvp": null,
+                "childNutrients": [
+                  {
+                    "name": "Includes Added Sugars",
+                    "amount": "0g",
+                    "dvp": null,
+                    "childNutrients": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "8g",
+              "dvp": "16%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": "80.0mcg",
+            "dvp": "8%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin C",
+            "amount": null,
+            "dvp": "4%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": null,
+            "dvp": "30%",
+            "childNutrients": null
+          },
+          {
+            "name": "Potassium",
+            "amount": "380mg",
+            "dvp": "11%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin D",
+            "amount": null,
+            "dvp": "25%",
+            "childNutrients": null
+          },
+          {
+            "name": "Folic Acid",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "16",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "1 cup (240mL)",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": false
+  },
+  "reviews": {
+    "averageOverallRating": 2.7414,
+    "aspects": [
+      {
+        "id": "56",
+        "name": "Taste",
+        "score": 83,
+        "snippetCount": 148
+      },
+      {
+        "id": "48",
+        "name": "Price",
+        "score": 94,
+        "snippetCount": 137
+      },
+      {
+        "id": "155",
+        "name": "Quality",
+        "score": 74,
+        "snippetCount": 42
+      },
+      {
+        "id": "284",
+        "name": "Value",
+        "score": 91,
+        "snippetCount": 32
+      },
+      {
+        "id": "36062",
+        "name": "Gallon",
+        "score": 6,
+        "snippetCount": 17
+      },
+      {
+        "id": "1128",
+        "name": "Smell",
+        "score": 0,
+        "snippetCount": 13
+      },
+      {
+        "id": "2152",
+        "name": "Container",
+        "score": 22,
+        "snippetCount": 9
+      },
+      {
+        "id": "1311",
+        "name": "Seal",
+        "score": 14,
+        "snippetCount": 7
+      },
+      {
+        "id": "12145",
+        "name": "Jug",
+        "score": 0,
+        "snippetCount": 7
+      },
+      {
+        "id": "21113",
+        "name": "Driver",
+        "score": 50,
+        "snippetCount": 6
+      },
+      {
+        "id": "1675",
+        "name": "Bag",
+        "score": 0,
+        "snippetCount": 5
+      },
+      {
+        "id": "114150",
+        "name": "Shelf Life",
+        "score": 100,
+        "snippetCount": 3
+      },
+      {
+        "id": "15538",
+        "name": "Cookies",
+        "score": 100,
+        "snippetCount": 3
+      },
+      {
+        "id": "26",
+        "name": "Experience",
+        "score": 67,
+        "snippetCount": 3
+      },
+      {
+        "id": "15917",
+        "name": "Workers",
+        "score": 33,
+        "snippetCount": 3
+      },
+      {
+        "id": "1104",
+        "name": "Store",
+        "score": 33,
+        "snippetCount": 3
+      },
+      {
+        "id": "123",
+        "name": "Control",
+        "score": 0,
+        "snippetCount": 3
+      }
+    ],
+    "lookupId": "3H34WSS08ANB",
+    "customerReviews": [
+      {
+        "reviewId": "292593328",
+        "rating": 5,
+        "reviewSubmissionTime": "11/21/2022",
+        "reviewText": "This milk really tastes good. My children loves it. But I'm feel bad because the walmart associate gave me an expired milk and I realized at home🤦🏻‍♀️.",
+        "reviewTitle": "The milk really taste good.",
+        "negativeFeedback": 2,
+        "positiveFeedback": 11,
+        "userNickname": "Good",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "298550752",
+        "rating": 3,
+        "reviewSubmissionTime": "1/14/2023",
+        "reviewText": "the date of my purchase was January 12th and so was the \"best used by date\" on the gallon of milk I was sold. Definitely expected at least a few days on the label. it was sour the next morning when I got a second glass.",
+        "reviewTitle": "Sour Milk",
+        "negativeFeedback": 2,
+        "positiveFeedback": 9,
+        "userNickname": "alison",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "288294278",
+        "rating": 3,
+        "reviewSubmissionTime": "10/15/2022",
+        "reviewText": "my milk Gallon is broken i have a bit of milk in my hallway ..... i put away my groceries than did this with out leaking due to putting it on its side no i will not put it in on the side in my fridge thanx",
+        "reviewTitle": "please help",
+        "negativeFeedback": 1,
+        "positiveFeedback": 12,
+        "userNickname": "Nikki",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "296504784",
+        "rating": 2,
+        "reviewSubmissionTime": "12/24/2022",
+        "reviewText": "I received a gallon of whole milk that is out of date the milk went out of date December 22nd, I ordered for curbside pickup and was given this out-of-date gallon I am confused as to why it was still on Walmart shelves in the first place and now I have paid for an out-of-date milk. and also initially pulling up to curbside pickup there was nowhere to park and there was ultimate confusion cars lined up and I had to make a second trip back to Walmart as because when I was home unpacking groceries I realized that day failed to give me all of my merchandise so I had to waste gas get back out in the cold and drive back to Walmart and that is when I received an out-of-date milk.",
+        "reviewTitle": "spoiled milk.",
+        "negativeFeedback": 2,
+        "positiveFeedback": 9,
+        "userNickname": "Veronica",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "285552201",
+        "rating": 2,
+        "reviewSubmissionTime": "9/4/2022",
+        "reviewText": "9/20/22 sell by date items are not full of milk, they look like leaking as you see attached image. we got almost every item(13 out of 15) on 9/20/22 sell by date (right side). \nWe got 2 of 9/18/22 sell by date items are good (left side).",
+        "reviewTitle": "Damaged Item or Leaking item.",
+        "negativeFeedback": 0,
+        "positiveFeedback": 14,
+        "userNickname": "yongsu",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "312095946",
+        "rating": 2,
+        "reviewSubmissionTime": "7/23/2023",
+        "reviewText": "Always expires way before the best buy date. This recent gallon was the worst. Best buy date claims July 30th. I just opened it this mornind and the milk is rancid and curdled.",
+        "reviewTitle": "Bad Quality",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Melanie",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "296237325",
+        "rating": 1,
+        "reviewSubmissionTime": "12/21/2022",
+        "reviewText": "I had an order two days ago for pick up and received milk that was 15 DAYS EXPIRED!!. Porterville Walmart needs to do better and get better employees that do their job correctly. This is absolutely disgusting!!!!",
+        "reviewTitle": null,
+        "negativeFeedback": 2,
+        "positiveFeedback": 6,
+        "userNickname": "Mykayla",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "287027906",
+        "rating": 1,
+        "reviewSubmissionTime": "9/26/2022",
+        "reviewText": "Todays date is 9/26/2022 The milk is curdling long before the milk experies, I am starting to wonder what we're buying I just went to open the second gallon just now and it  was thick almost like a thin pudding It expires October 6th 2022,,, This is happening way to many times... I am not buying Walmart milk any more.",
+        "reviewTitle": "BAD MILK.",
+        "negativeFeedback": 2,
+        "positiveFeedback": 24,
+        "userNickname": "lynn",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "287049457",
+        "rating": 1,
+        "reviewSubmissionTime": "9/26/2022",
+        "reviewText": "Third time in a row I received busted milk jugs with about a cup of milk already leaked out. I'm not sure if the delivery drivers slam them down too hard on my doorstep or if they are damaged in transport or at the store, but it's very annoying to pay for a gallon of milk with a cup or two already missing and a jug that is leaking everywhere.",
+        "reviewTitle": "busted milk jugs",
+        "negativeFeedback": 4,
+        "positiveFeedback": 7,
+        "userNickname": "Jennie",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "294289613",
+        "rating": 1,
+        "reviewSubmissionTime": "12/5/2022",
+        "reviewText": "It came as if it got hit, looks like poorly handled and I don't know what's the thing on the carton...it's not good, check the photo",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 3,
+        "userNickname": "pradeep",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 1546,
+    "ratingValueFourCount": 205,
+    "ratingValueOneCount": 2107,
+    "ratingValueThreeCount": 207,
+    "ratingValueTwoCount": 181,
+    "roundedAverageOverallRating": 2.7,
+    "topNegativeReview": {
+      "reviewId": "296504784",
+      "rating": 2,
+      "reviewSubmissionTime": "12/24/2022",
+      "userNickname": "Veronica",
+      "negativeFeedback": 2,
+      "positiveFeedback": 9,
+      "reviewText": "I received a gallon of whole milk that is out of date the milk went out of date December 22nd, I ordered for curbside pickup and was given this out-of-date gallon I am confused as to why it was still on Walmart shelves in the first place and now I have paid for an out-of-date milk. and also initially pulling up to curbside pickup there was nowhere to park and there was ultimate confusion cars lined up and I had to make a second trip back to Walmart as because when I was home unpacking groceries I realized that day failed to give me all of my merchandise so I had to waste gas get back out in the cold and drive back to Walmart and that is when I received an out-of-date milk.",
+      "reviewTitle": "spoiled milk.",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "clientResponses": [],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "media": null
+    },
+    "topPositiveReview": {
+      "reviewId": "292593328",
+      "rating": 5,
+      "reviewSubmissionTime": "11/21/2022",
+      "userNickname": "Good",
+      "negativeFeedback": 2,
+      "positiveFeedback": 11,
+      "reviewText": "This milk really tastes good. My children loves it. But I'm feel bad because the walmart associate gave me an expired milk and I realized at home🤦🏻‍♀️.",
+      "reviewTitle": "The milk really taste good.",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "clientResponses": [],
+      "media": null
+    },
+    "topProductMedia": null,
+    "totalMediaCount": 258,
+    "totalReviewCount": 4246
+  }
+},
+{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": false,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": true,
+    "subscriptionEligible": true,
+    "subscriptionTransactable": false,
+    "subscriptionSubmessage": "SHIPPING_NOT_AVAILABLE"
+  },
+  "subscriptionEligible": true,
+  "showSubscriptionModule": true,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 4.3,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "Parmalat",
+  "brandUrl": "/c/brand/parmalat",
+  "badges": {
+    "flags": [
+      {
+        "__typename": "BaseBadge",
+        "id": "L1600",
+        "text": "Best seller",
+        "key": "BESTSELLER",
+        "query": null,
+        "type": "LABEL",
+        "styleId": null
+      }
+    ],
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:46000:46001:46101:46211",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "9664012",
+  "productTypeId": "241",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": null,
+  "buyNowEligible": false,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": "Adult"
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": null,
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/Parmalat-Whole-Milk-32-fl-oz/151857624",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:3427520",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "Boxed Milk",
+        "url": "/cp/boxed-milk/3427520"
+      }
+    ]
+  },
+  "classType": "VARIANT",
+  "classId": "1",
+  "fulfillmentTitle": "title_store_delivery_curbside_pickup",
+  "shortDescription": "Did You Know..? Parmalat milk doesn't need to be refrigerated until it's opened, so you can keep one in the pantry until opening. We heat our milk at an ultra high temperature (UHT) to keep it fresh longer. Tastes just like real milk, because it is real milk! Our Promise is 100% Real Milk. Enjoy the fresh taste of high quality grade A cow milk, with no preservatives. A Nutritious Glass of Milk. Our milk is packed full of good things such as vitamins A and D, protein, and calcium. Stays Fresh Longer! Here at Parmalat, we heat our milk at higher temperatures than regular pasteurized milk. This way, our milk stays fresh longer, and doesn't need to be refrigerated until opened. Bringing you quality milk since 1961. Parmalat Whole Milk, 32 fl oz is a Shelf-Stable/ Ambient product that is sold in TetraPak packaging.",
+  "fulfillmentType": "STORE",
+  "fulfillmentBadge": "Today",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Pickup, today at Sacramento Supercenter",
+      "shippingText": "Pickup",
+      "fulfillmentText": "today",
+      "locationText": "Sacramento Supercenter",
+      "fulfillmentMethod": "PICKUP",
+      "addressEligibility": false,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    },
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Delivery from store",
+      "shippingText": "Delivery from store",
+      "fulfillmentText": null,
+      "locationText": null,
+      "fulfillmentMethod": "DELIVERY",
+      "addressEligibility": true,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": false,
+      "intent": true,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "SHIPPING_NOT_AVAILABLE",
+      "inventoryStatus": null,
+      "restricted": null
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": true,
+      "intent": false,
+      "availableQuantity": 9999,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento Supercenter",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "SHIPPING_NOT_AVAILABLE",
+      "inventoryStatus": null,
+      "productLocation": [],
+      "storeName": null,
+      "checkStoreAvailability": false
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": 9999,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": {
+          "price": 7.95,
+          "priceString": "$7.95+"
+        },
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "SHIPPING_NOT_AVAILABLE"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "30TFAHVII7GJ",
+  "primaryUsItemId": "151857624",
+  "conditionType": "New",
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "09FEC5FB7CA54398B5D081675D024D67",
+        "url": "https://i5.walmartimages.com/seo/Parmalat-Whole-Milk-32-fl-oz_8991fc2c-00f6-4427-bf20-4a4e863cb69a.925c9ff99e858f3573dcdb673fabd0c8.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "B135A568D3BE40029EF49ADA5259DC65",
+        "url": "https://i5.walmartimages.com/asr/b7d3f1d0-881d-4201-9528-c6d83e33a9de.db7c35e7c5b330831824c7958aa2f138.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "789CF42C498F4774A558544501340E0E",
+        "url": "https://i5.walmartimages.com/asr/edc6c811-5f9f-4bca-b380-fa06226eb5bc.bef139bbcb57025c93ba5eea4db65cd4.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "5461BFCD3CEC4FD4844D5DB0CC2B4998",
+        "url": "https://i5.walmartimages.com/asr/662a6ccc-6746-4d41-92e9-7c6f39382188.9feb062be8d687e1c14800fe3a8a46f6.png",
+        "zoomable": true
+      },
+      {
+        "id": "E5848459BA564C5FBFD842FF71E62383",
+        "url": "https://i5.walmartimages.com/asr/3261594e-a143-40b0-8c20-895a5dc2f308.593a864d9aa4344a23e4473ddbfdd84f.png",
+        "zoomable": true
+      },
+      {
+        "id": "4B8B75D179C145BC8CCAD71FE72B3909",
+        "url": "https://i5.walmartimages.com/asr/311c8fe3-b7a1-44b0-aaf6-c1b96792bf5d.66d95cfc527da96962bff82e1fa293b8.png",
+        "zoomable": true
+      },
+      {
+        "id": "734A9493DDB34F9F8A6BBE3D1096415D",
+        "url": "https://i5.walmartimages.com/asr/95c787a4-eda9-4393-99be-711e4d8be740.9b7bbd2d0f0665281972371bc2755ef0.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "D8AA34458CBF4B0E8E830C4BE1E8D4B8",
+        "url": "https://i5.walmartimages.com/asr/6df02c6c-720a-4553-bcdf-847ab4f61dc3.babe1f8a4bd67d60c9721bd460368358.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "DC29E7EE73924ABA85DFF5A136A642B0",
+        "url": "https://i5.walmartimages.com/asr/584d3644-2399-4cb0-b48f-809d2868a158.8376e721310ce61c76dac39b370f30da.jpeg",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/Parmalat-Whole-Milk-32-fl-oz_8991fc2c-00f6-4427-bf20-4a4e863cb69a.925c9ff99e858f3573dcdb673fabd0c8.jpeg"
+  },
+  "location": {
+    "postalCode": "95829",
+    "stateOrProvinceCode": "CA",
+    "city": "Sacramento",
+    "storeIds": [
+      "3081"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "3081",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "Parmalat Whole Milk, 32 fl oz",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 235,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "C95F9FC691BD4FE9884C777AFE2F2A23",
+  "offerType": "ONLINE_AND_STORE",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 3.13,
+      "priceString": "$3.13",
+      "variantPriceString": "$3.13",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$3.13"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.098,
+      "priceString": "9.8 ¢/fl oz",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": true
+    },
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": null,
+    "freeReturns": null,
+    "returnWindow": {
+      "value": null,
+      "unitType": "Day"
+    },
+    "returnPolicyText": null,
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": null
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "SAME_DAY",
+    "deliveryDate": null,
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Milks",
+  "pickupOption": {
+    "slaTier": "SAME_DAY",
+    "accessTypes": [
+      "PICKUP_INSTORE",
+      "PICKUP_CURBSIDE"
+    ],
+    "availabilityStatus": "AVAILABLE",
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "151857624",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [
+    {
+      "id": "multipack_quantity",
+      "categoryTypeAllValues": "TRANSACTIONAL_TILE",
+      "isFitPredictable": false,
+      "isSizeChartApplicable": false,
+      "name": "Pack Size",
+      "type": "DROPDOWN",
+      "variantList": [
+        {
+          "availabilityStatus": "AVAILABLE",
+          "id": "multipack_quantity-1",
+          "images": null,
+          "name": "Single",
+          "products": [
+            "30TFAHVII7GJ"
+          ],
+          "swatchImageUrl": null,
+          "selected": true
+        },
+        {
+          "availabilityStatus": "AVAILABLE",
+          "id": "multipack_quantity-4",
+          "images": null,
+          "name": "4 Pack",
+          "products": [
+            "32PB6YRUWM5T"
+          ],
+          "swatchImageUrl": null,
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "857065007013",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": null,
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [
+    "multipack_quantity-1"
+  ],
+  "variantProductIdMap": {
+    "multipack_quantity-1": "30TFAHVII7GJ",
+    "multipack_quantity-4": "32PB6YRUWM5T"
+  },
+  "imageMap": {
+    "09FEC5FB7CA54398B5D081675D024D67": {
+      "id": "09FEC5FB7CA54398B5D081675D024D67",
+      "url": "https://i5.walmartimages.com/asr/8991fc2c-00f6-4427-bf20-4a4e863cb69a.925c9ff99e858f3573dcdb673fabd0c8.jpeg",
+      "zoomable": true
+    },
+    "B135A568D3BE40029EF49ADA5259DC65": {
+      "id": "B135A568D3BE40029EF49ADA5259DC65",
+      "url": "https://i5.walmartimages.com/asr/b7d3f1d0-881d-4201-9528-c6d83e33a9de.db7c35e7c5b330831824c7958aa2f138.jpeg",
+      "zoomable": true
+    },
+    "789CF42C498F4774A558544501340E0E": {
+      "id": "789CF42C498F4774A558544501340E0E",
+      "url": "https://i5.walmartimages.com/asr/edc6c811-5f9f-4bca-b380-fa06226eb5bc.bef139bbcb57025c93ba5eea4db65cd4.jpeg",
+      "zoomable": true
+    },
+    "5461BFCD3CEC4FD4844D5DB0CC2B4998": {
+      "id": "5461BFCD3CEC4FD4844D5DB0CC2B4998",
+      "url": "https://i5.walmartimages.com/asr/662a6ccc-6746-4d41-92e9-7c6f39382188.9feb062be8d687e1c14800fe3a8a46f6.png",
+      "zoomable": true
+    },
+    "E5848459BA564C5FBFD842FF71E62383": {
+      "id": "E5848459BA564C5FBFD842FF71E62383",
+      "url": "https://i5.walmartimages.com/asr/3261594e-a143-40b0-8c20-895a5dc2f308.593a864d9aa4344a23e4473ddbfdd84f.png",
+      "zoomable": true
+    },
+    "4B8B75D179C145BC8CCAD71FE72B3909": {
+      "id": "4B8B75D179C145BC8CCAD71FE72B3909",
+      "url": "https://i5.walmartimages.com/asr/311c8fe3-b7a1-44b0-aaf6-c1b96792bf5d.66d95cfc527da96962bff82e1fa293b8.png",
+      "zoomable": true
+    },
+    "734A9493DDB34F9F8A6BBE3D1096415D": {
+      "id": "734A9493DDB34F9F8A6BBE3D1096415D",
+      "url": "https://i5.walmartimages.com/asr/95c787a4-eda9-4393-99be-711e4d8be740.9b7bbd2d0f0665281972371bc2755ef0.jpeg",
+      "zoomable": true
+    },
+    "D8AA34458CBF4B0E8E830C4BE1E8D4B8": {
+      "id": "D8AA34458CBF4B0E8E830C4BE1E8D4B8",
+      "url": "https://i5.walmartimages.com/asr/6df02c6c-720a-4553-bcdf-847ab4f61dc3.babe1f8a4bd67d60c9721bd460368358.jpeg",
+      "zoomable": true
+    },
+    "DC29E7EE73924ABA85DFF5A136A642B0": {
+      "id": "DC29E7EE73924ABA85DFF5A136A642B0",
+      "url": "https://i5.walmartimages.com/asr/584d3644-2399-4cb0-b48f-809d2868a158.8376e721310ce61c76dac39b370f30da.jpeg",
+      "zoomable": true
+    },
+    "077881E183CE45E3A64D95877FC5D49E": {
+      "id": "077881E183CE45E3A64D95877FC5D49E",
+      "url": "https://i5.walmartimages.com/seo/Parmalat-Whole-Milk-32-fl-oz-4-pack_080a44a2-9a39-44b4-80c5-7514e7805a4a.9dfa382bdf21f127e85126dc445451cf.jpeg",
+      "zoomable": true
+    }
+  },
+  "variantsMap": {
+    "30TFAHVII7GJ": {
+      "availabilityStatus": "IN_STOCK",
+      "fulfillmentBadge": "Today",
+      "id": "30TFAHVII7GJ",
+      "variants": [
+        "multipack_quantity-1"
+      ],
+      "buyBoxSuppression": false,
+      "imageInfo": {
+        "allImages": [
+          {
+            "id": "09FEC5FB7CA54398B5D081675D024D67",
+            "url": "https://i5.walmartimages.com/seo/Parmalat-Whole-Milk-32-fl-oz_8991fc2c-00f6-4427-bf20-4a4e863cb69a.925c9ff99e858f3573dcdb673fabd0c8.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "B135A568D3BE40029EF49ADA5259DC65",
+            "url": "https://i5.walmartimages.com/asr/b7d3f1d0-881d-4201-9528-c6d83e33a9de.db7c35e7c5b330831824c7958aa2f138.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "789CF42C498F4774A558544501340E0E",
+            "url": "https://i5.walmartimages.com/asr/edc6c811-5f9f-4bca-b380-fa06226eb5bc.bef139bbcb57025c93ba5eea4db65cd4.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "5461BFCD3CEC4FD4844D5DB0CC2B4998",
+            "url": "https://i5.walmartimages.com/asr/662a6ccc-6746-4d41-92e9-7c6f39382188.9feb062be8d687e1c14800fe3a8a46f6.png",
+            "zoomable": true
+          },
+          {
+            "id": "E5848459BA564C5FBFD842FF71E62383",
+            "url": "https://i5.walmartimages.com/asr/3261594e-a143-40b0-8c20-895a5dc2f308.593a864d9aa4344a23e4473ddbfdd84f.png",
+            "zoomable": true
+          },
+          {
+            "id": "4B8B75D179C145BC8CCAD71FE72B3909",
+            "url": "https://i5.walmartimages.com/asr/311c8fe3-b7a1-44b0-aaf6-c1b96792bf5d.66d95cfc527da96962bff82e1fa293b8.png",
+            "zoomable": true
+          },
+          {
+            "id": "734A9493DDB34F9F8A6BBE3D1096415D",
+            "url": "https://i5.walmartimages.com/asr/95c787a4-eda9-4393-99be-711e4d8be740.9b7bbd2d0f0665281972371bc2755ef0.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "D8AA34458CBF4B0E8E830C4BE1E8D4B8",
+            "url": "https://i5.walmartimages.com/asr/6df02c6c-720a-4553-bcdf-847ab4f61dc3.babe1f8a4bd67d60c9721bd460368358.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "DC29E7EE73924ABA85DFF5A136A642B0",
+            "url": "https://i5.walmartimages.com/asr/584d3644-2399-4cb0-b48f-809d2868a158.8376e721310ce61c76dac39b370f30da.jpeg",
+            "zoomable": true
+          }
+        ],
+        "thumbnailUrl": "https://i5.walmartimages.com/seo/Parmalat-Whole-Milk-32-fl-oz_8991fc2c-00f6-4427-bf20-4a4e863cb69a.925c9ff99e858f3573dcdb673fabd0c8.jpeg"
+      },
+      "priceInfo": {
+        "priceDisplayCodes": {
+          "clearance": null,
+          "eligibleForAssociateDiscount": null,
+          "finalCostByWeight": null,
+          "priceDisplayCondition": null,
+          "reducedPrice": null,
+          "rollback": null,
+          "submapType": null
+        },
+        "currentPrice": {
+          "price": 3.13,
+          "priceString": "$3.13",
+          "variantPriceString": "$3.13",
+          "currencyUnit": "USD",
+          "bestValue": null,
+          "priceDisplay": "$3.13"
+        },
+        "wasPrice": null,
+        "comparisonPrice": null,
+        "unitPrice": {
+          "price": 0.098,
+          "priceString": "9.8 ¢/fl oz",
+          "variantPriceString": null,
+          "currencyUnit": "USD",
+          "bestValue": true
+        },
+        "savings": null,
+        "savingsAmount": null,
+        "shipPrice": null,
+        "isPriceReduced": false,
+        "priceReducedDisplay": null,
+        "subscriptionPrice": null,
+        "priceRange": {
+          "minPrice": null,
+          "maxPrice": null,
+          "priceString": null,
+          "currencyUnit": null,
+          "denominations": null
+        },
+        "listPrice": null,
+        "capType": null,
+        "walmartFundedAmount": null,
+        "wPlusEarlyAccessPrice": null
+      },
+      "productUrl": "/ip/Parmalat-Whole-Milk-32-fl-oz/151857624",
+      "usItemId": "151857624",
+      "subscriptionEligible": true,
+      "discountPriceString": ""
+    },
+    "32PB6YRUWM5T": {
+      "id": "32PB6YRUWM5T",
+      "availabilityStatus": "IN_STOCK",
+      "buyBoxSuppression": false,
+      "fulfillmentBadge": null,
+      "imageInfo": {
+        "allImages": [
+          {
+            "id": "077881E183CE45E3A64D95877FC5D49E",
+            "url": "https://i5.walmartimages.com/seo/Parmalat-Whole-Milk-32-fl-oz-4-pack_080a44a2-9a39-44b4-80c5-7514e7805a4a.9dfa382bdf21f127e85126dc445451cf.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "09FEC5FB7CA54398B5D081675D024D67",
+            "url": "https://i5.walmartimages.com/asr/8991fc2c-00f6-4427-bf20-4a4e863cb69a.925c9ff99e858f3573dcdb673fabd0c8.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "B135A568D3BE40029EF49ADA5259DC65",
+            "url": "https://i5.walmartimages.com/asr/b7d3f1d0-881d-4201-9528-c6d83e33a9de.db7c35e7c5b330831824c7958aa2f138.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "789CF42C498F4774A558544501340E0E",
+            "url": "https://i5.walmartimages.com/asr/edc6c811-5f9f-4bca-b380-fa06226eb5bc.bef139bbcb57025c93ba5eea4db65cd4.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "5461BFCD3CEC4FD4844D5DB0CC2B4998",
+            "url": "https://i5.walmartimages.com/asr/662a6ccc-6746-4d41-92e9-7c6f39382188.9feb062be8d687e1c14800fe3a8a46f6.png",
+            "zoomable": true
+          },
+          {
+            "id": "E5848459BA564C5FBFD842FF71E62383",
+            "url": "https://i5.walmartimages.com/asr/3261594e-a143-40b0-8c20-895a5dc2f308.593a864d9aa4344a23e4473ddbfdd84f.png",
+            "zoomable": true
+          },
+          {
+            "id": "4B8B75D179C145BC8CCAD71FE72B3909",
+            "url": "https://i5.walmartimages.com/asr/311c8fe3-b7a1-44b0-aaf6-c1b96792bf5d.66d95cfc527da96962bff82e1fa293b8.png",
+            "zoomable": true
+          },
+          {
+            "id": "734A9493DDB34F9F8A6BBE3D1096415D",
+            "url": "https://i5.walmartimages.com/asr/95c787a4-eda9-4393-99be-711e4d8be740.9b7bbd2d0f0665281972371bc2755ef0.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "D8AA34458CBF4B0E8E830C4BE1E8D4B8",
+            "url": "https://i5.walmartimages.com/asr/6df02c6c-720a-4553-bcdf-847ab4f61dc3.babe1f8a4bd67d60c9721bd460368358.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "DC29E7EE73924ABA85DFF5A136A642B0",
+            "url": "https://i5.walmartimages.com/asr/584d3644-2399-4cb0-b48f-809d2868a158.8376e721310ce61c76dac39b370f30da.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "09FEC5FB7CA54398B5D081675D024D67",
+            "url": "https://i5.walmartimages.com/asr/8991fc2c-00f6-4427-bf20-4a4e863cb69a.925c9ff99e858f3573dcdb673fabd0c8.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "B135A568D3BE40029EF49ADA5259DC65",
+            "url": "https://i5.walmartimages.com/asr/b7d3f1d0-881d-4201-9528-c6d83e33a9de.db7c35e7c5b330831824c7958aa2f138.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "789CF42C498F4774A558544501340E0E",
+            "url": "https://i5.walmartimages.com/asr/edc6c811-5f9f-4bca-b380-fa06226eb5bc.bef139bbcb57025c93ba5eea4db65cd4.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "5461BFCD3CEC4FD4844D5DB0CC2B4998",
+            "url": "https://i5.walmartimages.com/asr/662a6ccc-6746-4d41-92e9-7c6f39382188.9feb062be8d687e1c14800fe3a8a46f6.png",
+            "zoomable": true
+          },
+          {
+            "id": "E5848459BA564C5FBFD842FF71E62383",
+            "url": "https://i5.walmartimages.com/asr/3261594e-a143-40b0-8c20-895a5dc2f308.593a864d9aa4344a23e4473ddbfdd84f.png",
+            "zoomable": true
+          },
+          {
+            "id": "4B8B75D179C145BC8CCAD71FE72B3909",
+            "url": "https://i5.walmartimages.com/asr/311c8fe3-b7a1-44b0-aaf6-c1b96792bf5d.66d95cfc527da96962bff82e1fa293b8.png",
+            "zoomable": true
+          },
+          {
+            "id": "734A9493DDB34F9F8A6BBE3D1096415D",
+            "url": "https://i5.walmartimages.com/asr/95c787a4-eda9-4393-99be-711e4d8be740.9b7bbd2d0f0665281972371bc2755ef0.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "D8AA34458CBF4B0E8E830C4BE1E8D4B8",
+            "url": "https://i5.walmartimages.com/asr/6df02c6c-720a-4553-bcdf-847ab4f61dc3.babe1f8a4bd67d60c9721bd460368358.jpeg",
+            "zoomable": true
+          },
+          {
+            "id": "DC29E7EE73924ABA85DFF5A136A642B0",
+            "url": "https://i5.walmartimages.com/asr/584d3644-2399-4cb0-b48f-809d2868a158.8376e721310ce61c76dac39b370f30da.jpeg",
+            "zoomable": true
+          }
+        ],
+        "thumbnailUrl": "https://i5.walmartimages.com/seo/Parmalat-Whole-Milk-32-fl-oz-4-pack_080a44a2-9a39-44b4-80c5-7514e7805a4a.9dfa382bdf21f127e85126dc445451cf.jpeg"
+      },
+      "variants": [
+        "multipack_quantity-4"
+      ],
+      "priceInfo": {
+        "priceDisplayCodes": {
+          "clearance": null,
+          "eligibleForAssociateDiscount": true,
+          "finalCostByWeight": null,
+          "priceDisplayCondition": null,
+          "reducedPrice": null,
+          "rollback": null,
+          "submapType": null
+        },
+        "currentPrice": {
+          "price": 12.68,
+          "priceString": "$12.68",
+          "variantPriceString": "$12.68",
+          "currencyUnit": "USD",
+          "bestValue": null
+        },
+        "wasPrice": null,
+        "unitPrice": {
+          "price": 0.099,
+          "priceString": "9.9 ¢/fl oz",
+          "variantPriceString": null,
+          "currencyUnit": "USD",
+          "bestValue": false
+        },
+        "listPrice": null,
+        "savingsAmount": null,
+        "isPriceReduced": false,
+        "priceReducedDisplay": null
+      },
+      "productUrl": "/ip/Parmalat-Whole-Milk-32-fl-oz-4-pack/1106389731",
+      "usItemId": "1106389731",
+      "subscriptionEligible": false,
+      "discountPriceString": ""
+    }
+  },
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Best served chilled **Shake well **For best taste, chill before serving. **Chill before drinking for optimal flavor!"
+      }
+    ],
+    "indications": null,
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "Grade A UHT Whole Milk, Vitamin D3"
+      }
+    },
+    "longDescription": "<ul>  <li>No preservatives</li>  <li>Grade A milk</li>  <li>Vitamin D</li>  <li>8g of protein per serving!</li>  <li>Parmalat Whole Milk, 32 fl oz is a Shelf-Stable/ Ambient product that is sold in TetraPak packaging.</li> </ul>",
+    "shortDescription": "Did You Know..? Parmalat milk doesn't need to be refrigerated until it's opened, so you can keep one in the pantry until opening. We heat our milk at an ultra high temperature (UHT) to keep it fresh longer. Tastes just like real milk, because it is real milk! Our Promise is 100% Real Milk. Enjoy the fresh taste of high quality grade A cow milk, with no preservatives. A Nutritious Glass of Milk. Our milk is packed full of good things such as vitamins A and D, protein, and calcium. Stays Fresh Longer! Here at Parmalat, we heat our milk at higher temperatures than regular pasteurized milk. This way, our milk stays fresh longer, and doesn't need to be refrigerated until opened. Bringing you quality milk since 1961. Parmalat Whole Milk, 32 fl oz is a Shelf-Stable/ Ambient product that is sold in TetraPak packaging.",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "Parmalat"
+      },
+      {
+        "name": "Container Type",
+        "value": "Carton"
+      },
+      {
+        "name": "Flavor",
+        "value": "Whole"
+      },
+      {
+        "name": "Food Allergen Statements",
+        "value": "Contains Lactose, Dairy"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "3.75 x 2.38 x 8.38 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": null,
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "150",
+          "dvp": "-%",
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "8g",
+              "dvp": "10%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "4.5g",
+                "dvp": "22%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0g",
+                "dvp": "0%",
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "25mg",
+              "dvp": "8%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "105mg",
+              "dvp": "4%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "12.00000g",
+              "dvp": "4%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "12g",
+                "dvp": "-%",
+                "childNutrients": [
+                  {
+                    "name": "Includes Added Sugars",
+                    "amount": "0g",
+                    "dvp": "0%",
+                    "childNutrients": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "8g",
+              "dvp": "-%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": null,
+            "dvp": "6%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin C",
+            "amount": null,
+            "dvp": "2%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": "305mg",
+            "dvp": "35%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": "-",
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin D",
+            "amount": "-",
+            "dvp": "10%",
+            "childNutrients": null
+          },
+          {
+            "name": "Riboflavin",
+            "amount": null,
+            "dvp": "25%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "4",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "1 cup (240mL)",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": true
+  },
+  "reviews": {
+    "averageOverallRating": 4.2809,
+    "aspects": [],
+    "lookupId": "4BZ4UN92OLIR",
+    "customerReviews": [
+      {
+        "reviewId": "309213430",
+        "rating": 5,
+        "reviewSubmissionTime": "6/23/2023",
+        "reviewText": "l'm not a milk person, but when I use it this is my go to. Why does anyone use any other kind of milk. Parmalat milk has an incredible shelf life, so it's always in the pantry when we need it, and the refrigerator life span of this milk is at least twice as long as regular milk. Try it. You won't be able to tell the difference.",
+        "reviewTitle": "Great buy and worth every penny",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Lorraine26",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "294149035",
+        "rating": 5,
+        "reviewSubmissionTime": "12/3/2022",
+        "reviewText": "Parmalat has been a staple for Europeans for many decades.  I am very particular about milk.  It is the best.  Once opened will stay fresh for a good week.  The best part is you can buy these to store in your pantry.  No need to refrigerate until you need cold milk.  Believe it's good for one year.  I love milk in bottles from the dairy and wish we had more good old-fashioned delivery service of milk.  I would highly recommend this milk.",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Louise",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "287138156",
+        "rating": 5,
+        "reviewSubmissionTime": "9/27/2022",
+        "reviewText": "I was afraid to use boxed milk thinking the flavor would be similar to powdered milk...not. This milk is no different in taste than refrigerated milk. now I never run out of milk. It's hard to judge how much milk I will use. I either used to run out of milk or it would spoil. now I always have extra milk on hand. Such a convenience.",
+        "reviewTitle": "No difference in flavor than refrigerated milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Beverly",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "313036537",
+        "rating": 5,
+        "reviewSubmissionTime": "8/2/2023",
+        "reviewText": "Easy ordering. Easy pickup",
+        "reviewTitle": "Good experience",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Shirley",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "307536108",
+        "rating": 5,
+        "reviewSubmissionTime": "6/1/2023",
+        "reviewText": "Got my order, no problems. Great tasting milk. Will rebuy when i'm out of milk.",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Jennifer",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "305522680",
+        "rating": 5,
+        "reviewSubmissionTime": "5/4/2023",
+        "reviewText": "This Parmalat milk has lasted as long as 4 weeks in the fridge after opening!!!!",
+        "reviewTitle": "fresh for 4 weeks!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "MARK",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "304947533",
+        "rating": 2,
+        "reviewSubmissionTime": "4/23/2023",
+        "reviewText": "overpriced. The milk itself is good enough . I'm glad there is a  whole milk  available via shipping. BUT the  container cap is odd, it has spikey things inside that  cut a   breakable seal tab inside, if you turn the cap. THAT MEANS IF ANYONE HAS TURNED IT,THE SEAL IS BROKEN. What if someone turned it a week ago at the store or handling it? There's no way to know. \nWhen you turn the cap to open it ,  the seal is broken and opened, SO YOU DON'T KNOW IF IT WAS   DONE BY YOU OR ALREADY DONE. Just not a good  type of seal and cap method. Needs different cap, with pull- tab  seal, not a cutter cap.",
+        "reviewTitle": "decent milk, terrible  cap, high price",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "D",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "285558113",
+        "rating": 1,
+        "reviewSubmissionTime": "9/4/2022",
+        "reviewText": "busted box of milk in my order. Big mess in my kitchen. walmart wants me to return it to fedex fir a refund.",
+        "reviewTitle": "ridiculous request",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "janiner",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "270988604",
+        "rating": 1,
+        "reviewSubmissionTime": "10/28/2021",
+        "reviewText": "Some of the cartons came busted. Milk was dripping",
+        "reviewTitle": "Go to the store for this item.",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Sunny",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "309758714",
+        "rating": 1,
+        "reviewSubmissionTime": "6/29/2023",
+        "reviewText": "Bad delivery.Left outside fence in hot sun.",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Sue",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 170,
+    "ratingValueFourCount": 19,
+    "ratingValueOneCount": 27,
+    "ratingValueThreeCount": 15,
+    "ratingValueTwoCount": 4,
+    "roundedAverageOverallRating": 4.3,
+    "topNegativeReview": {
+      "reviewId": "285558113",
+      "rating": 1,
+      "reviewSubmissionTime": "9/4/2022",
+      "userNickname": "janiner",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "busted box of milk in my order. Big mess in my kitchen. walmart wants me to return it to fedex fir a refund.",
+      "reviewTitle": "ridiculous request",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "clientResponses": [],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "media": null
+    },
+    "topPositiveReview": {
+      "reviewId": "309213430",
+      "rating": 5,
+      "reviewSubmissionTime": "6/23/2023",
+      "userNickname": "Lorraine26",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "l'm not a milk person, but when I use it this is my go to. Why does anyone use any other kind of milk. Parmalat milk has an incredible shelf life, so it's always in the pantry when we need it, and the refrigerator life span of this milk is at least twice as long as regular milk. Try it. You won't be able to tell the difference.",
+      "reviewTitle": "Great buy and worth every penny",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "clientResponses": [],
+      "media": null
+    },
+    "topProductMedia": null,
+    "totalMediaCount": 12,
+    "totalReviewCount": 235
+  }
+}]
