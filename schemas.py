@@ -27,7 +27,7 @@ class KeyNutrients(BaseModel):
 class NutritionFacts(BaseModel):
     calorieInfo: MetaNutrient
     keyNutrients: KeyNutrients
-    vitaminMinerals: MetaNutrient
+    vitaminMinerals: MetaNutrient | None
 
 
 class Idml(BaseModel):
@@ -44,12 +44,12 @@ class Price(BaseModel):
 
 class PriceInfo(BaseModel):
     currentPrice: Price
-    unitPrice: Price
+    unitPrice: Price | None
 
 
 class Review(BaseModel):
     rating: float
-    reviewText: str
+    reviewText: str | None
 
 
 class Reviews(BaseModel):
