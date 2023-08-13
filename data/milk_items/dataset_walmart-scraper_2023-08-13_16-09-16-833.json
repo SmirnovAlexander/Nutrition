@@ -1,0 +1,1039 @@
+[{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": false,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": false,
+    "subscriptionEligible": false,
+    "subscriptionTransactable": false,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": false,
+  "showSubscriptionModule": false,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 3.8,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "Great Value",
+  "brandUrl": "/c/brand/great-value",
+  "badges": {
+    "flags": [
+      {
+        "__typename": "BaseBadge",
+        "id": "L1600",
+        "text": "Best seller",
+        "key": "BESTSELLER",
+        "query": null,
+        "type": "LABEL",
+        "styleId": null
+      },
+      {
+        "__typename": "BaseBadge",
+        "id": "L1200",
+        "text": "Popular pick",
+        "key": "CUSTOMER_PICK",
+        "query": "unsweetened vanilla almond milk",
+        "type": "LABEL",
+        "styleId": null
+      }
+    ],
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:46000:46001:46101:46212",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "6732338",
+  "productTypeId": "262",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": "11953",
+  "buyNowEligible": false,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": null
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": null,
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/Great-Value-Unsweetened-Vanilla-Almondmilk-Half-Gallon/46491752",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:3107987:3226399",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "Plant Based Milk",
+        "url": "/cp/plant-based-milk/3107987"
+      },
+      {
+        "name": "Almond Milk",
+        "url": "/cp/almond-milk/3226399"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "1",
+  "fulfillmentTitle": "title_store_delivery_curbside_pickup",
+  "shortDescription": "1 cup of milk contains 20% DV calcium vs. 1 cup of Vanilla Unsweetened Almond milk contains 35% DV calcium.Enjoy the smooth and creamy flavor of Great Value Unsweetened Vanilla Almond milk. Our original almond milk is made from premium quality ingredients and comes with a mixture of healthy vitamins and minerals such as calcium and vitamins A, D, and E. Our vanilla almond milk is the perfect substitute for traditional milk in all your favorite dairy-laden dishes. Use it in your cereal, whirl it into a yummy smoothie, or even serve it alongside some chocolate chip cookies for a decadent dessert. Pour yourself a glass of Great Value Unsweetened Vanilla Almond milk.Great Value products provide families with affordable, high quality grocery and household consumable options. With our wide range of product categories spanning grocery and household consumables, we offer you a variety of products for your family's needs. Our products are conveniently available online and in Walmart stores nationwide, allowing you to stock up and save money at the same time.",
+  "fulfillmentType": "STORE",
+  "fulfillmentBadge": "Today",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Pickup, today at Dallas Supercenter",
+      "shippingText": "Pickup",
+      "fulfillmentText": "today",
+      "locationText": "Dallas Supercenter",
+      "fulfillmentMethod": "PICKUP",
+      "addressEligibility": false,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    },
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Delivery from store",
+      "shippingText": "Delivery from store",
+      "fulfillmentText": null,
+      "locationText": null,
+      "fulfillmentMethod": "DELIVERY",
+      "addressEligibility": true,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": false,
+      "intent": true,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Dallas, 75270",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": null
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": true,
+      "intent": false,
+      "availableQuantity": 9999,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Dallas Supercenter",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "productLocation": [
+        {
+          "displayValue": "A32"
+        }
+      ],
+      "storeName": null,
+      "checkStoreAvailability": false
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": 9999,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": {
+          "price": 7.95,
+          "priceString": "$7.95+"
+        },
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Dallas, 75270",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "59NR7QG9RRZ5",
+  "primaryUsItemId": null,
+  "conditionType": null,
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "09FB4C5015CE41EE8010BF6BF4CAAC5C",
+        "url": "https://i5.walmartimages.com/seo/Great-Value-Unsweetened-Vanilla-Almondmilk-Half-Gallon_ee7630db-4a44-4b1c-84a3-39864c1d13c5_1.caa2cb6ca162c278109e6e4acc12e2bc.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "0B229349D20641DBBA1C2ABEBA1C3D30",
+        "url": "https://i5.walmartimages.com/asr/fa1cedfc-d986-4c4f-bd09-c51297ebe0e2_1.366f97b60129923640eee5bc87e52cbc.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "BE7354553A44436E8B9C1CB4D10B0349",
+        "url": "https://i5.walmartimages.com/asr/d19125c2-e4a1-4c98-9224-e0efe1ff5a64_1.02738924519172abade9897b09831fae.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "8FC1002F219A4BFB86C087AAA086E99E",
+        "url": "https://i5.walmartimages.com/asr/f26344dc-0e77-4210-ae01-73cc8f10542c_1.c1a1d5cd25da84e2ac64693a4df708e2.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "F3BAD9C392B34EAA8F3D31E6D9D2109E",
+        "url": "https://i5.walmartimages.com/asr/b8d9bd46-1379-496b-ace8-7b41fbbec1d1_1.b6fa63180bf3d2e35a97cbddca0d2441.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "F112C532520342219695DA90BEB20667",
+        "url": "https://i5.walmartimages.com/asr/142a9a03-0a4a-49e3-8a0c-c1a152e98f64_1.e83d407433e5954bed84cce6decaac80.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "8AC9B1A22C3D451A93A7E73F5A2DD090",
+        "url": "https://i5.walmartimages.com/asr/c9546ed8-0a76-4b64-9f45-896cebc144f1_1.fb545c22fa2307a53f34a9f8553b4937.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "1F2172B504354FABA84DB3D25C7AADE3",
+        "url": "https://i5.walmartimages.com/asr/c1510d57-f707-4b62-9b03-ecd0c192abeb_1.caa2cb6ca162c278109e6e4acc12e2bc.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "6C6AF57024714533A583BFFC6737910E",
+        "url": "https://i5.walmartimages.com/asr/0e8c2bb4-e190-4baf-8964-db524ebca074_1.8709c5a0d4fa8bcf57579f716b4459d7.jpeg",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/Great-Value-Unsweetened-Vanilla-Almondmilk-Half-Gallon_ee7630db-4a44-4b1c-84a3-39864c1d13c5_1.caa2cb6ca162c278109e6e4acc12e2bc.jpeg"
+  },
+  "location": {
+    "postalCode": "75270",
+    "stateOrProvinceCode": "TX",
+    "city": "Dallas",
+    "storeIds": [
+      "5147"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "5147",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "Great Value Unsweetened Vanilla Almondmilk, Half Gallon",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 244,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "DB682D4EF268470B82721CC375029D9E",
+  "offerType": "STORE_ONLY",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 2.44,
+      "priceString": "$2.44",
+      "variantPriceString": "$2.44",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$2.44"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.038,
+      "priceString": "3.8 ¢/fl oz",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": null,
+    "freeReturns": null,
+    "returnWindow": {
+      "value": null,
+      "unitType": "Day"
+    },
+    "returnPolicyText": null,
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": null
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "LATER",
+    "deliveryDate": null,
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Plant-Based Milk",
+  "pickupOption": {
+    "slaTier": "SAME_DAY",
+    "accessTypes": [
+      "PICKUP_CURBSIDE"
+    ],
+    "availabilityStatus": "AVAILABLE",
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "46491752",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "078742052342",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": [
+    {
+      "displayValue": "A32"
+    }
+  ],
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Shake well"
+      },
+      {
+        "name": "Safe Handling Instructions",
+        "value": "DO NOT USE IF SEAL UNDER CAP IS BROKEN **NOT FOR USE AS AN INFANT FORMULA"
+      }
+    ],
+    "indications": [
+      {
+        "name": "Skin Care Concern",
+        "value": "Vegetarians-NO,Vegans-NO,Coeliacs-NO,"
+      }
+    ],
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "ALMONDMILK (FILTERED WATER, ALMONDS), CALCIUM CARBONATE, NATURAL VANILLA FLAVOR WITH OTHER NATURAL FLAVORS, SEA SALT, POTASSIUM CITRATE, CARRAGEENAN, SUNFLOWER LECITHIN, VITAMIN A PALMITATE, VITAMIN D2, D-ALPHA-TOCOPHEROL, (NATURAL VITAMIN E)."
+      }
+    },
+    "longDescription": "<p><b>Great Value Ultra-Pasteurized Unsweetened Vanilla Almond Milk, 64 fl oz</b></p> <ul>  <li>Ultra-pasteurized with vitamins A, D, E, and calcium added</li>  <li>30 calories per serving</li>  <li>50% more of the daily value of calcium than regular milk</li>  <li>Dairy, soy, and gluten-free</li>  <li>No cholesterol</li> </ul>",
+    "shortDescription": "1 cup of milk contains 20% DV calcium vs. 1 cup of Vanilla Unsweetened Almond milk contains 35% DV calcium.Enjoy the smooth and creamy flavor of Great Value Unsweetened Vanilla Almond milk. Our original almond milk is made from premium quality ingredients and comes with a mixture of healthy vitamins and minerals such as calcium and vitamins A, D, and E. Our vanilla almond milk is the perfect substitute for traditional milk in all your favorite dairy-laden dishes. Use it in your cereal, whirl it into a yummy smoothie, or even serve it alongside some chocolate chip cookies for a decadent dessert. Pour yourself a glass of Great Value Unsweetened Vanilla Almond milk.Great Value products provide families with affordable, high quality grocery and household consumable options. With our wide range of product categories spanning grocery and household consumables, we offer you a variety of products for your family's needs. Our products are conveniently available online and in Walmart stores nationwide, allowing you to stock up and save money at the same time.",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Container Type",
+        "value": "Carton"
+      },
+      {
+        "name": "Flavor",
+        "value": "Vanilla"
+      },
+      {
+        "name": "Assembled Product Weight",
+        "value": "4.29 lb"
+      },
+      {
+        "name": "Food Form",
+        "value": "Liquids"
+      },
+      {
+        "name": "Brand",
+        "value": "Great Value"
+      },
+      {
+        "name": "Model",
+        "value": "11953"
+      },
+      {
+        "name": "Allergen-Free Statements",
+        "value": "Dairy-Free"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "3.78 x 3.78 x 9.50 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": [
+      {
+        "name": "Warning Text",
+        "value": "ALLERGY WARNING: CONTAINS ALMONDS."
+      }
+    ],
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "30",
+          "dvp": null,
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "2.5g",
+              "dvp": "4%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "0g",
+                "dvp": "1%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Polyunsaturated Fat",
+                "amount": "0.5g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Monounsaturated Fat",
+                "amount": "1.5g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "0.0mg",
+              "dvp": "0%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "170mg",
+              "dvp": "7%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "1g",
+              "dvp": "0%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "1g",
+                "dvp": "2%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "0g",
+                "dvp": null,
+                "childNutrients": [
+                  {
+                    "name": "Includes Added Sugars",
+                    "amount": "0g",
+                    "dvp": null,
+                    "childNutrients": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "1g",
+              "dvp": null,
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": null,
+            "dvp": "10%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin C",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": "450.0mg",
+            "dvp": "45%",
+            "childNutrients": null
+          },
+          {
+            "name": "Potassium",
+            "amount": "170mg",
+            "dvp": "5%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": null,
+            "dvp": "4%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin D",
+            "amount": null,
+            "dvp": "25%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin E",
+            "amount": null,
+            "dvp": "20%",
+            "childNutrients": null
+          },
+          {
+            "name": "Folic Acid",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Phosphorus",
+            "amount": null,
+            "dvp": "2%",
+            "childNutrients": null
+          },
+          {
+            "name": "Zinc",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Copper",
+            "amount": null,
+            "dvp": "4%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "8",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "1 cup (240 mL)",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": false
+  },
+  "reviews": {
+    "averageOverallRating": 3.8484,
+    "aspects": [
+      {
+        "id": "56",
+        "name": "Taste",
+        "score": 96,
+        "snippetCount": 22
+      },
+      {
+        "id": "48",
+        "name": "Price",
+        "score": 100,
+        "snippetCount": 5
+      },
+      {
+        "id": "284",
+        "name": "Value",
+        "score": 100,
+        "snippetCount": 4
+      },
+      {
+        "id": "9552",
+        "name": "Texture",
+        "score": 100,
+        "snippetCount": 3
+      }
+    ],
+    "lookupId": "59NR7QG9RRZ5",
+    "customerReviews": [
+      {
+        "reviewId": "309932011",
+        "rating": 5,
+        "reviewSubmissionTime": "7/1/2023",
+        "reviewText": "Having been diabetic for 28 years, I have gone through a lot of different brand of almond milk. This by far has been my favorite and I have been buying it for a few years now. Wouldn't change unless they don't make it anymore.",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Grandma",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "311774285",
+        "rating": 5,
+        "reviewSubmissionTime": "7/20/2023",
+        "reviewText": "I enjoy this unsweetened with muesli or oatmeal hot and room temp during the early evening as a meal. If needed, I add fresh or canned fruit and almost definitely a dollop of yogurt. Viola!",
+        "reviewTitle": "A tasty alternative",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Myra",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "306047172",
+        "rating": 5,
+        "reviewSubmissionTime": "5/12/2023",
+        "reviewText": "The young man that loaded my car this morning also put the items in the bags I had brought. His name is George and he did such a good job. Was very pleasant and respectful. Not all helpers have asked about bagging the groceries for me even though I always bring bags. George doing that for me was such a help. Thank you George!!",
+        "reviewTitle": "George was very helpful bagging my groceries",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Debi",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "88160230",
+        "rating": 5,
+        "reviewSubmissionTime": "5/13/2016",
+        "reviewText": "Love flavors.Been fighting high cholesterol, low in calories. Cholesterol has gone down with changing some habits....Almond milk being 1. Was 204 down to 147. Thumbs up!",
+        "reviewTitle": "Store brand Almond Milk",
+        "negativeFeedback": 1,
+        "positiveFeedback": 4,
+        "userNickname": "Sweetneat101",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "219466502",
+        "rating": 5,
+        "reviewSubmissionTime": "7/28/2019",
+        "reviewText": "This is better than name brand almond milk and at a lower price. We tecently switched from 2% milk to this. My husband had cholesterol and the doctor recommended almond milk. We were a bit sketical, but pleasantly surprised. I love that its not thick either and only has30 calories. We add it to cereal and to make smoothies. Itsââs actually pretty great!",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 2,
+        "userNickname": "yessit",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "305445107",
+        "rating": 1,
+        "reviewSubmissionTime": "5/2/2023",
+        "reviewText": "contains added phosphorus! not shown on the label or in the nutrition ingredients in the description on the website! this is critically important information for people who cannot have added phosphorus for kidney problems and other health reasons! I was ordering this all the time and then glanced at the label the other day and discovered tricalcium phosphate in the ingredients! it did not occur to me that the product would be different from what I had ordered online! very concerned and very disappointed!!!",
+        "reviewTitle": "CONTAINS ADDED PHOSPHATES THAT  NOT SHOWN ONLINE",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Selena",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "300614177",
+        "rating": 1,
+        "reviewSubmissionTime": "2/17/2023",
+        "reviewText": "Milk was opened and leaking everywhere.",
+        "reviewTitle": "Open containers and damaged milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "ladeva",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "297999943",
+        "rating": 1,
+        "reviewSubmissionTime": "1/9/2023",
+        "reviewText": "carton doesn't expire until January 28 but there's mold on inside of lid",
+        "reviewTitle": "Moldy before expiration date",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Tracy",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "291017291",
+        "rating": 1,
+        "reviewSubmissionTime": "11/10/2022",
+        "reviewText": "Ordered two half gallons of almond milk today and they both were expired",
+        "reviewTitle": "Expired Milk dated August 08 22",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "ieshai",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "310611810",
+        "rating": 1,
+        "reviewSubmissionTime": "7/8/2023",
+        "reviewText": "This used to be the BEST almond milk for lattes. It frothed like a dream and had a creamy texture. About a month ago they must have changed the formula (more water???). Now, nothing. Please restore it to its former glory! I used to buy soo much of it.",
+        "reviewTitle": "What Happened?!!!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "JaQ",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 157,
+    "ratingValueFourCount": 15,
+    "ratingValueOneCount": 57,
+    "ratingValueThreeCount": 7,
+    "ratingValueTwoCount": 8,
+    "roundedAverageOverallRating": 3.8,
+    "topNegativeReview": {
+      "reviewId": "305445107",
+      "rating": 1,
+      "reviewSubmissionTime": "5/2/2023",
+      "userNickname": "Selena",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "contains added phosphorus! not shown on the label or in the nutrition ingredients in the description on the website! this is critically important information for people who cannot have added phosphorus for kidney problems and other health reasons! I was ordering this all the time and then glanced at the label the other day and discovered tricalcium phosphate in the ingredients! it did not occur to me that the product would be different from what I had ordered online! very concerned and very disappointed!!!",
+      "reviewTitle": "CONTAINS ADDED PHOSPHATES THAT  NOT SHOWN ONLINE",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "clientResponses": null,
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "media": null
+    },
+    "topPositiveReview": {
+      "reviewId": "309932011",
+      "rating": 5,
+      "reviewSubmissionTime": "7/1/2023",
+      "userNickname": "Grandma",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "Having been diabetic for 28 years, I have gone through a lot of different brand of almond milk. This by far has been my favorite and I have been buying it for a few years now. Wouldn't change unless they don't make it anymore.",
+      "reviewTitle": null,
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "clientResponses": null,
+      "media": null
+    },
+    "topProductMedia": null,
+    "totalMediaCount": 12,
+    "totalReviewCount": 244
+  }
+}]

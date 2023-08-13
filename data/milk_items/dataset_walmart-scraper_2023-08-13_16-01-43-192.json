@@ -1,0 +1,999 @@
+[{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": false,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": false,
+    "subscriptionEligible": false,
+    "subscriptionTransactable": false,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": false,
+  "showSubscriptionModule": false,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 3.5,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "Silk",
+  "brandUrl": "/c/brand/silk",
+  "badges": {
+    "flags": null,
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:42000:42001:42101:42211",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "1701",
+  "productTypeId": "262",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": "1701",
+  "buyNowEligible": true,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": null
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": null,
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/Silk-Shelf-Stable-Unsweetened-Almond-Milk-1-Quart/35902522",
+  "catalogSellerId": 433,
+  "sellerReviewCount": 6081,
+  "sellerAverageRating": 4.3532,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:3107987:3226399",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "Plant Based Milk",
+        "url": "/cp/plant-based-milk/3107987"
+      },
+      {
+        "name": "Almond Milk",
+        "url": "/cp/almond-milk/3226399"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "1",
+  "fulfillmentTitle": "title_shipToHome_date_free_delivery",
+  "shortDescription": "<p>Bring the creamy goodness of almondmilk to your pantry with Silk Shelf-Stable Unsweetened Almondmilk. Featuring a pure, silky-smooth taste and just 30 calories per serving, this unsweetened almondmilk is delicious whether it’s poured over cereal, added to your favorite recipes, or enjoyed straight out of the glass. It makes a perfect non-dairy alternative to milk, and is totally free of dairy, soy, lactose, gluten, casein, egg, and MSG. Silk Almondmilk provides vitamin E and contains 50% more calcium than dairy milk.* And since it comes in special, shelf-stable packaging, this unsweetened nutmilk will keep fresh at room temperature, unopened, until the date code: no refrigeration necessary! <br></p><p>*Silk Unsweetened Original Almondmilk: 450mg of calcium per cup; reduced fat dairy milk: 293mg of calcium per cup. USDA National Nutrient Database for Standard Reference. Data consistent with typical reduced fat dairy milk.Here at Silk, we believe in making delicious plant-based food that does right by you and fuels our passion for the planet. Every delicious product we offer is made with plants, they’re naturally dairy-free, gluten-free, and cholesterol-free. And our entire lineup is enrolled in the Non-GMO Project Verification Program. Choose from an array of non-dairy products--from silky-smooth nutmilk to creamy, dreamy yogurt alternatives--and taste the goodness for yourself!<p><b>Silk Shelf-Stable Unsweetened Almond Milk, 1 Quart:</b>",
+  "fulfillmentType": "MARKETPLACE",
+  "fulfillmentBadge": null,
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Free shipping, arrives by Thu, Aug 17 to Sacramento, 95829",
+      "shippingText": "Free shipping",
+      "fulfillmentText": "arrives by Thu, Aug 17",
+      "locationText": "Sacramento, 95829",
+      "fulfillmentMethod": "SHIPPING",
+      "addressEligibility": true,
+      "fulfillmentType": "MARKETPLACE",
+      "postalCode": "95829"
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": true,
+      "intent": true,
+      "availableQuantity": 48,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": null,
+        "deliveryDate": "2023-08-17T19:00:00.000Z",
+        "fulfillmentPrice": null,
+        "freeFulfillment": true,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": false
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Sacramento Supercenter",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "productLocation": null,
+      "storeName": null,
+      "checkStoreAvailability": false
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "NONE"
+    }
+  ],
+  "hasSellerBadge": true,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "5R00KN3FCFT0",
+  "primaryUsItemId": null,
+  "conditionType": "New",
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "B8B8F6FC05A844DDA3F1CDE1273F40DF",
+        "url": "https://i5.walmartimages.com/seo/Silk-Shelf-Stable-Unsweetened-Almond-Milk-1-Quart_552f4499-70bf-4702-939d-635b518cccf5.13ec7bcccc27d7b990d3e8313a331757.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "63D3970E13D44504ACBAB4DF880B178C",
+        "url": "https://i5.walmartimages.com/asr/31ae6098-9f03-43e6-a0a2-906b6c984d9b.2ab3ed64f51739aa724668ae45654d3b.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "315E6D5086B443138AAF5E7B11245DED",
+        "url": "https://i5.walmartimages.com/asr/3e397281-84a7-4fdd-a240-ad8ffbd52bee.ded819d45dfc775faba6f052657656e9.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "BD37D661E4074367B697367CAF0D5F17",
+        "url": "https://i5.walmartimages.com/asr/f5748489-3a7c-4bba-ab52-3b055e42dfa4.2788de32182007c7facd9d6f8b94ff5d.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "C7D4E98F50E84D4C9416E126F5365976",
+        "url": "https://i5.walmartimages.com/asr/6843d1a4-65e9-4fa9-9451-ef820824b8d0.bc792753675b997adf761b1ff34dd888.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "432E1CFF3359439A8EBC40ED5C7C1EB4",
+        "url": "https://i5.walmartimages.com/asr/c48fd225-3791-4458-b637-9d3344d5151d.53f6b5bb79f88e76a67ded8415093c01.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "C4F18BE2059649278EE2AD651D8FF279",
+        "url": "https://i5.walmartimages.com/asr/e50c4113-c9e2-433f-8578-74bdf6f22cad.36f85a097fab353b3e4ccac102ce2800.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "CECA1CA62B1444F28CB81AFF9C09FB24",
+        "url": "https://i5.walmartimages.com/asr/5f1fa35c-31e2-4bae-b32a-b4b36de762b8.580bd69873a20a7e216ada96ccd966bf.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "72AA0E3B743845099782CC0E9DB5019C",
+        "url": "https://i5.walmartimages.com/asr/f25d4af7-1acd-4789-9c86-c6c2fd5cdad7.d8d403824a002a5b593a6b94399d0cec.jpeg",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/Silk-Shelf-Stable-Unsweetened-Almond-Milk-1-Quart_552f4499-70bf-4702-939d-635b518cccf5.13ec7bcccc27d7b990d3e8313a331757.jpeg"
+  },
+  "location": {
+    "postalCode": "95829",
+    "stateOrProvinceCode": "CA",
+    "city": "Sacramento",
+    "storeIds": [
+      "3081"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "3081",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "Silk Shelf-Stable Unsweetened Almond Milk, 1 Quart",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 188,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "F33FD4B10CEA47779E0DFE2D2092B303",
+  "offerType": "ONLINE_ONLY",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 13.17,
+      "priceString": "$13.17",
+      "variantPriceString": "$13.17",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$13.17"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": null,
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": true,
+    "freeReturns": true,
+    "returnWindow": {
+      "value": 30,
+      "unitType": "Day"
+    },
+    "returnPolicyText": "Free 30-day returns",
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "9FF5FD2024AD47EE8FE1D16CC6B4054D",
+  "sellerName": "MyOfficeInnovations",
+  "sellerDisplayName": "MyOfficeInnovations",
+  "secondaryOfferPrice": {
+    "currentPrice": {
+      "priceType": null,
+      "priceString": "$2.58",
+      "price": 2.58
+    }
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "TWO_DAY",
+    "deliveryDate": "2023-08-17T19:00:00.000Z",
+    "maxDeliveryDate": null,
+    "shipMethod": "EXPEDITED",
+    "shipPrice": {
+      "price": 0,
+      "priceString": "$0.00",
+      "variantPriceString": null,
+      "currencyUnit": null,
+      "bestValue": null
+    },
+    "internationalShipping": null
+  },
+  "type": "Plant-Based Milk",
+  "pickupOption": {
+    "slaTier": null,
+    "accessTypes": [],
+    "availabilityStatus": null,
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "35902522",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "025293001701",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "EXTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": false,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": null,
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Ready to Drink"
+      }
+    ],
+    "indications": null,
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "INGREDIENTS: Almondmilk (Filtered Water; Almonds); Vitamin and Mineral Blend (Calcium Carbonate; Vitamin E Acetate; Vitamin A Palmitate; Vitamin D2); Sea Salt; Gellan Gum; Locust Bean Gum; Sodium Ascorbate (to protect freshness); Natural Flavor"
+      }
+    },
+    "longDescription": "<ul>  <li>Shelf-stable unsweetened almondmilk</li>  <li>30 calories and 0g saturated fat per serving, with no cholesterol</li>  <li>Provides vitamin E and 50% more calcium than dairy milk</li>  <li>Vegan</li>  <li>Non-GMO Project Verified</li>  <li>Free of dairy, lactose, soy, gluten, casein, egg, MSG, and added sugar</li> </ul>",
+    "shortDescription": "<p>Bring the creamy goodness of almondmilk to your pantry with Silk Shelf-Stable Unsweetened Almondmilk. Featuring a pure, silky-smooth taste and just 30 calories per serving, this unsweetened almondmilk is delicious whether it’s poured over cereal, added to your favorite recipes, or enjoyed straight out of the glass. It makes a perfect non-dairy alternative to milk, and is totally free of dairy, soy, lactose, gluten, casein, egg, and MSG. Silk Almondmilk provides vitamin E and contains 50% more calcium than dairy milk.* And since it comes in special, shelf-stable packaging, this unsweetened nutmilk will keep fresh at room temperature, unopened, until the date code: no refrigeration necessary! <br /></p> <p>*Silk Unsweetened Original Almondmilk: 450mg of calcium per cup; reduced fat dairy milk: 293mg of calcium per cup. USDA National Nutrient Database for Standard Reference. Data consistent with typical reduced fat dairy milk.Here at Silk, we believe in making delicious plant-based food that does right by you and fuels our passion for the planet. Every delicious product we offer is made with plants, they’re naturally dairy-free, gluten-free, and cholesterol-free. And our entire lineup is enrolled in the Non-GMO Project Verification Program. Choose from an array of non-dairy products--from silky-smooth nutmilk to creamy, dreamy yogurt alternatives--and taste the goodness for yourself!</p> <p><b>Silk Shelf-Stable Unsweetened Almond Milk, 1 Quart:</b></p>",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Container Type",
+        "value": "Carton"
+      },
+      {
+        "name": "Flavor",
+        "value": "Unsweetened"
+      },
+      {
+        "name": "Assembled Product Weight",
+        "value": "2.1 lbs"
+      },
+      {
+        "name": "Food Form",
+        "value": "Fresh"
+      },
+      {
+        "name": "Brand",
+        "value": "Silk"
+      },
+      {
+        "name": "Model",
+        "value": "1701"
+      },
+      {
+        "name": "Allergen-Free Statements",
+        "value": "Dairy-Free, Gluten-Free, Artificial Flavor Free, Artificial Color Free, Soy /Soybean Free"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "3.70 x 2.20 x 7.70 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": [
+      {
+        "name": "Warning Text",
+        "value": "Not to be used as infant formula."
+      }
+    ],
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "30",
+          "dvp": null,
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "2.5g",
+              "dvp": "3%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "0.0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0.0g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Polyunsaturated Fat",
+                "amount": "0.5g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Monounsaturated Fat",
+                "amount": "1.5g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "0.0mg",
+              "dvp": "0%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "160.0mg",
+              "dvp": "7%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "1g",
+              "dvp": "0%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "0.0g",
+                "dvp": "4%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "0.0g",
+                "dvp": null,
+                "childNutrients": [
+                  {
+                    "name": "Includes Added Sugars",
+                    "amount": "0g",
+                    "dvp": null,
+                    "childNutrients": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "1g",
+              "dvp": "0%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": "150.00mcg",
+            "dvp": "10%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin C",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": "45",
+            "dvp": "45%",
+            "childNutrients": null
+          },
+          {
+            "name": "Potassium",
+            "amount": "30.0mg",
+            "dvp": "1%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": "0.50mg",
+            "dvp": "2%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin D",
+            "amount": "2.50mcg",
+            "dvp": "25%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin E",
+            "amount": "3.8mg",
+            "dvp": "50%",
+            "childNutrients": null
+          },
+          {
+            "name": "Riboflavin",
+            "amount": null,
+            "dvp": "30%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin B12",
+            "amount": null,
+            "dvp": "50%",
+            "childNutrients": null
+          },
+          {
+            "name": "Magnesium",
+            "amount": null,
+            "dvp": "4%",
+            "childNutrients": null
+          },
+          {
+            "name": "Zinc",
+            "amount": null,
+            "dvp": "8%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "4.0",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "240 Millilitres",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": [
+      {
+        "poster": "https://images.salsify.com/video/upload/s--j3rvVKPc--/so_auto,c_limit,h_1000,w_1000/xe3ukmmsi1ewgdsfqd3z.jpg",
+        "title": null,
+        "versions": {
+          "small": "https://images.salsify.com/video/upload/s--j3rvVKPc--/h_480,c_pad/xe3ukmmsi1ewgdsfqd3z.mp4",
+          "large": "https://images.salsify.com/video/upload/s--j3rvVKPc--/h_480,c_pad/xe3ukmmsi1ewgdsfqd3z.mp4"
+        }
+      }
+    ],
+    "product360ImageContainer": null,
+    "hasMarketingDescription": true
+  },
+  "reviews": {
+    "averageOverallRating": 3.5106,
+    "aspects": [
+      {
+        "id": "56",
+        "name": "Taste",
+        "score": 74,
+        "snippetCount": 37
+      },
+      {
+        "id": "24684",
+        "name": "Almond",
+        "score": 100,
+        "snippetCount": 3
+      }
+    ],
+    "lookupId": "5R00KN3FCFT0",
+    "customerReviews": [
+      {
+        "reviewId": "148905150",
+        "rating": 5,
+        "reviewSubmissionTime": "3/23/2020",
+        "reviewText": "I have no clue why no ones is talking about this. I don't know if you change the recipe or something but to me it taste the same as normal milk no difference. It also looks like real milk as well, its lighter then any other silk almond milk. Whatever you are doing to this please do it to your other milk products.",
+        "reviewTitle": "Best Almond Milk!",
+        "negativeFeedback": 1,
+        "positiveFeedback": 6,
+        "userNickname": "Gar",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": {
+          "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Asilkpwr.png",
+          "contentLink": null,
+          "name": "silk.com"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "110543330",
+        "rating": 5,
+        "reviewSubmissionTime": "2/13/2018",
+        "reviewText": "The negligible sugar/carb amount combined with the very low fat makes this the perfect milk for the various recipes of most diets. I've seen a lot of reviews where people hate the new formula, but I honestly can't tell the difference and I have been drinking it for years. I use it in protein shakes and cereal and even oatmeal and it tastes like milk to me. Thank You, Silk!!!",
+        "reviewTitle": "Great for Wonderslim or Medifast",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "tekchimp",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": [
+          {
+            "date": null,
+            "department": "silkpwr",
+            "logoImage": null,
+            "name": "silkpwr",
+            "response": "We're thrilled to hear this! Thank you for all the love and support throughout the years! - Gabe at Silk"
+          }
+        ],
+        "syndicationSource": {
+          "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Asilkpwr.png",
+          "contentLink": null,
+          "name": "silk.com"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "132385713",
+        "rating": 5,
+        "reviewSubmissionTime": "3/2/2017",
+        "reviewText": "I DON'T LIKE TO BUY SWEETENED VARIETIES OF ALMOND MILK, SO THIS UNSWEETETENED VERSION IS MY BEST OPTION I THINK. TASTES AMAZING!",
+        "reviewTitle": "YUMMINESS!!!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 2,
+        "userNickname": "NOBODYINPARTICULAR",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "76028826",
+        "rating": 5,
+        "reviewSubmissionTime": "7/28/2015",
+        "reviewText": "I love this almond milk the best! I hate dairy products, as they do harm to the human body. This milk goes great with my morning cereal and lunch time smoothie! No sugar added is a great thing about this milk! Also i love how it is part of the non-gmo product so I know this milk is trusty! I just prefer this milk out of all the silk brands. Although the others are great as well!",
+        "reviewTitle": "Best non-dairy milk!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "XCrunner44",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": {
+          "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Asilkpwr.png",
+          "contentLink": null,
+          "name": "silk.com"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "76028828",
+        "rating": 5,
+        "reviewSubmissionTime": "8/14/2015",
+        "reviewText": "My son has a milk protein allergy, and has been diagnosed since he was 2 months old. After formula this was our option and I couldn't be happier. He loves his milk and this will continue throughout the rest of his life, since he cannot tolerate cow's milk. Thank you Silk!",
+        "reviewTitle": "DAIRY ALLERGY SUPPLEMENT",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Jamie",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": {
+          "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Asilkpwr.png",
+          "contentLink": null,
+          "name": "silk.com"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "76028831",
+        "rating": 5,
+        "reviewSubmissionTime": "1/29/2016",
+        "reviewText": "I love both Silk almond and soy milk. It's the perfect milk for someone who's lactose intolerant but still love dairy. It's one of my main ingredients for smoothies. Sometimes I pour it on cold cereal, hot oatmeal, or my morning coffee. My favorite flavor is chocolate. I also love unsweetened vanilla.",
+        "reviewTitle": "Delicious and healthy",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Ally",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": {
+          "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Asilkpwr.png",
+          "contentLink": null,
+          "name": "silk.com"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "76028830",
+        "rating": 2,
+        "reviewSubmissionTime": "4/13/2016",
+        "reviewText": "I use to buy Silk Almond Unsweetened weekly, as well as the Chocolate Flavor Amond Milk. Love it! However I noticed recently that you no longer fortify with Vitamin B12. Vegans need food and drinks fortified with this essential vitamin. I'm switched to a Flax Milk now because they do add B12, not as high a percentage as Silk added but it's still better then nothing. Please reconsider!",
+        "reviewTitle": "Disappointed, where's the B12 ?",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Grammy",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": {
+          "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Asilkpwr.png",
+          "contentLink": null,
+          "name": "silk.com"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "140794319",
+        "rating": 1,
+        "reviewSubmissionTime": "1/12/2020",
+        "reviewText": "I just went to the store to get my typical Silk unsweetened almond milk and I see that the new formula has less calcium and less vitamen D than the old formula. That is really upsetting to me because Silk almond milk is one of my main sources of calcium. The old formula had 45% of daily calcium needs per serving while the new formula only has 30%. The old one had 25% of vitamen D needs and the new has only 10%. This is a big difference in nutritional value! (I have atraxhef a picture - new formula in the right and old formula in the left). Please bring back the old formula!!",
+        "reviewTitle": "Less calcium and vitamin D in new formula!!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 4,
+        "userNickname": "Not happy with new formula",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": {
+          "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Asilkpwr.png",
+          "contentLink": null,
+          "name": "silk.com"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "114027935",
+        "rating": 1,
+        "reviewSubmissionTime": "12/5/2016",
+        "reviewText": "Good price. I like the product very much with my morning cereal, but when the two cartons I ordered arrived, the inner aluminum seals were already broken open. I bought a carton like this at a health food store. I returned them to Walmart (and the health food stores). No problem getting my money back. I bought more then. - - I really hope the Silk company takes notice of what's happening! The store clerks said that these broken aluminum seals were not due to the ABQ altitude.",
+        "reviewTitle": "OpenedCarton",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "NutritiouslySimple",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "76028820",
+        "rating": 1,
+        "reviewSubmissionTime": "3/14/2016",
+        "reviewText": "Disappointed in SILK customer service. I called this morning to get some clarification on the ingredients and the actual carbohydrate count (value is listed as less than 1). The representative I spoke with knew nothing about the product other than what I could already read from the label. She had a poor attitude towards me and also toward my question. I would think a company that markets its products as 'health' conscious alternatives would welcome questions from the consumer about nutrient values.",
+        "reviewTitle": "Nutritional Transparency",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Jami45",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": {
+          "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Asilkpwr.png",
+          "contentLink": null,
+          "name": "silk.com"
+        },
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 101,
+    "ratingValueFourCount": 14,
+    "ratingValueOneCount": 55,
+    "ratingValueThreeCount": 8,
+    "ratingValueTwoCount": 10,
+    "roundedAverageOverallRating": 3.5,
+    "topNegativeReview": {
+      "reviewId": "140794319",
+      "rating": 1,
+      "reviewSubmissionTime": "1/12/2020",
+      "userNickname": "Not happy with new formula",
+      "negativeFeedback": 0,
+      "positiveFeedback": 4,
+      "reviewText": "I just went to the store to get my typical Silk unsweetened almond milk and I see that the new formula has less calcium and less vitamen D than the old formula. That is really upsetting to me because Silk almond milk is one of my main sources of calcium. The old formula had 45% of daily calcium needs per serving while the new formula only has 30%. The old one had 25% of vitamen D needs and the new has only 10%. This is a big difference in nutritional value! (I have atraxhef a picture - new formula in the right and old formula in the left). Please bring back the old formula!!",
+      "reviewTitle": "Less calcium and vitamin D in new formula!!",
+      "badges": null,
+      "clientResponses": null,
+      "syndicationSource": {
+        "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Asilkpwr.png",
+        "contentLink": null,
+        "name": "silk.com"
+      },
+      "snippetFromTitle": null,
+      "media": null
+    },
+    "topPositiveReview": {
+      "reviewId": "148905150",
+      "rating": 5,
+      "reviewSubmissionTime": "3/23/2020",
+      "userNickname": "Gar",
+      "negativeFeedback": 1,
+      "positiveFeedback": 6,
+      "reviewText": "I have no clue why no ones is talking about this. I don't know if you change the recipe or something but to me it taste the same as normal milk no difference. It also looks like real milk as well, its lighter then any other silk almond milk. Whatever you are doing to this please do it to your other milk products.",
+      "reviewTitle": "Best Almond Milk!",
+      "badges": null,
+      "syndicationSource": {
+        "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Asilkpwr.png",
+        "contentLink": null,
+        "name": "silk.com"
+      },
+      "snippetFromTitle": null,
+      "clientResponses": null,
+      "media": null
+    },
+    "topProductMedia": null,
+    "totalMediaCount": 8,
+    "totalReviewCount": 188
+  }
+}]

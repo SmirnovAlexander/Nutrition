@@ -1,0 +1,778 @@
+[{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": true,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": true,
+    "subscriptionEligible": true,
+    "subscriptionTransactable": true,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": true,
+  "showSubscriptionModule": true,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 4.8,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "Magnolia",
+  "brandUrl": "/c/brand/magnolia",
+  "badges": {
+    "flags": null,
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:42000:42001:42101:42211",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "65272910300",
+  "productTypeId": "condensed_milks",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": "65272910300",
+  "buyNowEligible": true,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": null
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": "NATIONAL_CARRIER",
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/Magnolia-Fat-Free-Sweetened-Condensed-Milk-14-Oz/43003233",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:976780:9959366:5832492:3720924",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Baking",
+        "url": "/cp/baking/976780"
+      },
+      {
+        "name": "Baking Ingredients",
+        "url": "/cp/baking-ingredients/9959366"
+      },
+      {
+        "name": "Canned & Powdered Milks",
+        "url": "/cp/canned-powdered-milks/5832492"
+      },
+      {
+        "name": "Condensed Milk",
+        "url": "/cp/condensed-milk/3720924"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "58",
+  "fulfillmentTitle": "title_shipToHome_date_delivery",
+  "shortDescription": "Just Milk and Sugar (- Fat). That’s it! Made with real, simple ingredients, Magnolia Sweetened Condensed Milk provides an authentic taste for your favorite Latin and American recipes. Easy to use, you can use the whole can in your favorite desserts, or drizzle some on fruit, pancakes, or in drinks like coffee and tea to add a touch of rich, creamy flavor and joy. Now, you can enjoy it with a little less guilt.  With almost 70 years of heritage, Magnolia Sweetened Condensed Milk is a brand consumers trust to make every recipe special. We use real, fresh milk and no rBST, and no artificial flavors. We are proud to offer consumers with a product that is Real Seal Certified, Certified Gluten-Free, and Kosher (KOK-Dairy). We stand by Magnolia’s high quality to give you the high-quality ingredients for all of your baking needs. Whether it is for the classics, like gourmet, indulgent Caramel Flan, or soft, luscious Tres Leches cake, or something new, Magnolia is a brand you can trust while you make all of the good stuff.  Flavor you love, quality you trust, at an affordable price.",
+  "fulfillmentType": "FC",
+  "fulfillmentBadge": "2 days",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Shipping, arrives by Tue, Aug 15 to Dallas, 75270",
+      "shippingText": "Shipping",
+      "fulfillmentText": "arrives by Tue, Aug 15",
+      "locationText": "Dallas, 75270",
+      "fulfillmentMethod": "SHIPPING",
+      "addressEligibility": true,
+      "fulfillmentType": "FC",
+      "postalCode": "75270"
+    },
+    {
+      "checkStoreAvailability": "Check availability nearby",
+      "wPlusFulfillmentText": null,
+      "message": "Pickup not available at Dallas Supercenter",
+      "shippingText": "Pickup",
+      "fulfillmentText": "not available",
+      "locationText": null,
+      "fulfillmentMethod": "PICKUP",
+      "addressEligibility": null,
+      "fulfillmentType": null,
+      "postalCode": null
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": true,
+      "intent": true,
+      "availableQuantity": 1744,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": null,
+        "deliveryDate": "2023-08-15T21:59:00.000Z",
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Dallas, 75270",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": false
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Dallas Supercenter",
+      "availabilityStatus": "OUT_OF_STOCK",
+      "subscriptionSubmessage": "SHIPPING_ONLY",
+      "inventoryStatus": null,
+      "productLocation": null,
+      "storeName": null,
+      "checkStoreAvailability": true
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Dallas, 75270",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "SHIPPING_ONLY"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "4X2D4OPBBJAR",
+  "primaryUsItemId": null,
+  "conditionType": "New",
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "8A1799601219474C8BE7B55918F1A3D8",
+        "url": "https://i5.walmartimages.com/seo/Magnolia-Fat-Free-Sweetened-Condensed-Milk-14-Oz_3aa95c7a-75ab-4dfa-8449-7892ba5b5a92.edb9a125bab68666746d068e6c68d387.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "29793C4750F942D7B11954A9B05AB202",
+        "url": "https://i5.walmartimages.com/asr/238b0efa-6d90-4852-a78d-386ed6df7374.694ce9b3d6047c5b44e44cb0cc07cd46.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "BBA0A4AAEFBD49EA89BA116DA3621B5E",
+        "url": "https://i5.walmartimages.com/asr/06e78fac-c50a-4453-b82b-fbf28d85352a.04085f4f7dc975a139c2d2131c52756e.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "3234C69660BB443991FA8B07A077205D",
+        "url": "https://i5.walmartimages.com/asr/5b28d268-9734-4eab-992c-0dd2b0ed338f.d80706d274513f24e34e49a00ab5ae24.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "72A2DABEA14C4B9291246F31D63AA82B",
+        "url": "https://i5.walmartimages.com/asr/81e77149-10e4-4b89-89e9-1c452aed4d99.43cde62ef108d94382e4c3bbc11a914f.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "E258A3A69DE542CAA100B8BC418C32F4",
+        "url": "https://i5.walmartimages.com/asr/7b1f6247-08a5-49a0-bae6-cfa1e002dc3b.ce0005866b418d527b1153213e0d3250.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "8E2C13D452C74C6693F37C0108466C69",
+        "url": "https://i5.walmartimages.com/asr/c8a9bf34-3ecc-4045-8aa9-90932923f315.189730d8bca05269a9460c8b81f570f1.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "1DB9FCA2349B428CBCC181ABDC37B44B",
+        "url": "https://i5.walmartimages.com/asr/9a895cbe-3118-417c-996b-fdb60826f212.de0133a423280ccea9662486b1e494ee.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "56163C5C1F4449C89B5E3DA5B667F3EF",
+        "url": "https://i5.walmartimages.com/asr/21bbc8bb-2a6c-4297-af84-7628e67533e4.b6a1c616e6ed1295085ce5e9ae75ba02.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "43E764707C6845B297EFB2CF9250A2BB",
+        "url": "https://i5.walmartimages.com/asr/fd1d24b9-5aec-4310-a25d-ec014f62d3cd.6d266de9c5cfc1cdfcd41be9e90d825f.jpeg",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/Magnolia-Fat-Free-Sweetened-Condensed-Milk-14-Oz_3aa95c7a-75ab-4dfa-8449-7892ba5b5a92.edb9a125bab68666746d068e6c68d387.jpeg"
+  },
+  "location": {
+    "postalCode": "75270",
+    "stateOrProvinceCode": "TX",
+    "city": "Dallas",
+    "storeIds": [
+      "5147"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "5147",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "Magnolia Fat Free Sweetened Condensed Milk, 14 Oz",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 6,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "A6D61E3455C949C5B0B1F12E455F0059",
+  "offerType": "ONLINE_AND_STORE",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 2.27,
+      "priceString": "$2.27",
+      "variantPriceString": "$2.27",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$2.27"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.162,
+      "priceString": "16.2 ¢/oz",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": true,
+    "freeReturns": true,
+    "returnWindow": {
+      "value": 90,
+      "unitType": "Day"
+    },
+    "returnPolicyText": "Free 90-day returns",
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": null
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "TWO_DAY",
+    "deliveryDate": "2023-08-15T21:59:00.000Z",
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Condensed Milks",
+  "pickupOption": {
+    "slaTier": null,
+    "accessTypes": [],
+    "availabilityStatus": null,
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "43003233",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "652729103007",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": null,
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Refrigerate after opening. Best if used by date shown on end of can. Store in a cool, dry place. Cut along dotted line for recipe on back."
+      }
+    ],
+    "indications": null,
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "Nonfat Milk, Sugar, Vitamin A Palmitate."
+      }
+    },
+    "longDescription": "<p><strong>Magnolia Fat Free Sweetened Condensed Milk:</strong></p>  <ul>   <li>Just Milk + Sugar (- Fat) </li>   <li>Made with 100% US Milk </li>   <li>Ideal for your favorite dessert recipes </li>   <li>No artificial ingredients </li>   <li>No rBST hormones </li>   <li>Real Seal Certified </li>   <li>Certified Gluten-Free </li>   <li>Kosher (KOK-Dairy)</li>  </ul>",
+    "shortDescription": "Just Milk and Sugar (- Fat). That’s it! Made with real, simple ingredients, Magnolia Sweetened Condensed Milk provides an authentic taste for your favorite Latin and American recipes. Easy to use, you can use the whole can in your favorite desserts, or drizzle some on fruit, pancakes, or in drinks like coffee and tea to add a touch of rich, creamy flavor and joy. Now, you can enjoy it with a little less guilt. With almost 70 years of heritage, Magnolia Sweetened Condensed Milk is a brand consumers trust to make every recipe special. We use real, fresh milk and no rBST, and no artificial flavors. We are proud to offer consumers with a product that is Real Seal Certified, Certified Gluten-Free, and Kosher (KOK-Dairy). We stand by Magnolia’s high quality to give you the high-quality ingredients for all of your baking needs. Whether it is for the classics, like gourmet, indulgent Caramel Flan, or soft, luscious Tres Leches cake, or something new, Magnolia is a brand you can trust while you make all of the good stuff. Flavor you love, quality you trust, at an affordable price.",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "Magnolia"
+      },
+      {
+        "name": "Assembled Product Weight",
+        "value": "1.0425 POUNDS"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "2.95 x 2.95 x 3.31 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": [
+      {
+        "name": "Warning Text",
+        "value": "Contains milk. Caution: Do not heat in can."
+      }
+    ],
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "110",
+          "dvp": "1%",
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "0g",
+              "dvp": "0%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "0.00mg",
+              "dvp": "0%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "55.0mg",
+              "dvp": "2%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "25g",
+              "dvp": "8%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "25.0g",
+                "dvp": "40%",
+                "childNutrients": [
+                  {
+                    "name": "Includes Added Sugars",
+                    "amount": "20g",
+                    "dvp": null,
+                    "childNutrients": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "4.0g",
+              "dvp": "8%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": ".2",
+            "dvp": "4%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin C",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": "110",
+            "dvp": "1%",
+            "childNutrients": null
+          },
+          {
+            "name": "Potassium",
+            "amount": null,
+            "dvp": "4%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin D",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "10",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "41 G",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": false
+  },
+  "reviews": {
+    "averageOverallRating": 4.8333,
+    "aspects": [],
+    "lookupId": "4X2D4OPBBJAR",
+    "customerReviews": [
+      {
+        "reviewId": "288679102",
+        "rating": 4,
+        "reviewSubmissionTime": "10/19/2022",
+        "reviewText": "Great taste, great price not much you say about condensed milk",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Stephanie",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "256866044",
+        "rating": 5,
+        "reviewSubmissionTime": "4/1/2021",
+        "reviewText": null,
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Just",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "259627449",
+        "rating": 5,
+        "reviewSubmissionTime": "5/3/2021",
+        "reviewText": null,
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "BrianP",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "251667331",
+        "rating": 5,
+        "reviewSubmissionTime": "1/29/2021",
+        "reviewText": null,
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Tricia",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "265898776",
+        "rating": 5,
+        "reviewSubmissionTime": "7/22/2021",
+        "reviewText": null,
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Bunnie",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "241999267",
+        "rating": 5,
+        "reviewSubmissionTime": "11/3/2020",
+        "reviewText": null,
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Tstyle",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 5,
+    "ratingValueFourCount": 1,
+    "ratingValueOneCount": 0,
+    "ratingValueThreeCount": 0,
+    "ratingValueTwoCount": 0,
+    "roundedAverageOverallRating": 4.8,
+    "topNegativeReview": null,
+    "topPositiveReview": null,
+    "topProductMedia": null,
+    "totalMediaCount": 0,
+    "totalReviewCount": 6
+  }
+}]

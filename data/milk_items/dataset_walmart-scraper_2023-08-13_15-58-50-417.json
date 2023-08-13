@@ -1,0 +1,1129 @@
+[{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": false,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": false,
+    "subscriptionEligible": false,
+    "subscriptionTransactable": false,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": false,
+  "showSubscriptionModule": false,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 4.3,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "Meyenberg",
+  "brandUrl": "/c/brand/meyenberg",
+  "badges": {
+    "flags": [
+      {
+        "__typename": "BaseBadge",
+        "id": "L1600",
+        "text": "Best seller",
+        "key": "BESTSELLER",
+        "query": null,
+        "type": "LABEL",
+        "styleId": null
+      },
+      {
+        "__typename": "BaseBadge",
+        "id": "L1200",
+        "text": "Popular pick",
+        "key": "CUSTOMER_PICK",
+        "query": "goat milk",
+        "type": "LABEL",
+        "styleId": null
+      }
+    ],
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:46000:46001:46101:46211",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "meyenberg",
+  "productTypeId": "241",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": "00003",
+  "buyNowEligible": false,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": null
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": null,
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/Meyenberg-Whole-Goat-Milk-32-fl-oz/10818414",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:6541475:2239485",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "Dairy Milk",
+        "url": "/cp/dairy-milk/6541475"
+      },
+      {
+        "name": "All Dairy Milk",
+        "url": "/cp/all-dairy-milk/2239485"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "58",
+  "fulfillmentTitle": "title_store_delivery_curbside_pickup",
+  "shortDescription": "<p>Enjoy the creamy goodness of Meyenberg Whole Goat Milk. Easier to digest than cow milk, it's a natural choice for those sensitive to cow dairy. Goat milk has smaller size fat particles which produce a smaller and softer curd in the stomach. The smaller, softer curds are more rapidly broken down by stomach enzymes, which make goat milk more easily digestible! High in calcium, magnesium and potassium, it's also a good source of vitamin D. Its sweet, rich flavor profile is distinctive and more complex than other milks, which means it’s delicious to drink on its own and ideal for recipes as well. Our fresh milk is available in whole or low fat, whole evaporated and powdered whole and nonfat varieties (each sold separately).Meyenberg has been bringing the goodness of goat milk products to folks from coast to coast for over 85 years.</p>",
+  "fulfillmentType": "STORE",
+  "fulfillmentBadge": "Today",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Pickup, today at Sacramento Supercenter",
+      "shippingText": "Pickup",
+      "fulfillmentText": "today",
+      "locationText": "Sacramento Supercenter",
+      "fulfillmentMethod": "PICKUP",
+      "addressEligibility": false,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    },
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Delivery from store",
+      "shippingText": "Delivery from store",
+      "fulfillmentText": null,
+      "locationText": null,
+      "fulfillmentMethod": "DELIVERY",
+      "addressEligibility": true,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": false,
+      "intent": true,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "OUT_OF_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": null
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": true,
+      "intent": false,
+      "availableQuantity": 23,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento Supercenter",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "productLocation": [
+        {
+          "displayValue": "A29"
+        }
+      ],
+      "storeName": null,
+      "checkStoreAvailability": false
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": 23,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": {
+          "price": 7.95,
+          "priceString": "$7.95+"
+        },
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "6Q5C5RXVMH0M",
+  "primaryUsItemId": null,
+  "conditionType": "New",
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "FA256B8645CB4F94B9A6CDBB3B003612",
+        "url": "https://i5.walmartimages.com/seo/Meyenberg-Whole-Goat-Milk-32-fl-oz_92c3432b-566d-4a56-bc57-d27239da4ea9_1.6b481899e3ffc98daf5437dbeef9d1f6.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "21FB4B8E570E454AAEB0E001B20F2B9F",
+        "url": "https://i5.walmartimages.com/asr/f3dc9ec8-e1fb-4b26-8461-fdb39a3bcbb2_1.2bfee092116c3ec981da874cc8b97f1a.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "3CAB5C7F3EE94A3382D36CAA04237CBC",
+        "url": "https://i5.walmartimages.com/asr/9ba25367-2bd2-40e9-b604-1555b4f037d1_1.057a0a3c44a1a2d74831a8d0e09fbaf3.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "51BF3726B57B49F79E8B8853784FC4FD",
+        "url": "https://i5.walmartimages.com/asr/df1d6c29-246d-417e-be0c-04e380939d95_1.bf59e9a558a82e5041f1e9627cc4d8bb.png",
+        "zoomable": true
+      },
+      {
+        "id": "E0E2D0514FDB43A291CFEC90F7AEC7C3",
+        "url": "https://i5.walmartimages.com/asr/0c7ff313-4a9d-4028-8b00-debe31b504d9_1.487bcffdcba1f227ab9f9bf04345f4c5.png",
+        "zoomable": true
+      },
+      {
+        "id": "D0D2D0B85C19403BA9276AAB53BA858E",
+        "url": "https://i5.walmartimages.com/asr/c99c115d-ce09-463d-9b9b-d72a45c33db9_1.a2bc2a9dd9d4b6c8fc33c6d48d2521b9.png",
+        "zoomable": true
+      },
+      {
+        "id": "E6B001D1D1D340D8A002CD5824B0FC6E",
+        "url": "https://i5.walmartimages.com/asr/ab7db009-8771-4e0c-ba20-039baac5a2d3_1.e4e3d7ba59f35c57984007a62ff6d39a.png",
+        "zoomable": true
+      },
+      {
+        "id": "F8C9944946D34608A2CD519115B802B8",
+        "url": "https://i5.walmartimages.com/asr/1e610829-c841-412d-8143-a2328ca8339d_1.347982d8dda1ab3635d059e70ea578fc.png",
+        "zoomable": false
+      },
+      {
+        "id": "703636DB07A649EC8A26B1252E5A8D0D",
+        "url": "https://i5.walmartimages.com/asr/71533e88-c4cc-461f-98ff-fbb34ea9c169_1.6d1f52cb521372cdf9986b4cba2f5481.png",
+        "zoomable": true
+      },
+      {
+        "id": "39508D1BC8634A69A1BF48A21142574C",
+        "url": "https://i5.walmartimages.com/asr/e87ad7fc-6067-43cc-8aee-570c9f7b5ba1_1.de19dba6034524c987cfc2655f865e9d.png",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/Meyenberg-Whole-Goat-Milk-32-fl-oz_92c3432b-566d-4a56-bc57-d27239da4ea9_1.6b481899e3ffc98daf5437dbeef9d1f6.jpeg"
+  },
+  "location": {
+    "postalCode": "95829",
+    "stateOrProvinceCode": "CA",
+    "city": "Sacramento",
+    "storeIds": [
+      "3081"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "3081",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "Meyenberg Whole Goat Milk, 32 fl oz",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 1101,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "F63E8ABE1C924B3DAECBCB9A32127137",
+  "offerType": "ONLINE_AND_STORE",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 5.23,
+      "priceString": "$5.23",
+      "variantPriceString": "$5.23",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$5.23"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.163,
+      "priceString": "16.3 ¢/fl oz",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": null,
+    "freeReturns": null,
+    "returnWindow": {
+      "value": null,
+      "unitType": "Day"
+    },
+    "returnPolicyText": null,
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": null
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "SAME_DAY",
+    "deliveryDate": null,
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Milks",
+  "pickupOption": {
+    "slaTier": "SAME_DAY",
+    "accessTypes": [
+      "PICKUP_CURBSIDE"
+    ],
+    "availabilityStatus": "AVAILABLE",
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "10818414",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "072904000035",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverages",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": [
+    {
+      "displayValue": "A29"
+    }
+  ],
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Keep refrigerated.Shake well."
+      },
+      {
+        "name": "Safe Handling Instructions",
+        "value": "Keep Refrigerated. Best if opened by the sell-date that's listed on the package. Once opened, consume within 5 days. Shake Well."
+      }
+    ],
+    "indications": null,
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "Ingredients: Goat Milk, Vitamin D3.\nContains: Goat Milk"
+      }
+    },
+    "longDescription": "<b>Meyenberg Fresh Whole Goat Milk, Ultra Pasteurized, 32 Fl Oz</b> <ul>  <li>High in calcium and magnesium</li>  <li>High in potassium</li>  <li>Good source of Vitamin D</li>  <li>Easier to digest than cow milk</li>  <li>Ultra-pasteurized</li>  <li>Free of artificial colors, flavors, or preservatives</li>  <li></li>  <li>Delicious flavor for drinking on its own or for using in recipes</li>  <li>Smooth and creamy</li>  <li>Naturally gluten free</li>  <li>Certified Kosher</li>  <li>Refrigerate after opening</li>  <li>Recyclable packaging</li> </ul> <br />",
+    "shortDescription": "<p>Enjoy the creamy goodness of Meyenberg Whole Goat Milk. Easier to digest than cow milk, it's a natural choice for those sensitive to cow dairy. Goat milk has smaller size fat particles which produce a smaller and softer curd in the stomach. The smaller, softer curds are more rapidly broken down by stomach enzymes, which make goat milk more easily digestible! High in calcium, magnesium and potassium, it's also a good source of vitamin D. Its sweet, rich flavor profile is distinctive and more complex than other milks, which means it’s delicious to drink on its own and ideal for recipes as well. Our fresh milk is available in whole or low fat, whole evaporated and powdered whole and nonfat varieties (each sold separately).Meyenberg has been bringing the goodness of goat milk products to folks from coast to coast for over 85 years.</p>",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Features",
+        "value": "Ultra-pasteurized, Vitamin d, Easy to digest, Grade a, Kosher"
+      },
+      {
+        "name": "Brand",
+        "value": "Meyenberg"
+      },
+      {
+        "name": "Container Type",
+        "value": "Carton"
+      },
+      {
+        "name": "Flavor",
+        "value": "Unsweetened"
+      },
+      {
+        "name": "Food Allergen Statements",
+        "value": "Contains Milk"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "2.90 x 2.90 x 9.00 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": null,
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "140",
+          "dvp": null,
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "7g",
+              "dvp": "9%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "4g",
+                "dvp": "20%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Polyunsaturated Fat",
+                "amount": "2.50g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Monounsaturated Fat",
+                "amount": "1.00g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "25.00mg",
+              "dvp": "8%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "115mg",
+              "dvp": "5%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "11g",
+              "dvp": "4%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "11g",
+                "dvp": null,
+                "childNutrients": [
+                  {
+                    "name": "Includes Added Sugars",
+                    "amount": "0g",
+                    "dvp": null,
+                    "childNutrients": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "0g",
+              "dvp": "16%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": null,
+            "dvp": "6%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin C",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": "300.00mg",
+            "dvp": "25%",
+            "childNutrients": null
+          },
+          {
+            "name": "Potassium",
+            "amount": "420mg",
+            "dvp": "8%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": "0.00mg",
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin D",
+            "amount": "3.00mcg",
+            "dvp": "15%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "4",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "1 cup (240mL)",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": false
+  },
+  "reviews": {
+    "averageOverallRating": 4.3279,
+    "aspects": [
+      {
+        "id": "56",
+        "name": "Taste",
+        "score": 77,
+        "snippetCount": 456
+      },
+      {
+        "id": "4",
+        "name": "Coffee",
+        "score": 94,
+        "snippetCount": 108
+      },
+      {
+        "id": "84268",
+        "name": "Protein",
+        "score": 100,
+        "snippetCount": 85
+      },
+      {
+        "id": "9552",
+        "name": "Texture",
+        "score": 97,
+        "snippetCount": 56
+      },
+      {
+        "id": "48",
+        "name": "Price",
+        "score": 22,
+        "snippetCount": 36
+      },
+      {
+        "id": "4391",
+        "name": "Creamy",
+        "score": 98,
+        "snippetCount": 33
+      },
+      {
+        "id": "1128",
+        "name": "Smell",
+        "score": 55,
+        "snippetCount": 31
+      },
+      {
+        "id": "4154",
+        "name": "Alternative",
+        "score": 100,
+        "snippetCount": 27
+      },
+      {
+        "id": "516",
+        "name": "Smoothness",
+        "score": 100,
+        "snippetCount": 26
+      },
+      {
+        "id": "9622",
+        "name": "Smoothies",
+        "score": 95,
+        "snippetCount": 20
+      },
+      {
+        "id": "4360",
+        "name": "Consistency",
+        "score": 80,
+        "snippetCount": 20
+      },
+      {
+        "id": "393",
+        "name": "Drink",
+        "score": 75,
+        "snippetCount": 20
+      },
+      {
+        "id": "4305",
+        "name": "Aftertaste",
+        "score": 45,
+        "snippetCount": 20
+      },
+      {
+        "id": "6701",
+        "name": "Digestion",
+        "score": 75,
+        "snippetCount": 16
+      },
+      {
+        "id": "407",
+        "name": "Kids",
+        "score": 100,
+        "snippetCount": 15
+      },
+      {
+        "id": "155",
+        "name": "Quality",
+        "score": 100,
+        "snippetCount": 11
+      },
+      {
+        "id": "179272",
+        "name": "Lactose",
+        "score": 80,
+        "snippetCount": 10
+      },
+      {
+        "id": "208",
+        "name": "Package",
+        "score": 89,
+        "snippetCount": 9
+      },
+      {
+        "id": "2394",
+        "name": "Richness",
+        "score": 100,
+        "snippetCount": 8
+      },
+      {
+        "id": "656",
+        "name": "Option",
+        "score": 100,
+        "snippetCount": 8
+      },
+      {
+        "id": "8742208",
+        "name": "Founding Out",
+        "score": 100,
+        "snippetCount": 8
+      },
+      {
+        "id": "1197",
+        "name": "Chocolate",
+        "score": 100,
+        "snippetCount": 8
+      },
+      {
+        "id": "59270",
+        "name": "Ingredients",
+        "score": 100,
+        "snippetCount": 7
+      },
+      {
+        "id": "9217",
+        "name": "Calcium",
+        "score": 100,
+        "snippetCount": 6
+      },
+      {
+        "id": "284",
+        "name": "Value",
+        "score": 100,
+        "snippetCount": 6
+      }
+    ],
+    "lookupId": "6Q5C5RXVMH0M",
+    "customerReviews": [
+      {
+        "reviewId": "262673304",
+        "rating": 5,
+        "reviewSubmissionTime": "6/11/2021",
+        "reviewText": "I don't have digestive problems as long as I drink only this Meyenberg goat milk, 3 cups a day for calcium and protein.  Too expensive to cook with so I buy regular milk for that, but worth every penny for daily milk intake.  It makes the best chocolate milk in the world.   I'm very allergic to the A1 protein in Jersey milk which is 99% of the cow milk on the market so I hope Walmart keeps a consistent supply of this in stock!.   You can see I have over 2 gallons (9 quarts) in my fridge right now, since it has a long shelf life I can buy it a case at a time which is 3 gallons.",
+        "reviewTitle": "Best milk ever for IBS - great taste!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "lovetosew66",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "306503292",
+        "rating": 5,
+        "reviewSubmissionTime": "5/18/2023",
+        "reviewText": "I love this!  I tried it because goat products are supposedly excellent for health and metabolism, but I will be drinking this for pleasure from now on!  To me is does not taste very 'goaty'.  I think it tastes much like regular milk but better.  Has a more robust, less sugary, more wholesome taste.  I drank the whole milk and I like that it is not \"ultra pasteurized\" as some are.  Wish I had discovered this sooner for the health benefits.",
+        "reviewTitle": "I love this! Will never go back to cow's milk.",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "NewHealthNut",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "28284405",
+        "rating": 5,
+        "reviewSubmissionTime": "5/30/2014",
+        "reviewText": "I have been wanting to try Goat milk for some time and just happen to see this Meyenberg Goat Milk at Walmart and purchased it. I was so surprised that it was so good and the more I drank of it, I found that it was - what I would call Smoother than cow's milk. (And I've been drinking Horizon Milk which tastes great!)\n\nI will state that I've had a very small allergic reaction to cow's milk all my life - nothing big, just that I always had to clear my throat, cough a little after eating cheese or drinking milk. Nothing that kept me from it.\nNONE of that has occurred after drinking this Goat's Milk.\n\nI'm sold on it! And hopefully our local Walmart will stock other products by Meyenberg.\nBy the way, I checked them out online & found out that the Goat Milk is Kosher!",
+        "reviewTitle": "My 1st time to drink Goat Milk",
+        "negativeFeedback": 7,
+        "positiveFeedback": 35,
+        "userNickname": "bms29",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Merit",
+            "id": "top25Contributor",
+            "contentType": "REVIEW",
+            "glassBadge": null
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "310727230",
+        "rating": 5,
+        "reviewSubmissionTime": "7/9/2023",
+        "reviewText": "Wish it was not this expensive",
+        "reviewTitle": "What can I say I love goat milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Erin",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "232113199",
+        "rating": 5,
+        "reviewSubmissionTime": "7/1/2020",
+        "reviewText": "it's great for kittens when the mom doesn\" t have enough milk. They love it",
+        "reviewTitle": null,
+        "negativeFeedback": 1,
+        "positiveFeedback": 7,
+        "userNickname": "Dawn",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "297268564",
+        "rating": 5,
+        "reviewSubmissionTime": "12/30/2022",
+        "reviewText": "Tastes great, cheaper at Walmart than other places.",
+        "reviewTitle": "Not too sweet.  How I like it.",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Paula",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "300985008",
+        "rating": 5,
+        "reviewSubmissionTime": "2/22/2023",
+        "reviewText": "This product is vital and necessary for my pets!!   Why don't you carry anymore??",
+        "reviewTitle": "Been buying for years, now they stopped stocking:(",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Shelly",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "308367877",
+        "rating": 5,
+        "reviewSubmissionTime": "6/12/2023",
+        "reviewText": "As someone who loves goat milk this is some fantastic GOAT milk! Again yes GOAT milk does taste like other GOAT dairy products. It's almost like they are made out of the same thing…I mean who would have thunk it? GOAT milk tastes exactly like….(drum roll please)…..GOAT milk! Reading the bad reviews for this milk really makes me lose hope in humanity. If you hate goat milk fine, but review the product itself not the discovery of your hatred for goat milk because you have never tried it before. So if you like goat milk and are looking for an easy way to get it without waking up at 5am to milk teats or chasing down your goat owning neighbor begging to buy some then this is for you!",
+        "reviewTitle": "Fantastic easy access to goat milk!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Tressa",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "289102677",
+        "rating": 1,
+        "reviewSubmissionTime": "10/24/2022",
+        "reviewText": "I had just 11 pieces and I do not know how to let that I did not have 12",
+        "reviewTitle": "Goat milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Aleksandra",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "285125415",
+        "rating": 1,
+        "reviewSubmissionTime": "8/28/2022",
+        "reviewText": "item is expired",
+        "reviewTitle": "expired milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "saran",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 642,
+    "ratingValueFourCount": 286,
+    "ratingValueOneCount": 41,
+    "ratingValueThreeCount": 106,
+    "ratingValueTwoCount": 26,
+    "roundedAverageOverallRating": 4.3,
+    "topNegativeReview": {
+      "reviewId": "289102677",
+      "rating": 1,
+      "reviewSubmissionTime": "10/24/2022",
+      "userNickname": "Aleksandra",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "I had just 11 pieces and I do not know how to let that I did not have 12",
+      "reviewTitle": "Goat milk",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "clientResponses": null,
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "media": null
+    },
+    "topPositiveReview": {
+      "reviewId": "262673304",
+      "rating": 5,
+      "reviewSubmissionTime": "6/11/2021",
+      "userNickname": "lovetosew66",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "I don't have digestive problems as long as I drink only this Meyenberg goat milk, 3 cups a day for calcium and protein.  Too expensive to cook with so I buy regular milk for that, but worth every penny for daily milk intake.  It makes the best chocolate milk in the world.   I'm very allergic to the A1 protein in Jersey milk which is 99% of the cow milk on the market so I hope Walmart keeps a consistent supply of this in stock!.   You can see I have over 2 gallons (9 quarts) in my fridge right now, since it has a long shelf life I can buy it a case at a time which is 3 gallons.",
+      "reviewTitle": "Best milk ever for IBS - great taste!",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "clientResponses": null,
+      "media": null
+    },
+    "topProductMedia": null,
+    "totalMediaCount": 3,
+    "totalReviewCount": 1101
+  }
+}]

@@ -1,0 +1,1121 @@
+[{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": false,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": false,
+    "subscriptionEligible": false,
+    "subscriptionTransactable": false,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": false,
+  "showSubscriptionModule": false,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 4.4,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "fairlife",
+  "brandUrl": "/c/brand/fairlife",
+  "badges": {
+    "flags": [
+      {
+        "__typename": "BaseBadge",
+        "id": "L1600",
+        "text": "Best seller",
+        "key": "BESTSELLER",
+        "query": null,
+        "type": "LABEL",
+        "styleId": null
+      },
+      {
+        "__typename": "BaseBadge",
+        "id": "L1200",
+        "text": "Popular pick",
+        "key": "CUSTOMER_PICK",
+        "query": "fairlife fat free milk",
+        "type": "LABEL",
+        "styleId": null
+      }
+    ],
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:46000:46001:46101:46211",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "00856312002757",
+  "productTypeId": "241",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": "5631200275",
+  "buyNowEligible": false,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": null
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": null,
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/fairlife-Lactose-Free-Fat-Free-Ultra-Filtered-Milk-52-fl-oz/43984342",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:9963997",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "Non Dairy Milk",
+        "url": "/cp/non-dairy-milk/9963997"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "58",
+  "fulfillmentTitle": "title_store_delivery_curbside_pickup",
+  "shortDescription": "We are driven by a simple belief: we can always make the world better.Proper nourishment allows us all to grow and thrive. At fairlife, we provide the health and vitality people need by starting with the wholesome simplicity of real cow’s milk.All our milk flows through soft filters to concentrate its goodness like protein and calcium while filtering out some of the natural sugars. Our delicious and satisfying fairlife Fat-Free Ultra-Filtered Milk has 50% less sugar and 50% more protein than regular milk. Plus, there’s no artificial growth hormones used and it’s lactose free.So sip, drink and chug as you enjoy our delicious ultra-filtered milk.",
+  "fulfillmentType": "STORE",
+  "fulfillmentBadge": "Today",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Pickup, today at Sacramento Supercenter",
+      "shippingText": "Pickup",
+      "fulfillmentText": "today",
+      "locationText": "Sacramento Supercenter",
+      "fulfillmentMethod": "PICKUP",
+      "addressEligibility": false,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    },
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Delivery from store",
+      "shippingText": "Delivery from store",
+      "fulfillmentText": null,
+      "locationText": null,
+      "fulfillmentMethod": "DELIVERY",
+      "addressEligibility": true,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": false,
+      "intent": true,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": null
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": true,
+      "intent": false,
+      "availableQuantity": 29,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento Supercenter",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "productLocation": [
+        {
+          "displayValue": "A29"
+        }
+      ],
+      "storeName": null,
+      "checkStoreAvailability": false
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": 29,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": {
+          "price": 7.95,
+          "priceString": "$7.95+"
+        },
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "1I8WEL8P3JDS",
+  "primaryUsItemId": null,
+  "conditionType": "New",
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "8F550C8C7148485085F5BCAF63FC3D6A",
+        "url": "https://i5.walmartimages.com/seo/fairlife-Lactose-Free-Fat-Free-Ultra-Filtered-Milk-52-fl-oz_9519e7cc-402d-4eb3-ba75-b0397af322fd.7e2dc99c779db55511e02e4aa6c6f9ff.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "128420F2AB3647298CA443A6EF41823B",
+        "url": "https://i5.walmartimages.com/asr/09bdd373-eed0-4364-adb8-539b70abef2a.30c497e1559e56f3676bc216c5f778a6.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "BF87C033A5CC4836BE838D1826EF748A",
+        "url": "https://i5.walmartimages.com/asr/f4973842-93e3-4def-9aee-1212e341ec0e.0d9b2c4f5f59152376126c189c193bd1.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "D3B89535AEFD4E17A77F64C70B19ABDA",
+        "url": "https://i5.walmartimages.com/asr/6eb427b5-aaed-429b-8bdd-02b2b754ecf7.13241c7358aab6b643d16488eb9f5796.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "6632AF188E4E4807B0DC15252E1CC329",
+        "url": "https://i5.walmartimages.com/asr/dec7b4bc-3671-40eb-b6fc-c5617ccc98e5.121875ca9f15e35c82ae1164524d6b59.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "C206BD5041F74ED4980BF9096CBE6FDA",
+        "url": "https://i5.walmartimages.com/asr/f475f870-a8f2-4c75-abfd-2ca77aec0e15.dd293d90264db2d32e6a647f08b28458.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "760C5F0D69764B7B8F42DCF90C47D42D",
+        "url": "https://i5.walmartimages.com/asr/91d1b9c1-9ca1-4322-9d0b-2af5b19cee00.78b5e3eaf6bfe4e6169c884a71dc5b78.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "DCE92826F65D4CE5B7C4BF877BD8BCCF",
+        "url": "https://i5.walmartimages.com/asr/38f0e2bd-add7-43d9-9ddf-6e41ff79a4d5.aaa5f1faf5888088632dc3627a09d17e.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "76FECBA0C0C440DD98E0FF966EF33B2D",
+        "url": "https://i5.walmartimages.com/asr/821f7bbf-f021-41d5-acc4-4b1ff570cdd3.ede0bd5b83be1c8dc06f140cfac172a7.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "A12265B14EBD4940BADC68B86F9C19F3",
+        "url": "https://i5.walmartimages.com/asr/7ae3416f-d119-4308-9a28-6e222a5cabca.e1dd7ba4f0e040b5d757cd4a36a8f8fc.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "B3960B0EE72141CC9B3AE3A968962A28",
+        "url": "https://i5.walmartimages.com/asr/b261b57e-e366-4dfd-8317-bcb3842dd7cd.96dc94d0245bd458e1cee4a157b41535.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "FD8D72485A61448AA0D51AD89BED6D76",
+        "url": "https://i5.walmartimages.com/asr/5d4d20f3-64df-4f88-8d7b-a705be54f722.fdaaa2a5c12c92eac8da7b53753ebdab.jpeg",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/fairlife-Lactose-Free-Fat-Free-Ultra-Filtered-Milk-52-fl-oz_9519e7cc-402d-4eb3-ba75-b0397af322fd.7e2dc99c779db55511e02e4aa6c6f9ff.jpeg"
+  },
+  "location": {
+    "postalCode": "95829",
+    "stateOrProvinceCode": "CA",
+    "city": "Sacramento",
+    "storeIds": [
+      "3081"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "3081",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "fairlife Lactose Free Fat Free Ultra Filtered Milk, 52 fl oz",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 3053,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "0EFA64DD1FD446E78CC18EAFEAF7EE8A",
+  "offerType": "STORE_ONLY",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 4.38,
+      "priceString": "$4.38",
+      "variantPriceString": "$4.38",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$4.38"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.084,
+      "priceString": "8.4 ¢/fl oz",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": null,
+    "freeReturns": null,
+    "returnWindow": {
+      "value": null,
+      "unitType": "Day"
+    },
+    "returnPolicyText": null,
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": null
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "SAME_DAY",
+    "deliveryDate": null,
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Milks",
+  "pickupOption": {
+    "slaTier": "SAME_DAY",
+    "accessTypes": [
+      "PICKUP_CURBSIDE"
+    ],
+    "availabilityStatus": "AVAILABLE",
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "43984342",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "856312002757",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": [
+    {
+      "displayValue": "A29"
+    }
+  ],
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Ready to drink"
+      }
+    ],
+    "indications": null,
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "NONFAT ULTRA-FILTERED MILK, LACTASE ENZYME, VITAMIN A PALMITATE, VITAMIN D3."
+      }
+    },
+    "longDescription": "<ul>  <li>50% more protein and 50% less sugar than regular milk</li>  <li>13g of protein per serving</li>  <li>Delicious, satisfying and lactose-free</li>  <li>No Artificial Growth Hormones Used*</li>  <li>52oz bottle</li>  <li>*No significant difference has been shown between milk derived from rbST-treated and non-rbST treated cows</li> </ul>",
+    "shortDescription": "We are driven by a simple belief: we can always make the world better.Proper nourishment allows us all to grow and thrive. At fairlife, we provide the health and vitality people need by starting with the wholesome simplicity of real cow’s milk.All our milk flows through soft filters to concentrate its goodness like protein and calcium while filtering out some of the natural sugars. Our delicious and satisfying fairlife Fat-Free Ultra-Filtered Milk has 50% less sugar and 50% more protein than regular milk. Plus, there’s no artificial growth hormones used and it’s lactose free.So sip, drink and chug as you enjoy our delicious ultra-filtered milk.",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "fairlife"
+      },
+      {
+        "name": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "name": "Flavor",
+        "value": "Milk"
+      },
+      {
+        "name": "Food Allergen Statements",
+        "value": "Contains Milk"
+      },
+      {
+        "name": "Allergen-Free Statements",
+        "value": "Lactose-Free"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "3.76 x 3.76 x 9.84 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": null,
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "80",
+          "dvp": null,
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "0g",
+              "dvp": "0%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "0.0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0.0g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "5.0mg",
+              "dvp": "2%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "120.0mg",
+              "dvp": "5%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "6g",
+              "dvp": "2%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "0.0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "6.0g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "13.0g",
+              "dvp": "26%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": null,
+            "dvp": "20%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin C",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": null,
+            "dvp": "40%",
+            "childNutrients": null
+          },
+          {
+            "name": "Potassium",
+            "amount": "400.0mg",
+            "dvp": "11%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin D",
+            "amount": null,
+            "dvp": "25%",
+            "childNutrients": null
+          },
+          {
+            "name": "Riboflavin",
+            "amount": null,
+            "dvp": "20%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin B12",
+            "amount": null,
+            "dvp": "20%",
+            "childNutrients": null
+          },
+          {
+            "name": "Phosphorus",
+            "amount": null,
+            "dvp": "25%",
+            "childNutrients": null
+          },
+          {
+            "name": "Magnesium",
+            "amount": null,
+            "dvp": "6%",
+            "childNutrients": null
+          },
+          {
+            "name": "Zinc",
+            "amount": null,
+            "dvp": "10%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "1.0",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "1 Cup",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": false
+  },
+  "reviews": {
+    "averageOverallRating": 4.415,
+    "aspects": [],
+    "lookupId": "48fe80c0-1efa-11ee-80df-513610372ac3",
+    "customerReviews": [
+      {
+        "reviewId": "224300060",
+        "rating": 5,
+        "reviewSubmissionTime": "1/17/2020",
+        "reviewText": "I have got a coupon to receive one of these at a lower price either the low fat milk or chocolate and i got the chocolate version and i love it! so much it taste like straight up chocolate milk with whip cream and i loved it so much. i highly recommend this so anyone who is lactose free and want a better source of dairy this it the to go to product! from this point forward i have been buying his brand of milk Fairlife because its so much better and half the sugar of actual regular milk.",
+        "reviewTitle": "THE BEST EVER",
+        "negativeFeedback": 3,
+        "positiveFeedback": 20,
+        "userNickname": "TBrand96",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "SRIncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Merit",
+            "id": "top1000Contributor",
+            "contentType": "REVIEW",
+            "glassBadge": null
+          },
+          {
+            "badgeType": "Custom",
+            "id": "IncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "223994268",
+        "rating": 5,
+        "reviewSubmissionTime": "1/10/2020",
+        "reviewText": "The Fairlife Milk 52 fl oz - Lactose Free Fat Free Skim Milk in my opinion is a perfect addition to changing my milk intake for my morning breakfast without making me feel like I'm drinking watery milk. My experience during and after my pregnancy I've turned lactose intolerant and even when I've tried other milks and replacement milks, they have a fatty after taste which made me gag a bit but with fairlife skim the milk taste full in texture, also light feel without the fatty taste or feel of other skim milk brands and it let's me eat cereal and doesn't over take the flavor away from my cereal. One cup is enough for me to feel fulfilled. Drink within 14 days for freshness.",
+        "reviewTitle": "I feel the difference",
+        "negativeFeedback": 5,
+        "positiveFeedback": 15,
+        "userNickname": "misssunshine2014",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "IncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Custom",
+            "id": "SRIncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Merit",
+            "id": "top1000Contributor",
+            "contentType": "REVIEW",
+            "glassBadge": null
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "224714062",
+        "rating": 5,
+        "reviewSubmissionTime": "2/1/2020",
+        "reviewText": "Fairlife milk with lactose free and fat reduced chocolate milk was a score for our family. The chocolate milk is rich and full of flavor, and 2% milk. Our family considers this a winner, and it was gone in 2-days. It has 50% less sugar, no growth hormones, and is high in protein.",
+        "reviewTitle": "Winner in our home",
+        "negativeFeedback": 0,
+        "positiveFeedback": 14,
+        "userNickname": "Trina",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "IncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Custom",
+            "id": "SRIncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Merit",
+            "id": "top1000Contributor",
+            "contentType": "REVIEW",
+            "glassBadge": null
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "223931545",
+        "rating": 5,
+        "reviewSubmissionTime": "1/8/2020",
+        "reviewText": "Fairlife Chocolate 2% Reduced Fat Ultra-Filtered Milk is lactose free and has 43% less fat than whole ultra-filtered milk. It contains 13 grams of protein, 9 essential nutrients, and only 140 calories per 1 cup serving. This milk is so creamy and delicious, almost like a milk shake, just not in frozen form. It is medium-dark in colour and has the most chocolatey taste. If you tend to get a chocolate craving, like I do occasionally, this would be a great alternative to get your chocolate “fix” and some nutrients in the process. I think kids will LOVE this beverage! The bottle indicates that you should use within 14 days of opening—don't worry, it won't last that long! I would recommend this product.",
+        "reviewTitle": "Exceptional chocolate flavour",
+        "negativeFeedback": 2,
+        "positiveFeedback": 13,
+        "userNickname": "Carla",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "IncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Custom",
+            "id": "SRIncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Merit",
+            "id": "top500Contributor",
+            "contentType": "REVIEW",
+            "glassBadge": null
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "223926543",
+        "rating": 5,
+        "reviewSubmissionTime": "1/7/2020",
+        "reviewText": "I am so glad I was able to locate Fairlife Milk 52 fl oz - Lactose Free 2% Chocolate Milk at my local Walmart. I have seen this time and again but thought that it would taste like every other Chocolate Milk out there. Quite contrary to that belief. Not only does this amazing Fairlife Chocolate Milk taste like a thick shake (unlike other Chocolate Milk's) but this is 2% Milk with Lactose which cuts the sugars in half of that of other chocolate milks but it also has no hormones. It has 13g of Protein per serving and you get 52 fl oz. I am not a big milk drinker but this is something I could see myself enjoying quite often. Its not only a treat but with half the sugars its really a healthy alternative to other chocolate milk's and chocolate drinks. I highly recommend this Fairlife Chocolate Milk!",
+        "reviewTitle": "Taste like a thick chocolate shake!",
+        "negativeFeedback": 1,
+        "positiveFeedback": 7,
+        "userNickname": "Love2Shop715",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "IncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Custom",
+            "id": "SRIncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Merit",
+            "id": "top250Contributor",
+            "contentType": "REVIEW",
+            "glassBadge": null
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "224482355",
+        "rating": 5,
+        "reviewSubmissionTime": "1/24/2020",
+        "reviewText": "I did a side by side taste test of this to the normal milk we buy. They tasted identical. But this somehow has 50% less sugar and 13g of protein per serving. Howwww! It's also lactose free. Again I say HOWWWW. I've never tasted better lactose free milk. As far as taste goes this is the milk you want if you are looking for high quality that tastes the same. It also still contains 9 essential nutrients. Awesome!!",
+        "reviewTitle": "Tastes the same but with perks",
+        "negativeFeedback": 1,
+        "positiveFeedback": 3,
+        "userNickname": "TheWittyB",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "IncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Custom",
+            "id": "SRIncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "223855882",
+        "rating": 5,
+        "reviewSubmissionTime": "1/5/2020",
+        "reviewText": "I can't drink milk without getting ill. I tried this milk and to my shocked mouth, it has a full milk taste. \r\nIf I had heard of this sooner I would have bought it. There is no gross after taste either. I found the size of the bottle ok for me who is disabled. I could carry it. But boy thins would be the best on some cereal. When I first tasted it I thought it was like Parmalat milk which is also great for those who get ill drinking regular milk. \r\n\r\nIt was hard finding a store to get this one.",
+        "reviewTitle": "awesome",
+        "negativeFeedback": 1,
+        "positiveFeedback": 3,
+        "userNickname": "Sharon",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "IncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Custom",
+            "id": "SRIncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "223936605",
+        "rating": 4,
+        "reviewSubmissionTime": "1/8/2020",
+        "reviewText": "The Fairlife Milk 52 fl oz-Lactose Free Reduced Fat 2% Milk is much easier on my stomach than regular milk. I have a few stomach issues and being lactose intolerant is one of them. The Fairlife milk tastes just like regular milk, it just doesn't cause the belly pain. It's also got a lot of protein in it . I received this product for free as a Spark Reviewer.",
+        "reviewTitle": "Good for my stomach",
+        "negativeFeedback": 1,
+        "positiveFeedback": 3,
+        "userNickname": "Angel",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "IncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          },
+          {
+            "badgeType": "Custom",
+            "id": "SRIncentivizedReviewYes",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "IncentivizedReview",
+              "text": "Incentivized Review"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "304070616",
+        "rating": 2,
+        "reviewSubmissionTime": "4/7/2023",
+        "reviewText": "The expiration date on this particular item was from 2013. Items that are picked up by shoppers need to be date checked before they bag them and send them to Customer. I am requesting a refund for this item or a new bottle to be sent to me.",
+        "reviewTitle": null,
+        "negativeFeedback": 2,
+        "positiveFeedback": 1,
+        "userNickname": "Lisa",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "308300733",
+        "rating": 1,
+        "reviewSubmissionTime": "6/11/2023",
+        "reviewText": "It was given to me damaged...the whole top was smashed in",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Linda",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 2315,
+    "ratingValueFourCount": 300,
+    "ratingValueOneCount": 271,
+    "ratingValueThreeCount": 99,
+    "ratingValueTwoCount": 68,
+    "roundedAverageOverallRating": 4.4,
+    "topNegativeReview": {
+      "reviewId": "308300733",
+      "rating": 1,
+      "reviewSubmissionTime": "6/11/2023",
+      "userNickname": "Linda",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "It was given to me damaged...the whole top was smashed in",
+      "reviewTitle": null,
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "clientResponses": [],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "media": null
+    },
+    "topPositiveReview": {
+      "reviewId": "224300060",
+      "rating": 5,
+      "reviewSubmissionTime": "1/17/2020",
+      "userNickname": "TBrand96",
+      "negativeFeedback": 3,
+      "positiveFeedback": 20,
+      "reviewText": "I have got a coupon to receive one of these at a lower price either the low fat milk or chocolate and i got the chocolate version and i love it! so much it taste like straight up chocolate milk with whip cream and i loved it so much. i highly recommend this so anyone who is lactose free and want a better source of dairy this it the to go to product! from this point forward i have been buying his brand of milk Fairlife because its so much better and half the sugar of actual regular milk.",
+      "reviewTitle": "THE BEST EVER",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "SRIncentivizedReviewYes",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "IncentivizedReview",
+            "text": "Incentivized Review"
+          }
+        },
+        {
+          "badgeType": "Merit",
+          "id": "top1000Contributor",
+          "contentType": "REVIEW",
+          "glassBadge": null
+        },
+        {
+          "badgeType": "Custom",
+          "id": "IncentivizedReviewYes",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "IncentivizedReview",
+            "text": "Incentivized Review"
+          }
+        }
+      ],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "clientResponses": [],
+      "media": null
+    },
+    "topProductMedia": null,
+    "totalMediaCount": 275,
+    "totalReviewCount": 3053
+  }
+}]

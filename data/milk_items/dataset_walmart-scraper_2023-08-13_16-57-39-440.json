@@ -1,0 +1,879 @@
+[{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": false,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": false,
+    "subscriptionEligible": false,
+    "subscriptionTransactable": false,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": false,
+  "showSubscriptionModule": false,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 4.2,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "Great Value",
+  "brandUrl": "/c/brand/great-value",
+  "badges": {
+    "flags": [
+      {
+        "__typename": "BaseBadge",
+        "id": "L1600",
+        "text": "Best seller",
+        "key": "BESTSELLER",
+        "query": null,
+        "type": "LABEL",
+        "styleId": null
+      },
+      {
+        "__typename": "BaseBadge",
+        "id": "L1200",
+        "text": "Popular pick",
+        "key": "CUSTOMER_PICK",
+        "query": "great value oat milk",
+        "type": "LABEL",
+        "styleId": null
+      }
+    ],
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:46000:46001:46101:46212",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "1015938",
+  "productTypeId": "262",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": null,
+  "buyNowEligible": false,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": null
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": null,
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/Great-Value-Extra-Creamy-Oatmilk-59-fl-oz/628809485",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:3107987:7668028",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "Plant Based Milk",
+        "url": "/cp/plant-based-milk/3107987"
+      },
+      {
+        "name": "Oat Milk",
+        "url": "/cp/oat-milk/7668028"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "1",
+  "fulfillmentTitle": "title_store_delivery_curbside_pickup",
+  "shortDescription": "<p>Enjoy the smooth taste and silky texture of Great Value Extra Creamy Oatmilk on its own or in recipes in place of dairy milk. This nutritious beverage is a great option for people who are lactose-intolerant or who are just looking for something different. A good source of vitamins A, D, and zinc, it is also rich in calcium. You may even come to prefer the gentle flavor of oatmilk, and the half-gallon carton provides plenty for experimentation. It's delicious over cereal, in tea or coffee, in recipes, or all by itself. Stay healthy with Great Value Extra Creamy Oatmilk.</p><p>Great Value products provide families with affordable, high-quality grocery and household consumable options. With our wide range of product categories spanning grocery and household consumables, we offer you a variety of products for your family's needs. Our products are conveniently available online and in Walmart stores nationwide, allowing you to stock up and save money at the same time.</p><br />",
+  "fulfillmentType": "STORE",
+  "fulfillmentBadge": "Today",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Pickup, today at Sacramento Supercenter",
+      "shippingText": "Pickup",
+      "fulfillmentText": "today",
+      "locationText": "Sacramento Supercenter",
+      "fulfillmentMethod": "PICKUP",
+      "addressEligibility": false,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    },
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Delivery from store",
+      "shippingText": "Delivery from store",
+      "fulfillmentText": null,
+      "locationText": null,
+      "fulfillmentMethod": "DELIVERY",
+      "addressEligibility": true,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": false,
+      "intent": true,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": null
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": true,
+      "intent": false,
+      "availableQuantity": 9999,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento Supercenter",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "productLocation": [
+        {
+          "displayValue": "A29"
+        }
+      ],
+      "storeName": null,
+      "checkStoreAvailability": false
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": 9999,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": {
+          "price": 7.95,
+          "priceString": "$7.95+"
+        },
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "43695N7IR2P4",
+  "primaryUsItemId": null,
+  "conditionType": null,
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "E980BD4261324CF8B31CF4888F27FD5B",
+        "url": "https://i5.walmartimages.com/seo/Great-Value-Extra-Creamy-Oatmilk-59-fl-oz_c1d18ea8-005f-4002-8644-f28473c42246.9927c1e72a4636bb777d9d8f4afd17f9.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "77E0F22E0E734417A106666D30F110EA",
+        "url": "https://i5.walmartimages.com/asr/f5d51705-014a-4ec1-aaa0-efe32fb47e63.681b7b17573254db61342e8c1bb75c61.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "76E81B9C4A004DE5B26DDD775C3EC8C8",
+        "url": "https://i5.walmartimages.com/asr/3b552373-277c-4e5b-b8b3-cee24e5ce4dc.06eb8f2009f7768810d58579faad0744.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "E42635B18A2F438CAB49F4C630D5F331",
+        "url": "https://i5.walmartimages.com/asr/937b8ad7-0f0f-4039-a0ca-c505f6713553.fd29be8110d0504246b1ce95f2f616f1.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "E6D13E378D8D4FAA8B4A2AA5CB6E756E",
+        "url": "https://i5.walmartimages.com/asr/a411e4b6-d65a-4da7-898f-e88773291fbc.5bc3127498e097f157166c1ce8677434.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "05F9AF9843B84959A65EF85495E43790",
+        "url": "https://i5.walmartimages.com/asr/97b34247-acfd-41c0-8ad4-e16f2452973a.06c5fc54dccbd2fe4f4aa7e29fc7b8de.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "8AB0C87BA6F249DB95277B4C63D89573",
+        "url": "https://i5.walmartimages.com/asr/7ae01775-970a-4f82-ae80-5afd7ecec884.e3641d92b48e505347b23e1bf6bef47c.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "0049CF76728D4DE2AC290ABAEBA8615C",
+        "url": "https://i5.walmartimages.com/asr/d454a936-e7fb-4895-ba8f-c2ba81d1b96c.04446ca9d64785918915443ce9c31051.jpeg",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/Great-Value-Extra-Creamy-Oatmilk-59-fl-oz_c1d18ea8-005f-4002-8644-f28473c42246.9927c1e72a4636bb777d9d8f4afd17f9.jpeg"
+  },
+  "location": {
+    "postalCode": "95829",
+    "stateOrProvinceCode": "CA",
+    "city": "Sacramento",
+    "storeIds": [
+      "3081"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "3081",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "Great Value Extra Creamy Oatmilk, 59 fl oz",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 53,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "4362C4FFD65341158CF89694944C06D0",
+  "offerType": "STORE_ONLY",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 3.78,
+      "priceString": "$3.78",
+      "variantPriceString": "$3.78",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$3.78"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.064,
+      "priceString": "6.4 ¢/fl oz",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": null,
+    "freeReturns": null,
+    "returnWindow": {
+      "value": null,
+      "unitType": "Day"
+    },
+    "returnPolicyText": null,
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": null
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "SAME_DAY",
+    "deliveryDate": null,
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Plant-Based Milk",
+  "pickupOption": {
+    "slaTier": "SAME_DAY",
+    "accessTypes": [
+      "PICKUP_CURBSIDE"
+    ],
+    "availabilityStatus": "AVAILABLE",
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "628809485",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "078742280448",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": [
+    {
+      "displayValue": "A29"
+    }
+  ],
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Safe Handling Instructions",
+        "value": "Keep Refrigerated."
+      }
+    ],
+    "indications": null,
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "Oatmilk (Water, Oats), High Oleic Canola Oil, Calcium Carbonate, Dipotassium Phosphate, Salt, Vitamin B12, Zinc, Vitamin B2 (Riboflavin), Vitamin A Palmitate, Vitamin D2."
+      }
+    },
+    "longDescription": "<b>Great Value Extra Creamy Oatmilk, 59 fl oz:</b> <ul>  <li>No artificial preservatives</li>  <li>No artificial colors</li>  <li>No artificial flavors</li>  <li>No stabilizers</li>  <li>0 g trans fat per serving</li>  <li>7 servings per container</li>  <li>120 calories per serving</li> </ul>",
+    "shortDescription": "<p>Enjoy the smooth taste and silky texture of Great Value Extra Creamy Oatmilk on its own or in recipes in place of dairy milk. This nutritious beverage is a great option for people who are lactose-intolerant or who are just looking for something different. A good source of vitamins A, D, and zinc, it is also rich in calcium. You may even come to prefer the gentle flavor of oatmilk, and the half-gallon carton provides plenty for experimentation. It's delicious over cereal, in tea or coffee, in recipes, or all by itself. Stay healthy with Great Value Extra Creamy Oatmilk.</p> <p>Great Value products provide families with affordable, high-quality grocery and household consumable options. With our wide range of product categories spanning grocery and household consumables, we offer you a variety of products for your family's needs. Our products are conveniently available online and in Walmart stores nationwide, allowing you to stock up and save money at the same time.</p> <br />",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Container Type",
+        "value": "Carton"
+      },
+      {
+        "name": "Flavor",
+        "value": "Extra Creamy"
+      },
+      {
+        "name": "Food Form",
+        "value": "Liquids"
+      },
+      {
+        "name": "Brand",
+        "value": "Great Value"
+      },
+      {
+        "name": "Allergen-Free Statements",
+        "value": "Dairy-Free"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": [
+      {
+        "name": "WARNING - California Proposition 65",
+        "value": "None"
+      }
+    ],
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "120",
+          "dvp": null,
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "5g",
+              "dvp": "0%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "17g",
+              "dvp": "0%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "2g",
+              "dvp": null,
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": null,
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "7",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "8 oz",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": false
+  },
+  "reviews": {
+    "averageOverallRating": 4.1509,
+    "aspects": [
+      {
+        "id": "56",
+        "name": "Taste",
+        "score": 67,
+        "snippetCount": 3
+      }
+    ],
+    "lookupId": "43695N7IR2P4",
+    "customerReviews": [
+      {
+        "reviewId": "312919152",
+        "rating": 5,
+        "reviewSubmissionTime": "8/1/2023",
+        "reviewText": "Great taste for oatmilk and is my favorite of all that I've tried. I use it for black tea, if it matters, and don't use it for cooking or any other uses so that is all I can speak to.",
+        "reviewTitle": "Great milk for black tea. My fave.",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Nikki",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "312303864",
+        "rating": 5,
+        "reviewSubmissionTime": "7/25/2023",
+        "reviewText": "This stuff is just what the doctor ordered (almost literally)! Tastes great (as opposed to skim milk), really low in sugar and fat, and goes well with my protein smoothies!",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Jayson",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "313541316",
+        "rating": 5,
+        "reviewSubmissionTime": "8/7/2023",
+        "reviewText": "Have repurchased this several times. I use it primarily for smoothies and coffee and really can't tell a difference from the name brands in those situations",
+        "reviewTitle": "As good as the name brand!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Paige",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "298089833",
+        "rating": 5,
+        "reviewSubmissionTime": "1/10/2023",
+        "reviewText": "This is a GREAT alternative to cow's milk.  It is rich and creamy and drinks like a whole milk. Fantastic flavor and super creamy at a great price.",
+        "reviewTitle": "Great Flavor",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "WQ",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "301789674",
+        "rating": 5,
+        "reviewSubmissionTime": "3/5/2023",
+        "reviewText": "Yummy!  Tastes creamy like milk but without the icky, sour smell of real milk.  No chalky taste, no aftertaste.",
+        "reviewTitle": "Good, good, good!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Janette",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "285816315",
+        "rating": 5,
+        "reviewSubmissionTime": "9/9/2022",
+        "reviewText": "Tried this hoping it would be similar to Oatly and it was! Kirkland brand oatmilk is a bit too sweet for me and was glad to find this was comparable to Oatly for a better price!",
+        "reviewTitle": "Comparable to Oatly",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "K",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "306744292",
+        "rating": 4,
+        "reviewSubmissionTime": "5/21/2023",
+        "reviewText": "Make it organic for 5/5 Stars!",
+        "reviewTitle": "Make it organic for 5/5 Stars!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Danielle",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "302968311",
+        "rating": 1,
+        "reviewSubmissionTime": "3/24/2023",
+        "reviewText": "I got a expired milk",
+        "reviewTitle": "Expired milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Dominique",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "288289964",
+        "rating": 1,
+        "reviewSubmissionTime": "10/15/2022",
+        "reviewText": "Absolutely horrible, I purchased two cartons because they were out of my usual oat milk. I used it in my coffee and spit it out! I immediately pored both containers down the drain….I would have returned to the store but I don't live nearby a Walmart and with the drive it would not have been worth my time.",
+        "reviewTitle": "Gross!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Katherine",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "304430237",
+        "rating": 1,
+        "reviewSubmissionTime": "4/14/2023",
+        "reviewText": "Terrible! Not \"extra creamy\" watery and gross. With canola oil 🤮",
+        "reviewTitle": "Buy the name brand",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "dimmy",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 39,
+    "ratingValueFourCount": 3,
+    "ratingValueOneCount": 10,
+    "ratingValueThreeCount": 1,
+    "ratingValueTwoCount": 0,
+    "roundedAverageOverallRating": 4.2,
+    "topNegativeReview": {
+      "reviewId": "302968311",
+      "rating": 1,
+      "reviewSubmissionTime": "3/24/2023",
+      "userNickname": "Dominique",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "I got a expired milk",
+      "reviewTitle": "Expired milk",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "clientResponses": null,
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "media": null
+    },
+    "topPositiveReview": {
+      "reviewId": "312919152",
+      "rating": 5,
+      "reviewSubmissionTime": "8/1/2023",
+      "userNickname": "Nikki",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "Great taste for oatmilk and is my favorite of all that I've tried. I use it for black tea, if it matters, and don't use it for cooking or any other uses so that is all I can speak to.",
+      "reviewTitle": "Great milk for black tea. My fave.",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "clientResponses": null,
+      "media": null
+    },
+    "topProductMedia": null,
+    "totalMediaCount": 1,
+    "totalReviewCount": 53
+  }
+}]

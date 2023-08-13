@@ -1,0 +1,1009 @@
+[{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": false,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": false,
+    "subscriptionEligible": false,
+    "subscriptionTransactable": false,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": false,
+  "showSubscriptionModule": false,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 2.8,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "Great Value",
+  "brandUrl": "/c/brand/great-value",
+  "badges": {
+    "flags": [
+      {
+        "__typename": "BaseBadge",
+        "id": "L1600",
+        "text": "Best seller",
+        "key": "BESTSELLER",
+        "query": null,
+        "type": "LABEL",
+        "styleId": null
+      },
+      {
+        "__typename": "BaseBadge",
+        "id": "L1200",
+        "text": "Popular pick",
+        "key": "CUSTOMER_PICK",
+        "query": "1% milk half gallon",
+        "type": "LABEL",
+        "styleId": null
+      }
+    ],
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:46000:46001:46101:46211",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "78742352022",
+  "productTypeId": "241",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": "35202",
+  "buyNowEligible": false,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": null
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": null,
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/Great-Value-1-Low-Fat-Milk-Half-Gallon-64-fl-oz/10804537",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:2534265",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "1% Milk",
+        "url": "/cp/1-milk/2534265"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "58",
+  "fulfillmentTitle": "title_store_delivery_curbside_pickup",
+  "shortDescription": "<p>This Grade A quality milk is pasteurized and delivers fresh from the farm taste. This kitchen staple is great for using in cereal, to bake desserts and more. This gallon of milk is also wonderful for milkshakes, smoothies, chocolate milk and more. Enjoy a delicious classic and serve a cold glass of this milk with soft, chocolate chip cookies for dipping. It offers an abundance of nutritional benefits as it is a rich source of protein, calcium, potassium and vitamins A and D. It is great for health conscious individuals as it low in fat. Our farms have pledged to not treat any cows with any artificial growth hormones. Great Value products provide families with affordable, high quality grocery and household consumable options. With our wide range of product categories spanning grocery and household consumables, we offer you a variety of products for your family's needs. Our products are conveniently available online and in Walmart stores nationwide, allowing you to stock up and save money at the same time.</p>",
+  "fulfillmentType": "STORE",
+  "fulfillmentBadge": "Today",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Pickup, today at Sacramento Supercenter",
+      "shippingText": "Pickup",
+      "fulfillmentText": "today",
+      "locationText": "Sacramento Supercenter",
+      "fulfillmentMethod": "PICKUP",
+      "addressEligibility": false,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    },
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Delivery from store",
+      "shippingText": "Delivery from store",
+      "fulfillmentText": null,
+      "locationText": null,
+      "fulfillmentMethod": "DELIVERY",
+      "addressEligibility": true,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": false,
+      "intent": true,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": null
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": true,
+      "intent": false,
+      "availableQuantity": 9999,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento Supercenter",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "productLocation": [
+        {
+          "displayValue": "A29"
+        }
+      ],
+      "storeName": null,
+      "checkStoreAvailability": false
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": 9999,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": {
+          "price": 7.95,
+          "priceString": "$7.95+"
+        },
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "2RLQWOCEML6F",
+  "primaryUsItemId": null,
+  "conditionType": "New",
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "053637C163C34FC393DB76BAA8445265",
+        "url": "https://i5.walmartimages.com/seo/Great-Value-1-Low-Fat-Milk-Half-Gallon-64-fl-oz_33e938a9-3aea-4a79-8400-9166510c38da_1.7649eb408edd8efcb727f1b156b9da17.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "12A34D55514049338CFFA4827114DA3F",
+        "url": "https://i5.walmartimages.com/asr/ef807c6b-652f-459a-abce-f3d5260f8cb3_2.6bee77d6ef442c35e0cbad22c78cf078.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "7CFADAF2C8614DECA58F3166217E409C",
+        "url": "https://i5.walmartimages.com/asr/45013f2a-f5e4-40b9-9db0-07f2233c2181_2.b68c61627df57e0b346abff83a85c370.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "4056C36AD4A240DBBDC53150D27DC479",
+        "url": "https://i5.walmartimages.com/asr/cdb83dbb-0575-4e44-8c7f-f2911aacd3d9_1.72ccf44437f6bff195ed11351a7302a4.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "CB2F38C844F8408CAC81980AE75CF6F1",
+        "url": "https://i5.walmartimages.com/asr/aaf8b5f3-7e93-49ea-a38a-d9bc74d6e0e4_1.04d1142f7eb70d3cc4d3742872b5e215.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "C92F029714844DDDAFB29E137809D407",
+        "url": "https://i5.walmartimages.com/asr/14db126b-a6fb-48d7-a59a-4d7958bc0799_1.b8a35b2989930809bb5aa294552b319e.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "1BFDA6FD5BDD42B59E888C9A0631CB92",
+        "url": "https://i5.walmartimages.com/asr/657bd488-bfd0-4f33-b469-f2d3feb43aaa_4.7bec46c44c35e78e6ba06fa7f842528b.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "16BD1F924F8340C897DA72349DBF200A",
+        "url": "https://i5.walmartimages.com/asr/8c9ea23f-a656-464e-b93e-222f811bbd1d_1.3ac7289e3122280384fe604afffbf91d.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "6DD9C07D07E549658E6DC1C30FE1E81E",
+        "url": "https://i5.walmartimages.com/asr/fa31fc64-f587-4523-87cd-cc6feea22aed_2.af8182f4231f9a235ac75fb8004002cf.jpeg",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/Great-Value-1-Low-Fat-Milk-Half-Gallon-64-fl-oz_33e938a9-3aea-4a79-8400-9166510c38da_1.7649eb408edd8efcb727f1b156b9da17.jpeg"
+  },
+  "location": {
+    "postalCode": "95829",
+    "stateOrProvinceCode": "CA",
+    "city": "Sacramento",
+    "storeIds": [
+      "3081"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "3081",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "Great Value 1% Low-Fat Milk, Half Gallon, 64 fl oz",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 544,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "D271BB83111F41DB84A2B533D5563C61",
+  "offerType": "STORE_ONLY",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 1.66,
+      "priceString": "$1.66",
+      "variantPriceString": "$1.66",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$1.66"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.026,
+      "priceString": "2.6 ¢/fl oz",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": null,
+    "freeReturns": null,
+    "returnWindow": {
+      "value": null,
+      "unitType": "Day"
+    },
+    "returnPolicyText": null,
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": null
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "SAME_DAY",
+    "deliveryDate": null,
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Milks",
+  "pickupOption": {
+    "slaTier": "SAME_DAY",
+    "accessTypes": [
+      "PICKUP_CURBSIDE"
+    ],
+    "availabilityStatus": "AVAILABLE",
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "10804537",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "078742352022",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": [
+    {
+      "displayValue": "A29"
+    }
+  ],
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Keep refrigerated."
+      },
+      {
+        "name": "Safe Handling Instructions",
+        "value": "PERISHABLE KEEP REFRIGERATED"
+      }
+    ],
+    "indications": [
+      {
+        "name": "Skin Care Concern",
+        "value": "Vegans-NO,"
+      }
+    ],
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "LOWFAT MILK, VITAMIN A PALMITATE, VITAMIN D3 ADDED."
+      }
+    },
+    "longDescription": "<ul>  <li>Low fat milk, Vitamin A palmitate, Vitamin D3</li>  <li>No artificial growth hormones</li>  <li>Grade A, pasteurized, homogenized</li>  <li>1% milkfat</li> </ul> <p></p>",
+    "shortDescription": "<p>This Grade A quality milk is pasteurized and delivers fresh from the farm taste. This kitchen staple is great for using in cereal, to bake desserts and more. This gallon of milk is also wonderful for milkshakes, smoothies, chocolate milk and more. Enjoy a delicious classic and serve a cold glass of this milk with soft, chocolate chip cookies for dipping. It offers an abundance of nutritional benefits as it is a rich source of protein, calcium, potassium and vitamins A and D. It is great for health conscious individuals as it low in fat. Our farms have pledged to not treat any cows with any artificial growth hormones. Great Value products provide families with affordable, high quality grocery and household consumable options. With our wide range of product categories spanning grocery and household consumables, we offer you a variety of products for your family's needs. Our products are conveniently available online and in Walmart stores nationwide, allowing you to stock up and save money at the same time.</p>",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Features",
+        "value": "Vitamin a And d, 1% lowfat, Homogenized, Grade a, Pasteurized"
+      },
+      {
+        "name": "Brand",
+        "value": "Great Value"
+      },
+      {
+        "name": "Container Type",
+        "value": "Jug"
+      },
+      {
+        "name": "Flavor",
+        "value": "Unflavor"
+      },
+      {
+        "name": "Food Allergen Statements",
+        "value": "Contains Milk"
+      },
+      {
+        "name": "Allergen-Free Statements",
+        "value": "Gluten-Free"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "3.80 x 3.80 x 9.90 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": null,
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "110",
+          "dvp": null,
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "2.5g",
+              "dvp": "3%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "1.5g",
+                "dvp": "8%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Polyunsaturated Fat",
+                "amount": "0.0g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Monounsaturated Fat",
+                "amount": "0.5g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "10.0mg",
+              "dvp": "4%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "130mg",
+              "dvp": "5%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "13g",
+              "dvp": "5%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "12g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "8g",
+              "dvp": "16%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": "143.0mcg",
+            "dvp": "15%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin C",
+            "amount": null,
+            "dvp": "4%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": null,
+            "dvp": "30%",
+            "childNutrients": null
+          },
+          {
+            "name": "Potassium",
+            "amount": "400mg",
+            "dvp": "12%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin D",
+            "amount": null,
+            "dvp": "25%",
+            "childNutrients": null
+          },
+          {
+            "name": "Folic Acid",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "8",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "1 cup (240mL)",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": false
+  },
+  "reviews": {
+    "averageOverallRating": 2.7904,
+    "aspects": [
+      {
+        "id": "48",
+        "name": "Price",
+        "score": 100,
+        "snippetCount": 27
+      },
+      {
+        "id": "56",
+        "name": "Taste",
+        "score": 92,
+        "snippetCount": 27
+      },
+      {
+        "id": "155",
+        "name": "Quality",
+        "score": 100,
+        "snippetCount": 7
+      }
+    ],
+    "lookupId": "2RLQWOCEML6F",
+    "customerReviews": [
+      {
+        "reviewId": "305734501",
+        "rating": 2,
+        "reviewSubmissionTime": "5/9/2023",
+        "reviewText": "Order picked up 5/8, the 1/2 Gallon of 1% milk has Use By date of 5/11...just not right",
+        "reviewTitle": "Not a happy camper!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Betsy",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "311572704",
+        "rating": 1,
+        "reviewSubmissionTime": "7/18/2023",
+        "reviewText": "Was purchased on 7/6 and the best by date was 7/21 and today is 7/17.  Today was the first day we opened it and this milk was sour.  My husband took a huge drink of it and it tasted old and sour. He emptied the carton before I could take pictures but you can see the best by date.",
+        "reviewTitle": "Sour milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Betty",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "301196867",
+        "rating": 1,
+        "reviewSubmissionTime": "2/24/2023",
+        "reviewText": "The milk expires in 4 days. Why would you choose milk that is about to expire?  Today is 2/24 and the milk expires on 2/28!",
+        "reviewTitle": "Expired milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 1,
+        "userNickname": "Colleen",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "298588187",
+        "rating": 1,
+        "reviewSubmissionTime": "1/15/2023",
+        "reviewText": "Received the 7th and milk expired the 9th. My wife did not notice and almost threw up today ( a week after the order).",
+        "reviewTitle": "Milk with two day expiration",
+        "negativeFeedback": 0,
+        "positiveFeedback": 1,
+        "userNickname": "Milo",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "304885490",
+        "rating": 1,
+        "reviewSubmissionTime": "4/22/2023",
+        "reviewText": "Milk was expired we received it last Saturday",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Norma",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "284839962",
+        "rating": 1,
+        "reviewSubmissionTime": "8/24/2022",
+        "reviewText": "Today is Aug 23 and this is also the expiration date of the milk.",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 1,
+        "userNickname": "James",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "296666356",
+        "rating": 1,
+        "reviewSubmissionTime": "12/25/2022",
+        "reviewText": "Both expired 12/19 delivered on 12/22",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Katherine",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "304414788",
+        "rating": 1,
+        "reviewSubmissionTime": "4/13/2023",
+        "reviewText": "I was given milk the expired a week ago on 4/623",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Becky",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "300604831",
+        "rating": 1,
+        "reviewSubmissionTime": "2/16/2023",
+        "reviewText": "There was a hole at the bottom of my milk leaked out everywhere I made a mess!",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Yesenia",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "281946965",
+        "rating": 1,
+        "reviewSubmissionTime": "7/1/2022",
+        "reviewText": "My Great Value 1% milk\nHas been spoiling several days before expiration date and i have beep pouring out about half the container.",
+        "reviewTitle": "I need refund.  It has been spoiled since June 28t",
+        "negativeFeedback": 0,
+        "positiveFeedback": 2,
+        "userNickname": "Debbie",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 179,
+    "ratingValueFourCount": 47,
+    "ratingValueOneCount": 241,
+    "ratingValueThreeCount": 40,
+    "ratingValueTwoCount": 37,
+    "roundedAverageOverallRating": 2.8,
+    "topNegativeReview": {
+      "reviewId": "311572704",
+      "rating": 1,
+      "reviewSubmissionTime": "7/18/2023",
+      "userNickname": "Betty",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "Was purchased on 7/6 and the best by date was 7/21 and today is 7/17.  Today was the first day we opened it and this milk was sour.  My husband took a huge drink of it and it tasted old and sour. He emptied the carton before I could take pictures but you can see the best by date.",
+      "reviewTitle": "Sour milk",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "clientResponses": null,
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "media": null
+    },
+    "topPositiveReview": {
+      "reviewId": "310975838",
+      "rating": 4,
+      "reviewSubmissionTime": "7/12/2023",
+      "userNickname": "Janet",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "had no problems with  my first  time using app, pick up curb side was ok but if item is not in-stock  then please don't  give us a substitute,  had many items but they were out of gallon  whole milk so they decided to  substitute it with  2 half gallon of 1% milk, not really  sure what to do with  them, thanks",
+      "reviewTitle": null,
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "clientResponses": null,
+      "media": null
+    },
+    "topProductMedia": null,
+    "totalMediaCount": 22,
+    "totalReviewCount": 544
+  }
+}]

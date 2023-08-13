@@ -1,0 +1,1002 @@
+[{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": false,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": false,
+    "subscriptionEligible": false,
+    "subscriptionTransactable": false,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": false,
+  "showSubscriptionModule": false,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 4.5,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "Lactaid",
+  "brandUrl": "/c/brand/lactaid",
+  "badges": {
+    "flags": [
+      {
+        "__typename": "BaseBadge",
+        "id": "L1200",
+        "text": "Popular pick",
+        "key": "CUSTOMER_PICK",
+        "query": "lactaid milk 1%",
+        "type": "LABEL",
+        "styleId": null
+      }
+    ],
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:42000:42001:42101:42211",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "LACTAID®",
+  "productTypeId": "241",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": "0202",
+  "buyNowEligible": false,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": null
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": null,
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/Lactaid-1-Lowfat-Milk-64-oz/10801611",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:2534265",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "1% Milk",
+        "url": "/cp/1-milk/2534265"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "58",
+  "fulfillmentTitle": "title_store_delivery_curbside_pickup",
+  "shortDescription": "LACTAID® 1% Lowfat Milk contains essential nutrients like calcium, protein, and Vitamin D, with 70% less fat and 100% lactose free so you can enjoy it with no worries. Lactaid is farm-fresh milk from cows that are never treated with artificial growth hormones, and all our milk is tested for antibiotics. All the goodness of real milk, just without the lactose.",
+  "fulfillmentType": "STORE",
+  "fulfillmentBadge": "Today",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Pickup, today at Sacramento Supercenter",
+      "shippingText": "Pickup",
+      "fulfillmentText": "today",
+      "locationText": "Sacramento Supercenter",
+      "fulfillmentMethod": "PICKUP",
+      "addressEligibility": false,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    },
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Delivery from store",
+      "shippingText": "Delivery from store",
+      "fulfillmentText": null,
+      "locationText": null,
+      "fulfillmentMethod": "DELIVERY",
+      "addressEligibility": true,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": false,
+      "intent": true,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": null
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": 15,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento Supercenter",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "productLocation": [
+        {
+          "displayValue": "A29"
+        }
+      ],
+      "storeName": null,
+      "checkStoreAvailability": false
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": 15,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": {
+          "price": 7.95,
+          "priceString": null
+        },
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "40FUIQE2OWHX",
+  "primaryUsItemId": null,
+  "conditionType": "New",
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "7A7AF57F11B34C07AC6A9A7883F4A070",
+        "url": "https://i5.walmartimages.com/seo/Lactaid-1-Lowfat-Milk-64-oz_6479553a-7653-4d34-90a6-b6facd22ab10.4cf2f77c0a9c5e47b235903bb2de95e2.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "29DBE2E4B31349D1B16406978589383F",
+        "url": "https://i5.walmartimages.com/asr/8a8afece-2298-42a7-8b0a-d50d105f1816.563ee7ce3764763b017975fcb52fafa4.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "3CBEC65EE2D840E9A2C3ADF877C161BE",
+        "url": "https://i5.walmartimages.com/asr/b4e29d5b-cbf9-499c-bb0a-e0fd7c785b84.b0b0a7df54e66da1653cd1690b79c74e.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "3669DE2E3C7C4682B9F3976C34EAB024",
+        "url": "https://i5.walmartimages.com/asr/b04c0024-0305-45e4-bbf5-9fe60865363f.919e91449587ffdc472bff437c398c6a.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "C6CA82C670A04E3BBD49E06B4BAB6C3C",
+        "url": "https://i5.walmartimages.com/asr/7c6ca638-e904-4abf-a9a8-d1d2a0b32feb.2f9aa2a7ead44ead69bf31dbaf6087e9.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "6F43A1161D544C70A22B9410971F3CA7",
+        "url": "https://i5.walmartimages.com/asr/a9a65404-1efe-41fc-b167-6c2f36cb1127.7fd48a643ff6577a6d69dc2b34960c59.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "0180C67A48B84556B76284D142AEF3ED",
+        "url": "https://i5.walmartimages.com/asr/507e216d-bd0a-467d-9eb0-3a8041f27f33.6a89ca44a29a6d150900e05e6ead4317.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "11E7A4CC5A7C43CF940472386FAD4D49",
+        "url": "https://i5.walmartimages.com/asr/17d8d56c-5452-4d39-a339-6629e8ecde83.ca3ed32e34d060d438bada6dc804a98b.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "9E74A875387144ABAF48DEB4A25140A1",
+        "url": "https://i5.walmartimages.com/asr/1d54be3b-3c9c-433c-83c8-1e76cfc2b1fb.53b69ce25614a78270fd79962a95cd4d.jpeg",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/Lactaid-1-Lowfat-Milk-64-oz_6479553a-7653-4d34-90a6-b6facd22ab10.4cf2f77c0a9c5e47b235903bb2de95e2.jpeg"
+  },
+  "location": {
+    "postalCode": "95829",
+    "stateOrProvinceCode": "CA",
+    "city": "Sacramento",
+    "storeIds": [
+      "3081"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "3081",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "Lactaid 1% Lowfat Milk, 64 oz",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 171,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "BFE5B402F4ED4CE09A07E31A621659A3",
+  "offerType": "STORE_ONLY",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 4.86,
+      "priceString": "$4.86",
+      "variantPriceString": "$4.86",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$4.86"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.076,
+      "priceString": "7.6 ¢/fl oz",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": null,
+    "freeReturns": null,
+    "returnWindow": {
+      "value": null,
+      "unitType": "Day"
+    },
+    "returnPolicyText": null,
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": null
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "SAME_DAY",
+    "deliveryDate": null,
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Milks",
+  "pickupOption": {
+    "slaTier": "SAME_DAY",
+    "accessTypes": [
+      "PICKUP_CURBSIDE"
+    ],
+    "availabilityStatus": "AVAILABLE",
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "10801611",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "041383090226",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": [
+    {
+      "displayValue": "A29"
+    }
+  ],
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Keep refrigerated."
+      },
+      {
+        "name": "Safe Handling Instructions",
+        "value": "Keep Refrigerated. Best if opened by the sell-date that's listed on the package. Once opened, consume within 7 days."
+      }
+    ],
+    "indications": [
+      {
+        "name": "Health Concern",
+        "value": "Sensitive Stomach"
+      }
+    ],
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "Ingredients: Lowfat Milk, Lactase Enzyme*, Vitamin A Palmitate and Vitamin D3.\n*Ingredient not in regular Milk"
+      }
+    },
+    "longDescription": "<ul>  <li>64 oz.</li>  <li>Real Dairy</li>  <li>100% Lactose Free</li>  <li>Delicious and nutritious</li>  <li>Perfect for cooking, baking and all of your favorite recipes</li> </ul>",
+    "shortDescription": "LACTAID&reg; 1% Lowfat Milk contains essential nutrients like calcium, protein, and Vitamin D, with 70% less fat and 100% lactose free so you can enjoy it with no worries. Lactaid is farm-fresh milk from cows that are never treated with artificial growth hormones, and all our milk is tested for antibiotics. All the goodness of real milk, just without the lactose.",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Features",
+        "value": "Low fat, 1% milkfat, Lactose free, Ultra-pasteurized grade a, Vitamins a and d"
+      },
+      {
+        "name": "Brand",
+        "value": "Lactaid"
+      },
+      {
+        "name": "Container Type",
+        "value": "Carton"
+      },
+      {
+        "name": "Flavor",
+        "value": "Unflavored"
+      },
+      {
+        "name": "Food Allergen Statements",
+        "value": "Gluten Free, Lactose Free, Soy Free, Milk"
+      },
+      {
+        "name": "Allergen-Free Statements",
+        "value": "Tree Nut-Free, Shellfish-Free, Wheat-Free, Gluten-Free, Egg-Free, Lactose-Free, Soy /Soybean Free, Peanut-Free"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "3.98 x 4.00 x 9.60 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": [
+      {
+        "name": "Warning Text",
+        "value": "Do Not Use If Seal Under Cap Is Broken"
+      }
+    ],
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "110",
+          "dvp": null,
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": null,
+              "dvp": "4%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "1.5g",
+                "dvp": "8%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "15.00mg",
+              "dvp": "4%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "125mg",
+              "dvp": "5%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "13.00000Grams",
+              "dvp": "4%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "12g",
+                "dvp": null,
+                "childNutrients": [
+                  {
+                    "name": "Includes Added Sugars",
+                    "amount": "0g",
+                    "dvp": null,
+                    "childNutrients": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": null,
+              "dvp": "17%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": "150.00mcg",
+            "dvp": "15%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin C",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": "300.00mg",
+            "dvp": "25%",
+            "childNutrients": null
+          },
+          {
+            "name": "Potassium",
+            "amount": "410mg",
+            "dvp": "8%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": "0.10mg",
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin D",
+            "amount": "2.50mcg",
+            "dvp": "15%",
+            "childNutrients": null
+          },
+          {
+            "name": "Riboflavin",
+            "amount": "0.40mg",
+            "dvp": "30%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin B12",
+            "amount": "0.80mcg",
+            "dvp": "35%",
+            "childNutrients": null
+          },
+          {
+            "name": "Phosphorus",
+            "amount": "240.00mg",
+            "dvp": "20%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "8",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "1 cup (240mL)",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": true
+  },
+  "reviews": {
+    "averageOverallRating": 4.5439,
+    "aspects": [
+      {
+        "id": "56",
+        "name": "Taste",
+        "score": 95,
+        "snippetCount": 29
+      },
+      {
+        "id": "155",
+        "name": "Quality",
+        "score": 100,
+        "snippetCount": 3
+      },
+      {
+        "id": "179272",
+        "name": "Lactose",
+        "score": 0,
+        "snippetCount": 3
+      }
+    ],
+    "lookupId": "40FUIQE2OWHX",
+    "customerReviews": [
+      {
+        "reviewId": "293905536",
+        "rating": 5,
+        "reviewSubmissionTime": "12/2/2022",
+        "reviewText": "great flavor. even if you are not lactose intolerant this milk is way better! and it lasts way longer! you don't have a week or so expiration, you normally have a month and a half when you buy it! it lasts forever and it tastes so good, very refreshing",
+        "reviewTitle": "best milk out there",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Jessica",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "241815892",
+        "rating": 5,
+        "reviewSubmissionTime": "9/11/2022",
+        "reviewText": "I like to drink this milk, delicious without much fat, very good for health, very easy to drink. The product is really good. I'm very satisfied",
+        "reviewTitle": "Lactaid",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": null,
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": {
+          "logoImageUrl": "https://contentorigin.bazaarvoice.com/influenster/default/influenster.png",
+          "contentLink": null,
+          "name": "influenster.com"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "303592119",
+        "rating": 5,
+        "reviewSubmissionTime": "3/31/2023",
+        "reviewText": "Since regular milk doesnt agree with me I decided to switch to Lactaid free.Satisfied with the change",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Doris",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "233279612",
+        "rating": 5,
+        "reviewSubmissionTime": "8/5/2021",
+        "reviewText": "We don't have to compromise flavor because this is absolutely delicious and best of all low fat and lactose free. All the yums without the discomfort from regular milk!",
+        "reviewTitle": "We don't have to",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "crisriv13",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": {
+          "logoImageUrl": "https://contentorigin.bazaarvoice.com/influenster/default/influenster.png",
+          "contentLink": null,
+          "name": "influenster.com"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "310725003",
+        "rating": 4,
+        "reviewSubmissionTime": "7/9/2023",
+        "reviewText": "This product is usually good. However, I am writing this review not because of the quality of the product but the quality of the condition is was left in. This product arrived leaking. It was left in a puddle of milk.",
+        "reviewTitle": "Leaking milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Tameka",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "289023648",
+        "rating": 3,
+        "reviewSubmissionTime": "10/24/2022",
+        "reviewText": "Wasn't given my milk but was charged",
+        "reviewTitle": "I wasn't given my milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Jessica",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "272306178",
+        "rating": 1,
+        "reviewSubmissionTime": "11/29/2021",
+        "reviewText": "I ordered this 11/23 and it expired 11/21",
+        "reviewTitle": "Outdated",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "lisa",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "313958413",
+        "rating": 1,
+        "reviewSubmissionTime": "8/11/2023",
+        "reviewText": "I didn't get my two cartons of milk",
+        "reviewTitle": "Missing items",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Sandy",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "312909662",
+        "rating": 1,
+        "reviewSubmissionTime": "8/1/2023",
+        "reviewText": "There are a lot of milk but no any suggestion to replace?",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "ozan",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "225940927",
+        "rating": 1,
+        "reviewSubmissionTime": "11/11/2020",
+        "reviewText": "My experience with Lactaid is the most disgusting, gross, and disturbing experience I ever had. There was a small piece of yarn in the milk and I had it in my mouth when I was drinking this milk right away I felt disgusted, So I had to spit it out I literally wasted my money on this brand. I just switched to this milk a week ago This is DISAPPOINTING.HERE IS THE PICTURE FOR PROOFF!!!!!",
+        "reviewTitle": "Bad experience",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Glendy",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": [
+          {
+            "date": null,
+            "department": null,
+            "logoImage": null,
+            "name": "Lactaid",
+            "response": "Thank you for bringing this to our attention. We're very sorry to hear about this, and we'd love to make it right. Please give us a call at 1-800-522-8243 from 9:30AM-5PM ET Mon-Fri. When speaking with our product experts, please provide this case number: 002196566 so that they may best assist you. We hope to hear from you soon!"
+          }
+        ],
+        "syndicationSource": {
+          "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/7147bb15-7811-4e48-94c5-62df0cbaa860",
+          "contentLink": null,
+          "name": "lactaid.com"
+        },
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 133,
+    "ratingValueFourCount": 20,
+    "ratingValueOneCount": 10,
+    "ratingValueThreeCount": 6,
+    "ratingValueTwoCount": 2,
+    "roundedAverageOverallRating": 4.5,
+    "topNegativeReview": {
+      "reviewId": "272306178",
+      "rating": 1,
+      "reviewSubmissionTime": "11/29/2021",
+      "userNickname": "lisa",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "I ordered this 11/23 and it expired 11/21",
+      "reviewTitle": "Outdated",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "clientResponses": null,
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "media": null
+    },
+    "topPositiveReview": {
+      "reviewId": "310725003",
+      "rating": 4,
+      "reviewSubmissionTime": "7/9/2023",
+      "userNickname": "Tameka",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "This product is usually good. However, I am writing this review not because of the quality of the product but the quality of the condition is was left in. This product arrived leaking. It was left in a puddle of milk.",
+      "reviewTitle": "Leaking milk",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "clientResponses": null,
+      "media": null
+    },
+    "topProductMedia": null,
+    "totalMediaCount": 6,
+    "totalReviewCount": 171
+  }
+}]

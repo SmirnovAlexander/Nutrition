@@ -1,0 +1,675 @@
+[{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": true,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": true,
+    "subscriptionEligible": true,
+    "subscriptionTransactable": true,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": true,
+  "showSubscriptionModule": true,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 2.3,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "Parmalat",
+  "brandUrl": "/c/brand/parmalat",
+  "badges": {
+    "flags": null,
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:46000:46001:46101:46211",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "00875065007857",
+  "productTypeId": "241",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": null,
+  "buyNowEligible": true,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": null
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": "NATIONAL_CARRIER",
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/Parmalat-2-Reduced-Fat-Chocolate-Milk-32-fl-oz/907349540",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:9265788:1284521",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "Flavored Milk",
+        "url": "/cp/flavored-milk/9265788"
+      },
+      {
+        "name": "Chocolate Milk",
+        "url": "/cp/chocolate-milk/1284521"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "1",
+  "fulfillmentTitle": "title_shipToHome_oneday_delivery",
+  "shortDescription": "Enjoy the fresh taste of high quality Grade A 2 percent milk fat cow's milk, with no preservatives. Parmalat milk is heated at higher temperatures than regular pasteurized milk. This way Parmalat milk stays fresh longer and doesn’t need to be refrigerated until opened. Parmalat milk is packed full of good things such as Vitamins A and D, protein, and calcium. What are the differences between Pasteurized milk, Ultra Pasteurized milk and Ultra High Temperature milk? It is the same milk, the only difference is in the pasteurization process and the packaging which impact shelf life.",
+  "fulfillmentType": "FC",
+  "fulfillmentBadge": "Tomorrow",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Shipping, arrives by tomorrow to Los Angeles, 90014",
+      "shippingText": "Shipping",
+      "fulfillmentText": "arrives by tomorrow",
+      "locationText": "Los Angeles, 90014",
+      "fulfillmentMethod": "SHIPPING",
+      "addressEligibility": true,
+      "fulfillmentType": "FC",
+      "postalCode": "90014"
+    },
+    {
+      "checkStoreAvailability": "Check availability nearby",
+      "wPlusFulfillmentText": null,
+      "message": "Pickup not available at South Gate Supercenter",
+      "shippingText": "Pickup",
+      "fulfillmentText": "not available",
+      "locationText": null,
+      "fulfillmentMethod": "PICKUP",
+      "addressEligibility": null,
+      "fulfillmentType": null,
+      "postalCode": null
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": true,
+      "intent": true,
+      "availableQuantity": 130,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Tomorrow",
+        "deliveryDate": "2023-08-14T21:59:00.000Z",
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Los Angeles, 90014",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": false
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "South Gate Supercenter",
+      "availabilityStatus": "OUT_OF_STOCK",
+      "subscriptionSubmessage": "SHIPPING_ONLY",
+      "inventoryStatus": null,
+      "productLocation": null,
+      "storeName": null,
+      "checkStoreAvailability": true
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Los Angeles, 90014",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "SHIPPING_ONLY"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "1MQVN08YOCAT",
+  "primaryUsItemId": null,
+  "conditionType": null,
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "C8A557095814416787ACDF11441510D9",
+        "url": "https://i5.walmartimages.com/seo/Parmalat-2-Reduced-Fat-Chocolate-Milk-32-fl-oz_820e7bfb-e991-41f5-851a-97c2b906cc8c.885999befa6f24dd4a2364bbb03f50cc.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "7A3E2277A0424CE98CA96AB08DE874B8",
+        "url": "https://i5.walmartimages.com/asr/f47d04bf-b15f-4463-90a2-2608fcdb4f31.5544dda13015702c923e2fd779cc0c06.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "F0C1C28D5AF2465A82D481674E6AC03F",
+        "url": "https://i5.walmartimages.com/asr/fb3290fe-5317-434c-a430-91f3c8b3a0b1.cd53fd1ad97244eb65e100704446f745.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "6B1850C313CF4BAA953EBECD060E5381",
+        "url": "https://i5.walmartimages.com/asr/0f36179c-443d-4a7b-9b15-12ec3a61737c.07130ab1443e67b13aff9e6be4b3030b.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "5FF9847E3AAF4E9D99D96D5DA849F102",
+        "url": "https://i5.walmartimages.com/asr/66904e45-db50-4add-b7ba-4c96d1808eb2.1f49d80aac9dcb2e70daf9b67d0f6e92.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "9C6CB22E8BD344DD85279630F0F37249",
+        "url": "https://i5.walmartimages.com/asr/84911e37-75bb-44de-b49f-a23e27f1b7bf.b20c308272aa91013b5e7b865e5d3bcb.jpeg",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/Parmalat-2-Reduced-Fat-Chocolate-Milk-32-fl-oz_820e7bfb-e991-41f5-851a-97c2b906cc8c.885999befa6f24dd4a2364bbb03f50cc.jpeg"
+  },
+  "location": {
+    "postalCode": "90014",
+    "stateOrProvinceCode": "CA",
+    "city": "Los Angeles",
+    "storeIds": [
+      "3180"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "3180",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "Parmalat 2% Reduced Fat Chocolate Milk, 32 fl oz",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 3,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "497B94691707498E98B10883D34868E1",
+  "offerType": "ONLINE_AND_STORE",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 5.96,
+      "priceString": "$5.96",
+      "variantPriceString": "$5.96",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "Now $5.96"
+    },
+    "wasPrice": {
+      "price": 6.7,
+      "priceString": "$6.70",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.186,
+      "priceString": "18.6 ¢/fluid ounces",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "savings": null,
+    "savingsAmount": {
+      "amount": 0.74,
+      "priceString": "SAVE $0.74"
+    },
+    "shipPrice": null,
+    "isPriceReduced": true,
+    "priceReducedDisplay": "Now $5.96",
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": true,
+    "freeReturns": true,
+    "returnWindow": {
+      "value": 90,
+      "unitType": "Day"
+    },
+    "returnPolicyText": "Free 90-day returns",
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": null
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "ONE_DAY",
+    "deliveryDate": "2023-08-14T21:59:00.000Z",
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Milks",
+  "pickupOption": {
+    "slaTier": null,
+    "accessTypes": [],
+    "availabilityStatus": null,
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "907349540",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "875065007857",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": null,
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Shake well. Best served chilled. For best taste, chill before serving. Refrigerate after opening. Use contents within 7 days of opening."
+      }
+    ],
+    "indications": null,
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "Grade A Uht Reduced Fat Milk, Sugar, Alkalized Cocoa, Natural Flavor, Gellan Gum, Vitamin A Palmitate And Vitamin D3."
+      }
+    },
+    "longDescription": "<ul>  <li>Parmalat 2% milk doesn't need to be refrigerated, so you can keep one in the pantry until opening.</li>  <li>For best taste, chill before serving.</li>  <li>We heat our milk at an Ultra High Temperature (UHT) to keep it fresh longer.</li>  <li>Tastes just like real milk, because it is real Grade A 2 percent milk fat cow's milk!</li>  <li>Parmalat 2% Reduced Fat Chocolate Milk, 32 fl oz is a Shelf-Stable/ Ambient product that is sold in TetraPak packaging.</li> </ul>",
+    "shortDescription": "Enjoy the fresh taste of high quality Grade A 2 percent milk fat cow's milk, with no preservatives. Parmalat milk is heated at higher temperatures than regular pasteurized milk. This way Parmalat milk stays fresh longer and doesn’t need to be refrigerated until opened. Parmalat milk is packed full of good things such as Vitamins A and D, protein, and calcium. What are the differences between Pasteurized milk, Ultra Pasteurized milk and Ultra High Temperature milk? It is the same milk, the only difference is in the pasteurization process and the packaging which impact shelf life.",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "Parmalat"
+      },
+      {
+        "name": "Container Type",
+        "value": "Carton"
+      },
+      {
+        "name": "Flavor",
+        "value": "Chocolate"
+      },
+      {
+        "name": "Food Allergen Statements",
+        "value": "Contains: Lactose, Dairy"
+      },
+      {
+        "name": "Allergen-Free Statements",
+        "value": "Gluten-Free"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "3.75 x 2.38 x 8.38 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": [
+      {
+        "name": "California State Chemical Warning Text",
+        "value": "None"
+      }
+    ],
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "180",
+          "dvp": "-%",
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "5g",
+              "dvp": "6%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "3g",
+                "dvp": "15%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0g",
+                "dvp": "-%",
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "20mg",
+              "dvp": "7%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "150mg",
+              "dvp": "6%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "26g",
+              "dvp": "9%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "0g",
+                "dvp": "1%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "25g",
+                "dvp": "-%",
+                "childNutrients": [
+                  {
+                    "name": "Includes Added Sugars",
+                    "amount": "15g",
+                    "dvp": "29%",
+                    "childNutrients": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "7g",
+              "dvp": "15%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": "90mcg",
+            "dvp": "10%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": "263mg",
+            "dvp": "20%",
+            "childNutrients": null
+          },
+          {
+            "name": "Potassium",
+            "amount": "405mg",
+            "dvp": "8%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": "1mg",
+            "dvp": "2%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin D",
+            "amount": "160.0mcg",
+            "dvp": "20%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "4",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "1 cup",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": true
+  },
+  "reviews": {
+    "averageOverallRating": 2.3333,
+    "aspects": [],
+    "lookupId": "1MQVN08YOCAT",
+    "customerReviews": [
+      {
+        "reviewId": "293199027",
+        "rating": 3,
+        "reviewSubmissionTime": "11/26/2022",
+        "reviewText": null,
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Mobile",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "293017235",
+        "rating": 3,
+        "reviewSubmissionTime": "11/25/2022",
+        "reviewText": null,
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "TestReview",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "292718823",
+        "rating": 1,
+        "reviewSubmissionTime": "11/22/2022",
+        "reviewText": null,
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "dario",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 0,
+    "ratingValueFourCount": 0,
+    "ratingValueOneCount": 1,
+    "ratingValueThreeCount": 2,
+    "ratingValueTwoCount": 0,
+    "roundedAverageOverallRating": 2.3,
+    "topNegativeReview": null,
+    "topPositiveReview": null,
+    "topProductMedia": null,
+    "totalMediaCount": 0,
+    "totalReviewCount": 3
+  }
+}]

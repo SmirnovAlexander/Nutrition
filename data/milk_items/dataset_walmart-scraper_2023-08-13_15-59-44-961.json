@@ -1,0 +1,941 @@
+[{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": false,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": true,
+    "subscriptionEligible": true,
+    "subscriptionTransactable": true,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": true,
+  "showSubscriptionModule": true,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 4.1,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "WestSoy",
+  "brandUrl": "/c/brand/westsoy",
+  "badges": {
+    "flags": [
+      {
+        "__typename": "BaseBadge",
+        "id": "L1200",
+        "text": "Popular pick",
+        "key": "CUSTOMER_PICK",
+        "query": "soy milk unsweetened organic",
+        "type": "LABEL",
+        "styleId": null
+      }
+    ],
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:46000:46001:46101:46212",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "V97083",
+  "productTypeId": "262",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": "V97083",
+  "buyNowEligible": true,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": "Adult"
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": "NATIONAL_CARRIER",
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/West-Life-Organic-Unsweetened-Vanilla-Soymilk-32-fl-oz/10322043",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:3107987:8048823",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "Plant Based Milk",
+        "url": "/cp/plant-based-milk/3107987"
+      },
+      {
+        "name": "Soy Milk",
+        "url": "/cp/soy-milk/8048823"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "1",
+  "fulfillmentTitle": "title_shipToHome_date_delivery",
+  "shortDescription": "Westsoy Organic Unsweetened Vanilla Soymilk is deliciously nutricious - smooth and creamy soymilk made from organic whole soybeans and the perfect touch of vanilla flavor, all with 0g added sugars. Each cup has 9g of soy protein per serving. It's Lactose free, Dairy free, Vegan, Gluten Free, Certified Organic, and Non-GMO Project verified.  Westsoy Organic Unsweetened Vanilla Soymilk is deliciously satisfying by the glass, over cereal, or a good protein addition to a smoothie! It has convenient, shelf-stable packaging so you can keep it in your pantry and use it when you want to! Reminder, it must be refrigerated once opened.",
+  "fulfillmentType": "FC",
+  "fulfillmentBadge": "2 days",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Shipping, arrives by Tue, Aug 15 to Dallas, 75270",
+      "shippingText": "Shipping",
+      "fulfillmentText": "arrives by Tue, Aug 15",
+      "locationText": "Dallas, 75270",
+      "fulfillmentMethod": "SHIPPING",
+      "addressEligibility": true,
+      "fulfillmentType": "FC",
+      "postalCode": "75270"
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": false,
+      "intent": true,
+      "availableQuantity": 104,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": null,
+        "deliveryDate": "2023-08-15T21:59:00.000Z",
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Dallas, 75270",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": false
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Dallas Supercenter",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "SHIPPING_ONLY",
+      "inventoryStatus": null,
+      "productLocation": null,
+      "storeName": null,
+      "checkStoreAvailability": false
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Dallas, 75270",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "SHIPPING_ONLY"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "506C5OXSAHNY",
+  "primaryUsItemId": null,
+  "conditionType": null,
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "06E04A3186544DC295C0BDFC7CA71F31",
+        "url": "https://i5.walmartimages.com/seo/West-Life-Organic-Unsweetened-Vanilla-Soymilk-32-fl-oz_3f0508ba-0579-47dd-8e83-f799a8dca8f8.51f35d9ec241d2616ffc6ff58776ad88.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "819349011C5245CB8B1E4CFC32ECB7E8",
+        "url": "https://i5.walmartimages.com/asr/53c184f6-9e5a-447d-a33a-b4534f2262c1.ce8de7146725036d1b730b55d88f59e4.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "57CD942718C247CDBFEF9A80052DA2B9",
+        "url": "https://i5.walmartimages.com/asr/beaef43a-fe4d-4b07-8e30-86c47dd29063.eb01a921942e3bfadbee6821228f5460.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "312E8BD7190342BFBF76FDD21FDA8129",
+        "url": "https://i5.walmartimages.com/asr/21419327-8853-43be-859f-2fa8e87ce8ad.a785a4ff74901f0a1e3598ce7a34bdc5.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "125F9BD5BA0C4721A3722E9FA8E06AF4",
+        "url": "https://i5.walmartimages.com/asr/a990d7af-1b35-4eea-8f67-469f27d77081.d92132bde6507a7895c0b0089322443d.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "209A24ED1BAD4B0191D7B837023BD675",
+        "url": "https://i5.walmartimages.com/asr/9abe1b61-10c6-48f5-a58d-579cf3ff9eec.9e1bcc02c9f6f2c84f8b284112e72bb9.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "A5FBF127DE42433F81C2775AB8059A80",
+        "url": "https://i5.walmartimages.com/asr/8348d7b9-8b71-49b0-a4d7-fbff1739487e.2ad2250f14a3a6689db8f66b9463c40e.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "C2226DB7D4854235A9C469372010D70C",
+        "url": "https://i5.walmartimages.com/asr/fcd856e8-0b2d-4a2e-9ecc-e2979a52e016.e00d240d84fc49baefcb6f46e076dc12.jpeg",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/West-Life-Organic-Unsweetened-Vanilla-Soymilk-32-fl-oz_3f0508ba-0579-47dd-8e83-f799a8dca8f8.51f35d9ec241d2616ffc6ff58776ad88.jpeg"
+  },
+  "location": {
+    "postalCode": "75270",
+    "stateOrProvinceCode": "TX",
+    "city": "Dallas",
+    "storeIds": [
+      "5147"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "5147",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "West Life Organic Unsweetened Vanilla Soymilk, 32 fl oz",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 47,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "ECBD39BF9FF34ABF99D362CE9CB5AB76",
+  "offerType": "ONLINE_ONLY",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": true,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 3.24,
+      "priceString": "$3.24",
+      "variantPriceString": "$3.24",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$3.24"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.101,
+      "priceString": "10.1 ¢/oz",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": true,
+    "freeReturns": true,
+    "returnWindow": {
+      "value": 90,
+      "unitType": "Day"
+    },
+    "returnPolicyText": "Free 90-day returns",
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": {
+      "priceType": null,
+      "priceString": "$9.08",
+      "price": 9.08
+    }
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "TWO_DAY",
+    "deliveryDate": "2023-08-15T21:59:00.000Z",
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Plant-Based Milk",
+  "pickupOption": {
+    "slaTier": null,
+    "accessTypes": [],
+    "availabilityStatus": null,
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "10322043",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "074873970838",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": null,
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Serve chilled. After opening refrigerate and use within 7-10 days. Shake well."
+      }
+    ],
+    "indications": null,
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "ORGANIC SOYMILK (WATER, WHOLE ORGANIC SOYBEANS), ORGANIC NATURAL FLAVOR. CONTAINS: SOY"
+      }
+    },
+    "longDescription": "<ul>  <li>West LIfe Organic Unsweetened Vanilla Soymilk is deliciously nutricious - smooth and creamy soymilk made from organic whole soybeans and the perfect touch of vanilla flavor, all with 0g added sugars.</li>  <li>Each cup has 9g of soy protein per serving. It's Lactose free, Dairy free, Vegan, Gluten Free, Certified Organic, and Non-GMO Project verified.</li>  <li>West Life Organic Unsweetened Vanilla Soymilk is deliciously satisfying by the glass, over cereal, or a good protein addition to a smoothie! It has convenient, shelf-stable packaging so you can keep it in your pantry and use it when you want to! Reminder, it must be refrigerated once opened.</li>  <li>West Life formerly known as Westsoy</li> </ul>",
+    "shortDescription": "Westsoy Organic Unsweetened Vanilla Soymilk is deliciously nutricious - smooth and creamy soymilk made from organic whole soybeans and the perfect touch of vanilla flavor, all with 0g added sugars. Each cup has 9g of soy protein per serving. It's Lactose free, Dairy free, Vegan, Gluten Free, Certified Organic, and Non-GMO Project verified. Westsoy Organic Unsweetened Vanilla Soymilk is deliciously satisfying by the glass, over cereal, or a good protein addition to a smoothie! It has convenient, shelf-stable packaging so you can keep it in your pantry and use it when you want to! Reminder, it must be refrigerated once opened.",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Container Type",
+        "value": "Carton"
+      },
+      {
+        "name": "Flavor",
+        "value": "Vanilla"
+      },
+      {
+        "name": "Assembled Product Weight",
+        "value": "2 oz"
+      },
+      {
+        "name": "Food Form",
+        "value": "Liquids"
+      },
+      {
+        "name": "Brand",
+        "value": "WestSoy"
+      },
+      {
+        "name": "Model",
+        "value": "V97083"
+      },
+      {
+        "name": "Allergen-Free Statements",
+        "value": "Dairy-Free, Gluten-Free, Lactose-Free"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "3.75 x 2.38 x 7.69 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": [
+      {
+        "name": "Warning Text",
+        "value": "Contains: soy. Not for use as an infant formula."
+      }
+    ],
+    "warranty": {
+      "information": "</p>",
+      "length": "</p>"
+    },
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "100",
+          "dvp": null,
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "5g",
+              "dvp": "8%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "1g",
+                "dvp": "5%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Polyunsaturated Fat",
+                "amount": "3.0g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Monounsaturated Fat",
+                "amount": "1.0g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "0.0mg",
+              "dvp": "0%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "30mg",
+              "dvp": "1%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "4g",
+              "dvp": "1%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "1g",
+                "dvp": "6%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "3g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "9g",
+              "dvp": "18%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin C",
+            "amount": null,
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": "0",
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Potassium",
+            "amount": "390mg",
+            "dvp": "11%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": "0.5mg",
+            "dvp": "2%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "4",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "8 fl oz",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": false
+  },
+  "reviews": {
+    "averageOverallRating": 4.1064,
+    "aspects": [
+      {
+        "id": "4",
+        "name": "Coffee",
+        "score": 100,
+        "snippetCount": 3
+      }
+    ],
+    "lookupId": "506C5OXSAHNY",
+    "customerReviews": [
+      {
+        "reviewId": "309719024",
+        "rating": 5,
+        "reviewSubmissionTime": "6/29/2023",
+        "reviewText": "This is pure soy milk without any of the other added stuff. I make yogurt with it and it turns out fabulous!",
+        "reviewTitle": "Great Soy Milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "SCRN",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "303918993",
+        "rating": 5,
+        "reviewSubmissionTime": "4/4/2023",
+        "reviewText": "Didn't like the consistency first try, but hadn't seen the directions to shake first. That made all the difference. Love it as creamer in my coffee!",
+        "reviewTitle": null,
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Tina",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "293330784",
+        "rating": 5,
+        "reviewSubmissionTime": "11/27/2022",
+        "reviewText": "This soy milk is great. Much simpler ingredients than most of the plant milks, and I love the vanilla flavor.",
+        "reviewTitle": "Love this soymilk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "CC",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "300005165",
+        "rating": 5,
+        "reviewSubmissionTime": "2/7/2023",
+        "reviewText": "Great consistency and taste. Healthy.",
+        "reviewTitle": "Best soy milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "sally",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "279771933",
+        "rating": 5,
+        "reviewSubmissionTime": "5/13/2022",
+        "reviewText": "I love this soymilk and think it's the best one on the market. Reasons: it is just soy milk and vanilla, with no other additives. It's organic, and tastes great. Just the right texture and thickness and low sodium (lots of these kinds of drinks load them up with sodium). \n\nI drink a quart of this a day!",
+        "reviewTitle": "The Best Soy Milk on the Market",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Gary",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "288796054",
+        "rating": 4,
+        "reviewSubmissionTime": "10/20/2022",
+        "reviewText": "Westsoy soy milk is great but a packing is not always good , sometimes they were put in plastic bag it keeps  the carton not dent but sometimes they did not so driver  throw a package it makes cartons are not in good shape . Should packed in plastic before put in an a box.",
+        "reviewTitle": "5 stars if packing always good.",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Kim",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "275377420",
+        "rating": 4,
+        "reviewSubmissionTime": "1/31/2022",
+        "reviewText": "First-this is the best unsweetened vanilla soy milk. There are no weird ingredients and it has a good taste, and both at the same time are hard to find. Having said that, this is my 2nd time buying it by the case from Walmart. The first was great-arrived in perfect condition. But, this time so damaged it leaked on my floor and caused big problems. I have to return it to the store today-so disappointed.",
+        "reviewTitle": "Great product-crushed in delivery.",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Claudia",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "300153947",
+        "rating": 2,
+        "reviewSubmissionTime": "2/9/2023",
+        "reviewText": "A bit too much vanilla. Tasted funky.",
+        "reviewTitle": "Clear vanilla taste",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Simon",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "299762996",
+        "rating": 1,
+        "reviewSubmissionTime": "2/3/2023",
+        "reviewText": "This is what shipped. The new version doesn't froth for coffee.",
+        "reviewTitle": "New version inferior",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Garrett",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "297720957",
+        "rating": 1,
+        "reviewSubmissionTime": "1/5/2023",
+        "reviewText": "BAD BATCH! expires 2023. purchased dec 2022. I have been drinking soy milk for 20 years; this tastes like PLASTIC. 3 sips. I am now sick to my stomach.",
+        "reviewTitle": "dont buy this anymore",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": null,
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 31,
+    "ratingValueFourCount": 5,
+    "ratingValueOneCount": 7,
+    "ratingValueThreeCount": 3,
+    "ratingValueTwoCount": 1,
+    "roundedAverageOverallRating": 4.1,
+    "topNegativeReview": {
+      "reviewId": "299762996",
+      "rating": 1,
+      "reviewSubmissionTime": "2/3/2023",
+      "userNickname": "Garrett",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "This is what shipped. The new version doesn't froth for coffee.",
+      "reviewTitle": "New version inferior",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "clientResponses": null,
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "media": null
+    },
+    "topPositiveReview": {
+      "reviewId": "309719024",
+      "rating": 5,
+      "reviewSubmissionTime": "6/29/2023",
+      "userNickname": "SCRN",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "This is pure soy milk without any of the other added stuff. I make yogurt with it and it turns out fabulous!",
+      "reviewTitle": "Great Soy Milk",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "clientResponses": null,
+      "media": null
+    },
+    "topProductMedia": null,
+    "totalMediaCount": 3,
+    "totalReviewCount": 47
+  }
+}]

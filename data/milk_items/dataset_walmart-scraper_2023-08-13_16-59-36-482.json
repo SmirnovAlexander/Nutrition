@@ -1,0 +1,1035 @@
+[{
+  "fulfillmentTypeClassification": null,
+  "blitzItem": null,
+  "giftingEligibility": false,
+  "shipAsIs": false,
+  "subscription": {
+    "showSubscriptionModule": false,
+    "subscriptionEligible": false,
+    "subscriptionTransactable": false,
+    "subscriptionSubmessage": "NONE"
+  },
+  "subscriptionEligible": false,
+  "showSubscriptionModule": false,
+  "buyBoxSuppression": false,
+  "discounts": null,
+  "rewards": null,
+  "promoDiscount": null,
+  "showFulfillmentLink": false,
+  "additionalOfferCount": null,
+  "legalRestriction": false,
+  "shippingRestriction": false,
+  "availabilityStatus": "IN_STOCK",
+  "averageRating": 4.4,
+  "associatedBundleId": null,
+  "suppressReviews": false,
+  "brand": "Horizon",
+  "brandUrl": "/c/brand/horizon",
+  "badges": {
+    "flags": null,
+    "labels": null,
+    "tags": [],
+    "groups": []
+  },
+  "rhPath": "40000:42000:42001:42101:42211",
+  "aaiaBrandId": null,
+  "manufacturerProductId": "742365264979",
+  "productTypeId": "241",
+  "tireSize": null,
+  "tireLoadIndex": null,
+  "tireSpeedRating": null,
+  "viscosity": null,
+  "model": "26497",
+  "buyNowEligible": false,
+  "petRxEligible": null,
+  "petRx": {
+    "eligible": false,
+    "singleDispense": null
+  },
+  "vision": {
+    "visionCenterApproved": false,
+    "ageGroup": null
+  },
+  "earlyAccessEvent": false,
+  "isEarlyAccessItem": false,
+  "annualEvent": false,
+  "eventAttributes": {
+    "priceFlip": false,
+    "specialBuy": false
+  },
+  "isWplusMember": false,
+  "showBuyWithWplus": false,
+  "preOrder": {
+    "isPreOrder": false
+  },
+  "ozarkAttributes": {
+    "shippingPromise": null,
+    "exactAddress": false
+  },
+  "canonicalUrl": "/ip/Horizon-Organic-Whole-DHA-Omega-3-Milk-Half-Gallon/19857008",
+  "catalogSellerId": 0,
+  "sellerReviewCount": null,
+  "sellerAverageRating": null,
+  "category": {
+    "categoryPathId": "0:976759:9176907:4405816:3153553",
+    "path": [
+      {
+        "name": "Food",
+        "url": "/cp/food/976759"
+      },
+      {
+        "name": "Dairy & Eggs",
+        "url": "/cp/dairy-eggs/9176907"
+      },
+      {
+        "name": "Milk",
+        "url": "/cp/milk/4405816"
+      },
+      {
+        "name": "Organic Milk",
+        "url": "/cp/organic-milk/3153553"
+      }
+    ]
+  },
+  "classType": "REGULAR",
+  "classId": "58",
+  "fulfillmentTitle": "title_store_delivery_curbside_pickup",
+  "shortDescription": "<p>Treat your family to the goodness of Horizon Organic Whole Milk with DHA Omega-3. Rich, delicious taste isn’t the only thing that makes this milk special: it’s also wonderfully wholesome and made to meet the highest USDA Organic standards. Plus, each serving of this whole milk features 32mg of DHA Omega-3—a valuable nutrient that may help support brain and eye health—along with vitamin D, vitamin A, and protein.More than 20 years ago, we became the first company to supply organic milk nationwide—and we’ve remained committed to the organic movement ever since. Our USDA Certified Organic products are made with non-GMO ingredients, from cows that are given no antibiotics, no persistent pesticides, and no added hormones.* We strive to do good by our cows, too: they spend much of their time out in the pasture where they feel most at home, and graze on a diet that includes organic grass. It’s all part of our commitment to making better choices for ourselves, our cows, and our planet. *No significant difference has been shown between milk from rbST-treated & non rbST-treated cows.<p><b>Horizon Organic Whole DHA Omega-3 Milk, Half Gallon:</b>",
+  "fulfillmentType": "STORE",
+  "fulfillmentBadge": "Today",
+  "checkStoreAvailabilityATC": false,
+  "checkAvailabilityGlobalDFS": false,
+  "fulfillmentLabel": [
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Pickup, today at Sacramento Supercenter",
+      "shippingText": "Pickup",
+      "fulfillmentText": "today",
+      "locationText": "Sacramento Supercenter",
+      "fulfillmentMethod": "PICKUP",
+      "addressEligibility": false,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    },
+    {
+      "checkStoreAvailability": null,
+      "wPlusFulfillmentText": null,
+      "message": "Delivery from store",
+      "shippingText": "Delivery from store",
+      "fulfillmentText": null,
+      "locationText": null,
+      "fulfillmentMethod": "DELIVERY",
+      "addressEligibility": true,
+      "fulfillmentType": "STORE",
+      "postalCode": null
+    }
+  ],
+  "fulfillmentOptions": [
+    {
+      "__typename": "ShippingOptionV2",
+      "type": "SHIPPING",
+      "selected": false,
+      "intent": true,
+      "availableQuantity": null,
+      "maxOrderQuantity": null,
+      "orderLimit": null,
+      "speedDetails": null,
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "NOT_AVAILABLE",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "restricted": null
+    },
+    {
+      "__typename": "PickupOptionV2",
+      "type": "PICKUP",
+      "selected": true,
+      "intent": false,
+      "availableQuantity": 9999,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": null,
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento Supercenter",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE",
+      "inventoryStatus": null,
+      "productLocation": [
+        {
+          "displayValue": "A29"
+        }
+      ],
+      "storeName": null,
+      "checkStoreAvailability": false
+    },
+    {
+      "__typename": "DeliveryOptionV2",
+      "type": "DELIVERY",
+      "selected": false,
+      "intent": false,
+      "availableQuantity": 9999,
+      "maxOrderQuantity": 12,
+      "orderLimit": 12,
+      "speedDetails": {
+        "fulfillmentBadge": "Today",
+        "deliveryDate": null,
+        "fulfillmentPrice": {
+          "price": 7.95,
+          "priceString": "$7.95+"
+        },
+        "freeFulfillment": false,
+        "wPlusEligible": false
+      },
+      "locationText": "Sacramento, 95829",
+      "availabilityStatus": "IN_STOCK",
+      "subscriptionSubmessage": "NONE"
+    }
+  ],
+  "hasSellerBadge": null,
+  "hasCarePlans": false,
+  "hasHomeServices": null,
+  "itemType": null,
+  "id": "5HR56M5FQBIB",
+  "primaryUsItemId": null,
+  "conditionType": "New",
+  "imageInfo": {
+    "allImages": [
+      {
+        "id": "4BA02BCB27BC4F7E88C256733EC3D5FC",
+        "url": "https://i5.walmartimages.com/seo/Horizon-Organic-Whole-DHA-Omega-3-Milk-Half-Gallon_78a46e37-ea63-4a8d-a4df-e4bea3768d4f.e3f99e2cef690351c5893eed43c839b6.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "12E75CF9E9A84114A54EA8CC0B0A3263",
+        "url": "https://i5.walmartimages.com/asr/56f1c458-07e5-43de-a915-e243ed518a3c.1483487ff6155e3b66c99473914246d8.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "6AB7765B48294E48AC4989FB625A54D1",
+        "url": "https://i5.walmartimages.com/asr/cc0deeba-1cd7-4a86-9ae7-8b5b4a098e41.0dd657fa9bffbcc1161452c41b2284e2.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "97EAE01E0934486C9A01E3C82E6C700C",
+        "url": "https://i5.walmartimages.com/asr/f5b28c59-0ebe-4432-85d5-ed6391f7a2ad.a112ad8b8003869170cf363eda494e68.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "A180CC7A58F642FDBD5A32ADA22682D0",
+        "url": "https://i5.walmartimages.com/asr/36ad6abd-84cc-4ceb-9a9f-fc42398b3ab9.29d9c02ed7c0d353ec0879f9aedd8aef.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "6B0972974A384814AEA5C4E19D9E32E7",
+        "url": "https://i5.walmartimages.com/asr/4625a0be-b509-4ca3-8f20-bd3684318420.dff5ec93fa35c6aff7a7e00af7c1fc73.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "4317715563FE4D8EA41365E1B23853E3",
+        "url": "https://i5.walmartimages.com/asr/611a1a6a-ff92-4bf9-bd7a-4ae627bdc626.b1d050c439f4f57791f751b10108c42f.jpeg",
+        "zoomable": true
+      },
+      {
+        "id": "F1D31391012B4DE5A498B504F2A13678",
+        "url": "https://i5.walmartimages.com/asr/3aebe3a8-af62-4451-9a9f-75601b44ba6b.29c6aee30aeaf985e3cf433a5b9e72bf.jpeg",
+        "zoomable": true
+      }
+    ],
+    "thumbnailUrl": "https://i5.walmartimages.com/seo/Horizon-Organic-Whole-DHA-Omega-3-Milk-Half-Gallon_78a46e37-ea63-4a8d-a4df-e4bea3768d4f.e3f99e2cef690351c5893eed43c839b6.jpeg"
+  },
+  "location": {
+    "postalCode": "95829",
+    "stateOrProvinceCode": "CA",
+    "city": "Sacramento",
+    "storeIds": [
+      "3081"
+    ],
+    "addressId": null,
+    "intent": "SHIPPING",
+    "mpPickupLocation": null,
+    "pickupLocation": {
+      "storeId": "3081",
+      "accessPointId": null,
+      "accessType": null
+    }
+  },
+  "name": "Horizon Organic Whole DHA Omega-3 Milk, Half Gallon",
+  "personalizable": false,
+  "externalInfo": null,
+  "numberOfReviews": 144,
+  "orderMinLimit": 1,
+  "orderLimit": 12,
+  "weightIncrement": 1,
+  "offerId": "C6BFD62BEF254741A352C8EEA4E865BD",
+  "offerType": "STORE_ONLY",
+  "priceInfo": {
+    "priceDisplayCodes": {
+      "clearance": null,
+      "eligibleForAssociateDiscount": null,
+      "finalCostByWeight": null,
+      "priceDisplayCondition": null,
+      "reducedPrice": null,
+      "rollback": null,
+      "submapType": null
+    },
+    "currentPrice": {
+      "price": 5.58,
+      "priceString": "$5.58",
+      "variantPriceString": "$5.58",
+      "currencyUnit": "USD",
+      "bestValue": null,
+      "priceDisplay": "$5.58"
+    },
+    "wasPrice": null,
+    "comparisonPrice": null,
+    "unitPrice": {
+      "price": 0.087,
+      "priceString": "8.7 ¢/fl oz",
+      "variantPriceString": null,
+      "currencyUnit": "USD",
+      "bestValue": null
+    },
+    "savings": null,
+    "savingsAmount": null,
+    "shipPrice": null,
+    "isPriceReduced": false,
+    "priceReducedDisplay": null,
+    "subscriptionPrice": null,
+    "priceRange": {
+      "minPrice": null,
+      "maxPrice": null,
+      "priceString": null,
+      "currencyUnit": null,
+      "denominations": null
+    },
+    "listPrice": null,
+    "capType": null,
+    "walmartFundedAmount": null,
+    "wPlusEarlyAccessPrice": null
+  },
+  "returnPolicy": {
+    "returnable": null,
+    "freeReturns": null,
+    "returnWindow": {
+      "value": null,
+      "unitType": "Day"
+    },
+    "returnPolicyText": null,
+    "returnPolicyCondition": null
+  },
+  "fsaEligibleInd": false,
+  "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
+  "sellerName": "Walmart.com",
+  "sellerDisplayName": "Walmart.com",
+  "secondaryOfferPrice": {
+    "currentPrice": null
+  },
+  "semStoreData": null,
+  "shippingOption": {
+    "availabilityStatus": "AVAILABLE",
+    "slaTier": "SAME_DAY",
+    "deliveryDate": null,
+    "maxDeliveryDate": null,
+    "shipMethod": null,
+    "shipPrice": null,
+    "internationalShipping": null
+  },
+  "type": "Milks",
+  "pickupOption": {
+    "slaTier": "SAME_DAY",
+    "accessTypes": [
+      "PICKUP_CURBSIDE"
+    ],
+    "availabilityStatus": "AVAILABLE",
+    "storeName": null,
+    "storeId": null
+  },
+  "salesUnit": "EACH",
+  "usItemId": "19857008",
+  "maxRewardAmongAllVariants": null,
+  "variantCriteria": [],
+  "variants": [],
+  "groupMetaData": null,
+  "upc": "742365264979",
+  "wfsEnabled": false,
+  "wfsProviderName": null,
+  "sellerType": "INTERNAL",
+  "ironbankCategory": "Food & Beverage",
+  "snapEligible": true,
+  "promoData": [],
+  "showAddOnServices": true,
+  "addOnServices": null,
+  "productLocation": [
+    {
+      "displayValue": "A29"
+    }
+  ],
+  "zeekitData": null,
+  "experienceType": null,
+  "redirect": {
+    "replacedByItemId": "",
+    "replacedByProductId": "",
+    "replacedByProductUrlText": ""
+  },
+  "langUrls": null,
+  "pac": null,
+  "selectedVariantIds": [],
+  "variantProductIdMap": {},
+  "imageMap": {},
+  "variantsMap": {},
+  "idml": {
+    "arExperience": null,
+    "sizeCharts": null,
+    "chokingHazards": null,
+    "productHighlights": null,
+    "directions": [
+      {
+        "name": "Instructions",
+        "value": "Perishable. Keep refrigerated."
+      },
+      {
+        "name": "Safe Handling Instructions",
+        "value": "Keep Refrigerated. Best if opened by the sell-date that's listed on the package. Once opened, consume within 7 days. Perishable."
+      }
+    ],
+    "indications": null,
+    "ingredients": {
+      "activeIngredientName": null,
+      "activeIngredients": null,
+      "inactiveIngredients": null,
+      "ingredients": {
+        "name": "Ingredients",
+        "value": "INGREDIENTS: Grade A Organic Milk; DHA ALGAL OIL*; Vitamin D3. *Ingredient NOT FOUND in regular milk."
+      }
+    },
+    "longDescription": "<ul>  <li>Whole milk with DHA Omega-3</li>  <li>Certified USDA Organic</li>  <li>Non-GMO</li>  <li>32mg DHA Omega-3 per serving</li>  <li>Provides calcium and vitamins A and D</li> </ul>",
+    "shortDescription": "<p>Treat your family to the goodness of Horizon Organic Whole Milk with DHA Omega-3. Rich, delicious taste isn’t the only thing that makes this milk special: it’s also wonderfully wholesome and made to meet the highest USDA Organic standards. Plus, each serving of this whole milk features 32mg of DHA Omega-3—a valuable nutrient that may help support brain and eye health—along with vitamin D, vitamin A, and protein.More than 20 years ago, we became the first company to supply organic milk nationwide—and we’ve remained committed to the organic movement ever since. Our USDA Certified Organic products are made with non-GMO ingredients, from cows that are given no antibiotics, no persistent pesticides, and no added hormones.* We strive to do good by our cows, too: they spend much of their time out in the pasture where they feel most at home, and graze on a diet that includes organic grass. It’s all part of our commitment to making better choices for ourselves, our cows, and our planet. *No significant difference has been shown between milk from rbST-treated &amp; non rbST-treated cows.</p> <p><b>Horizon Organic Whole DHA Omega-3 Milk, Half Gallon:</b></p>",
+    "interactiveProductVideo": null,
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "Horizon"
+      },
+      {
+        "name": "Container Type",
+        "value": "Carton"
+      },
+      {
+        "name": "Flavor",
+        "value": "Unflavored"
+      },
+      {
+        "name": "Food Allergen Statements",
+        "value": "Contains Milk"
+      },
+      {
+        "name": "Assembled Product Dimensions (L x W x H)",
+        "value": "3.81 x 3.81 x 9.25 Inches"
+      }
+    ],
+    "drugGuide": null,
+    "warnings": null,
+    "warranty": null,
+    "esrbRating": null,
+    "mpaaRating": null,
+    "nutritionFacts": {
+      "calorieInfo": {
+        "name": "Calorie Information",
+        "mainNutrient": {
+          "name": "Calories",
+          "amount": "170",
+          "dvp": null,
+          "childNutrients": null
+        },
+        "childNutrients": null
+      },
+      "keyNutrients": {
+        "name": "Key Nutrients",
+        "values": [
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Fat",
+              "amount": "9g",
+              "dvp": "12%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Saturated Fat",
+                "amount": "5g",
+                "dvp": "25%",
+                "childNutrients": null
+              },
+              {
+                "name": "Trans Fat",
+                "amount": "0g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Polyunsaturated Fat",
+                "amount": "0.00g",
+                "dvp": null,
+                "childNutrients": null
+              },
+              {
+                "name": "Monounsaturated Fat",
+                "amount": "2.50g",
+                "dvp": null,
+                "childNutrients": null
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Cholesterol",
+              "amount": "35.00mg",
+              "dvp": "12%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Sodium",
+              "amount": "140mg",
+              "dvp": "6%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Total Carbohydrate",
+              "amount": "13g",
+              "dvp": "5%",
+              "childNutrients": null
+            },
+            "childNutrients": [
+              {
+                "name": "Dietary Fiber",
+                "amount": "0g",
+                "dvp": "0%",
+                "childNutrients": null
+              },
+              {
+                "name": "Sugars",
+                "amount": "11g",
+                "dvp": null,
+                "childNutrients": [
+                  {
+                    "name": "Includes Added Sugars",
+                    "amount": "0g",
+                    "dvp": null,
+                    "childNutrients": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": null,
+            "mainNutrient": {
+              "name": "Protein",
+              "amount": "9g",
+              "dvp": "18%",
+              "childNutrients": null
+            },
+            "childNutrients": null
+          }
+        ]
+      },
+      "vitaminMinerals": {
+        "name": "Vitamins and Minerals",
+        "mainNutrient": null,
+        "childNutrients": [
+          {
+            "name": "Vitamin A",
+            "amount": "100.00M",
+            "dvp": "10%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin C",
+            "amount": null,
+            "dvp": "2%",
+            "childNutrients": null
+          },
+          {
+            "name": "Calcium",
+            "amount": "330.00mg",
+            "dvp": "25%",
+            "childNutrients": null
+          },
+          {
+            "name": "Potassium",
+            "amount": "430mg",
+            "dvp": "10%",
+            "childNutrients": null
+          },
+          {
+            "name": "Iron",
+            "amount": "0.00mg",
+            "dvp": "0%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin D",
+            "amount": "2.50mcg",
+            "dvp": "15%",
+            "childNutrients": null
+          },
+          {
+            "name": "Riboflavin",
+            "amount": "0.50mg",
+            "dvp": "40%",
+            "childNutrients": null
+          },
+          {
+            "name": "Vitamin B12",
+            "amount": "1.30mg",
+            "dvp": "50%",
+            "childNutrients": null
+          },
+          {
+            "name": "Phosphorus",
+            "amount": "250.00mg",
+            "dvp": "20%",
+            "childNutrients": null
+          },
+          {
+            "name": "Magnesium",
+            "amount": null,
+            "dvp": "6%",
+            "childNutrients": null
+          }
+        ]
+      },
+      "servingInfo": {
+        "name": "Serving Information",
+        "values": [
+          {
+            "name": "Servings Per Container",
+            "value": "8.0",
+            "attribute": null,
+            "values": null
+          },
+          {
+            "name": "Serving Size",
+            "value": "240 Millilitres",
+            "attribute": null,
+            "values": null
+          }
+        ]
+      },
+      "additionalDisclaimer": {
+        "name": "Additional Disclaimer",
+        "value": "Refer to the product label for full dietary information, which may be available as an alternative product image.",
+        "attribute": null,
+        "values": null
+      },
+      "staticContent": {
+        "name": "General Facts",
+        "value": "<p>* The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet. </p><hr color=black size=1><p>Calories per gram:</p><p>Fat 9 &#8226; Carbohydrate 4 &#8226; Protein 4  </p><hr color=black size=1>",
+        "attribute": null,
+        "values": null
+      }
+    },
+    "videos": null,
+    "product360ImageContainer": null,
+    "hasMarketingDescription": true
+  },
+  "reviews": {
+    "averageOverallRating": 4.3542,
+    "aspects": [
+      {
+        "id": "56",
+        "name": "Taste",
+        "score": 95,
+        "snippetCount": 41
+      },
+      {
+        "id": "407",
+        "name": "For Kids",
+        "score": 100,
+        "snippetCount": 4
+      },
+      {
+        "id": "516",
+        "name": "Smoothness",
+        "score": 100,
+        "snippetCount": 3
+      },
+      {
+        "id": "48",
+        "name": "Price",
+        "score": 100,
+        "snippetCount": 3
+      },
+      {
+        "id": "1252",
+        "name": "For Families",
+        "score": 100,
+        "snippetCount": 3
+      }
+    ],
+    "lookupId": "5HR56M5FQBIB",
+    "customerReviews": [
+      {
+        "reviewId": "299379935",
+        "rating": 5,
+        "reviewSubmissionTime": "1/27/2023",
+        "reviewText": "This milk is fresh, sweet and creamy.",
+        "reviewTitle": "Horizons Milk",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Phyllis",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [
+          {
+            "date": null,
+            "department": null,
+            "logoImage": "https://s3.amazonaws.com/stratos-logos/logos/Horizon.jpeg",
+            "name": null,
+            "response": "\nWe're glad to hear that you're loving it! - Chris at Horizon\n    "
+          }
+        ],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "130511358",
+        "rating": 5,
+        "reviewSubmissionTime": "7/11/2019",
+        "reviewText": "This milk tastes great! It's nice to know what's going into your body. A safe organic great tasting milk. [This review was collected as part of a promotion.]",
+        "reviewTitle": "Great milk!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Valerie",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": {
+          "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Ahorizondairypwr.png",
+          "contentLink": null,
+          "name": "horizon.com"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "88877803",
+        "rating": 5,
+        "reviewSubmissionTime": "5/23/2016",
+        "reviewText": "I buy this milk for my toddler because I want him to have organic milk free from hormones and whatever else is out there.  I have tasted it myself and it is very smooth and good.  I love that it has added DHA and omega 3 which is so important for growing children!",
+        "reviewTitle": "Smooth & yummy!",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "cadams",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "248461274",
+        "rating": 5,
+        "reviewSubmissionTime": "12/29/2020",
+        "reviewText": "Wow. My daughter does not want regular milk anymore. This milk tastes like heaven. It lasts longer than the norm granted it's gone way before the expiration date.",
+        "reviewTitle": "Great tasting",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "valerie",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": null,
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "130511357",
+        "rating": 4,
+        "reviewSubmissionTime": "7/12/2019",
+        "reviewText": "Eat the milk with cereal. First time in a long time I didn't gas and upset stomach. I ate two bowls... [This review was collected as part of a promotion.]",
+        "reviewTitle": "Best Milk In A long Time",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Picky Kim",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": {
+          "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Ahorizondairypwr.png",
+          "contentLink": null,
+          "name": "horizon.com"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "263808113",
+        "rating": 4,
+        "reviewSubmissionTime": "12/8/2022",
+        "reviewText": "I'm a big fan of the health benefits of DHA. Horizon delivers quality taste AND that vital nutrient. This is an expensive indulgence, but one that I'm happy to make.",
+        "reviewTitle": "Pricey Goodness",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "BeePa",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": null,
+        "syndicationSource": {
+          "logoImageUrl": null,
+          "contentLink": null,
+          "name": "Danone US, LLC"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "283196670",
+        "rating": 1,
+        "reviewSubmissionTime": "7/24/2022",
+        "reviewText": "Make sure the expiration date of the products\nThe milk I received was expired 7/21/22",
+        "reviewTitle": "Disappointed",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Meca",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [
+          {
+            "date": null,
+            "department": null,
+            "logoImage": "https://s3.amazonaws.com/stratos-logos/logos/Horizon.jpeg",
+            "name": null,
+            "response": "\nWe are sorry to hear about your recent issue with our Horizon Organic Whole DHA Omega-3 Milk. We recommend reaching out to Walmart about this issue. - Chris at Horizon\n    "
+          }
+        ],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "306542809",
+        "rating": 1,
+        "reviewSubmissionTime": "5/18/2023",
+        "reviewText": "Love whole milk, but the DHA and Omega 3 addition gives this milk a fishy flavor, especially when heated up (like in coffee).",
+        "reviewTitle": "OMEGA 3 DHA milk tastes FISHY",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "v",
+        "media": null,
+        "photos": null,
+        "badges": [
+          {
+            "badgeType": "Custom",
+            "id": "VerifiedPurchaser",
+            "contentType": "REVIEW",
+            "glassBadge": {
+              "id": "VerifiedPurchaser",
+              "text": "Verified Purchaser"
+            }
+          }
+        ],
+        "clientResponses": [
+          {
+            "date": null,
+            "department": "Horizon Customer Service",
+            "logoImage": "https://s3.amazonaws.com/stratos-logos/logos/Horizon.jpeg",
+            "name": null,
+            "response": "\nOh no! That's definitely not the experience we want you to have. Please reach out to our team here: https://horizon.com/contact-us/ so we can make this right. - Angie at Horizon\n    "
+          }
+        ],
+        "syndicationSource": null,
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "107749645",
+        "rating": 1,
+        "reviewSubmissionTime": "11/3/2017",
+        "reviewText": "To my shock the milkskin is like plastic that is flammable. I tried to chew it and also kept it to fire. Being the doctors' suggested brand, i have been using it for my toddler which eventually turning out to be more dangerous. I couldn't share the video as i haven't uploaded in youtube yet ( fr the url)",
+        "reviewTitle": "Plastic milkskin",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Siri",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": [
+          {
+            "date": null,
+            "department": "horizondairypwr",
+            "logoImage": null,
+            "name": "horizondairypwr",
+            "response": "Hi Siri, thank you so much for reaching out about this issue. We are so sorry to hear about your experience with our DHA Organic Milk. We understand how disappointing this is, and we would like to make this right. We are not fully understanding this issue, could you please give us a call at (855) 723-5439 so we can learn more about this situation."
+          }
+        ],
+        "syndicationSource": {
+          "logoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/walmart%3Ahorizondairypwr.png",
+          "contentLink": null,
+          "name": "horizon.com"
+        },
+        "snippetFromTitle": null
+      },
+      {
+        "reviewId": "266800743",
+        "rating": 1,
+        "reviewSubmissionTime": "2/20/2023",
+        "reviewText": "Bought this milk to make yogurt.  Wrong.  Apparently those good yogurt strains of organisms are totally turned off by fish oil.  Didn't notice the milk had this stuff in it. Made a batch of yogurt and it never set up.  Really. I avoid fish oil supplements; better to eat fresh fish.  Who thought of putting fish in milk?  Yikes!",
+        "reviewTitle": "Well I Was Clueless",
+        "negativeFeedback": 0,
+        "positiveFeedback": 0,
+        "userNickname": "Sherry48",
+        "media": null,
+        "photos": null,
+        "badges": null,
+        "clientResponses": [
+          {
+            "date": null,
+            "department": "Social Media",
+            "logoImage": null,
+            "name": "Chris ",
+            "response": "Sorry to hear that we missed the mark on this one for you. We'll be sure to pass along your comments to our team. "
+          }
+        ],
+        "syndicationSource": {
+          "logoImageUrl": null,
+          "contentLink": null,
+          "name": "Danone US, LLC"
+        },
+        "snippetFromTitle": null
+      }
+    ],
+    "ratingValueFiveCount": 108,
+    "ratingValueFourCount": 11,
+    "ratingValueOneCount": 15,
+    "ratingValueThreeCount": 8,
+    "ratingValueTwoCount": 2,
+    "roundedAverageOverallRating": 4.4,
+    "topNegativeReview": {
+      "reviewId": "283196670",
+      "rating": 1,
+      "reviewSubmissionTime": "7/24/2022",
+      "userNickname": "Meca",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "Make sure the expiration date of the products\nThe milk I received was expired 7/21/22",
+      "reviewTitle": "Disappointed",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "clientResponses": [
+        {
+          "date": null,
+          "department": null,
+          "logoImage": "https://s3.amazonaws.com/stratos-logos/logos/Horizon.jpeg",
+          "name": null,
+          "response": "\nWe are sorry to hear about your recent issue with our Horizon Organic Whole DHA Omega-3 Milk. We recommend reaching out to Walmart about this issue. - Chris at Horizon\n    "
+        }
+      ],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "media": null
+    },
+    "topPositiveReview": {
+      "reviewId": "299379935",
+      "rating": 5,
+      "reviewSubmissionTime": "1/27/2023",
+      "userNickname": "Phyllis",
+      "negativeFeedback": 0,
+      "positiveFeedback": 0,
+      "reviewText": "This milk is fresh, sweet and creamy.",
+      "reviewTitle": "Horizons Milk",
+      "badges": [
+        {
+          "badgeType": "Custom",
+          "id": "VerifiedPurchaser",
+          "contentType": "REVIEW",
+          "glassBadge": {
+            "id": "VerifiedPurchaser",
+            "text": "Verified Purchaser"
+          }
+        }
+      ],
+      "syndicationSource": null,
+      "snippetFromTitle": null,
+      "clientResponses": [
+        {
+          "date": null,
+          "department": null,
+          "logoImage": "https://s3.amazonaws.com/stratos-logos/logos/Horizon.jpeg",
+          "name": null,
+          "response": "\nWe're glad to hear that you're loving it! - Chris at Horizon\n    "
+        }
+      ],
+      "media": null
+    },
+    "topProductMedia": null,
+    "totalMediaCount": 4,
+    "totalReviewCount": 144
+  }
+}]
